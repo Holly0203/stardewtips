@@ -1,0 +1,36 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import PostCard from '../../components/PostCard.astro';
+import { CATEGORIES } from '../../utils/categories';
+
+export function getStaticPaths() {
+  return CATEGORIES.map((c) => ({ params: { category: c.slug }, props: c }));
+}
+
+const { name, slug, blurb } = Astro.props;
+const guides = (await getCollection('guides', ({ data }) => !data.draft))
+  .filter((g) => g.data.category.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') === slug)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const canonicalURL = new URL(`/categories/${slug}/`, Astro.site);
+const description =
+  blurb && `${name} guides for Stardew Valley — ${blurb.toLowerCase()}`;
+---
+
+<Base
+  title={`${name} Guides`}
+  description={description}
+  canonicalURL={canonicalURL}
+>
+	<section class="hero container">
+		<h1>{name} Guides</h1>
+		<p class="lede">{blurb}</p>
+	</section>
+
+	<section class="section container">
+		<div class="card-grid">
+			{guides.map((guide) => <PostCard guide={guide} />)}
+		</div>
+	</section>
+</Base>

@@ -6,6 +6,8 @@ interface Props {
   description?: string;
   type?: string;
   canonicalURL?: string;
+  ogImage?: string;
+  structuredData?: object;
 }
 
 const {
@@ -13,11 +15,23 @@ const {
   description = 'In-depth Stardew Valley guides, tips, and walkthroughs to help you build the farm of your dreams.',
   type = 'website',
   canonicalURL,
+  ogImage,
+  structuredData,
 } = Astro.props;
 
 const siteName = 'Stardew Tips';
-const fullTitle = title === siteName ? title : `${title} | ${siteName}`;
+const fullTitle = title.includes(siteName) ? title : `${title} | ${siteName}`;
 const url = canonicalURL ?? Astro.url;
+const ogImageUrl = ogImage ? new URL(ogImage, Astro.site) : new URL('/og.png', Astro.site);
+const currentPath = Astro.url.pathname;
+
+const categories = [
+  { name: 'Getting Started', slug: 'getting-started' },
+  { name: 'Farming', slug: 'farming' },
+  { name: 'Fishing', slug: 'fishing' },
+  { name: 'Mining', slug: 'mining' },
+  { name: 'Community', slug: 'community' },
+];
 ---
 
 <!doctype html>
@@ -26,7 +40,6 @@ const url = canonicalURL ?? Astro.url;
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
 		<title>{fullTitle}</title>
 		<meta name="description" content={description} />
 		<link rel="canonical" href={url} />
@@ -36,18 +49,35 @@ const url = canonicalURL ?? Astro.url;
 		<meta property="og:type" content={type} />
 		<meta property="og:url" content={url} />
 		<meta property="og:site_name" content={siteName} />
+		<meta property="og:image" content={ogImageUrl} />
 		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content={fullTitle} />
+		<meta name="twitter:description" content={description} />
+		<meta name="twitter:image" content={ogImageUrl} />
 		<link rel="sitemap" href="/sitemap-index.xml" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,600;0,700;1,400&family=Pixelify+Sans:wght@400..700&display=swap"
+			rel="stylesheet"
+		/>
+		{structuredData && (
+			<script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+		)}
 		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5982979765306851" crossorigin="anonymous"></script>
 	</head>
 	<body>
 		<header class="site-header">
 			<div class="inner">
-				<a class="logo" href="/">Stardew<span class="accent">Tips</span></a>
+				<a class="logo" href="/">
+					<img src="/favicon.svg" alt="" width="28" height="28" />
+					<span>Stardew<span class="accent">Tips</span></span>
+				</a>
 				<nav class="nav">
-					<a href="/">Guides</a>
-					<a href="/about/">About</a>
-					<a href="/contact/">Contact</a>
+					<a href="/" class={currentPath === '/' ? 'active' : ''}>Tip Galaxy</a>
+					<a href="/guides/" class={currentPath.startsWith('/guides') || currentPath.startsWith('/categories') ? 'active' : ''}>Guides</a>
+					<a href="/about/" class={currentPath === '/about/' ? 'active' : ''}>About</a>
+					<a href="/contact/" class={currentPath === '/contact/' ? 'active' : ''}>Contact</a>
 				</nav>
 			</div>
 		</header>
@@ -56,12 +86,37 @@ const url = canonicalURL ?? Astro.url;
 		</main>
 		<footer class="site-footer">
 			<div class="inner">
-				<span>© {new Date().getFullYear()} Stardew Tips. Not affiliated with ConcernedApe.</span>
-				<nav class="nav">
-					<a href="/about/">About</a>
-					<a href="/privacy/">Privacy Policy</a>
-					<a href="/contact/">Contact</a>
-				</nav>
+				<div>
+					<div class="foot-brand">Stardew Tips</div>
+					<p class="foot-note">
+						Fan-made, independent guides for Stardew Valley — written to be
+						clear, accurate, and up to date so you can spend more time on the
+						farm and less time searching.
+					</p>
+				</div>
+				<div>
+					<h4>Guide Categories</h4>
+					<ul>
+						{categories.map((c) => (
+							<li><a href={`/categories/${c.slug}/`}>{c.name}</a></li>
+						))}
+					</ul>
+				</div>
+				<div>
+					<h4>Site</h4>
+					<ul>
+						<li><a href="/">Home</a></li>
+						<li><a href="/guides/">All Guides</a></li>
+						<li><a href="/">Tip Galaxy</a></li>
+						<li><a href="/about/">About</a></li>
+						<li><a href="/contact/">Contact</a></li>
+						<li><a href="/privacy/">Privacy Policy</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="foot-bottom">
+				<span>© {new Date().getFullYear()} Stardew Tips. All guides are original content.</span>
+				<span>Not affiliated with or endorsed by ConcernedApe.</span>
 			</div>
 		</footer>
 	</body>

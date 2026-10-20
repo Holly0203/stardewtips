@@ -1,44 +1,383 @@
 ---
-import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
+import { TIPS, TIP_CATEGORIES } from '../data/tips';
+import type { TipCategory } from '../data/tips';
 
-const guides = (await getCollection('guides', ({ data }) => !data.draft)).sort(
-  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
-);
+const tipsData = TIPS.map((t) => ({
+  ...t,
+  icon: t.icon ? '/images/items/' + t.icon : null,
+}));
+
+const catList = (Object.keys(TIP_CATEGORIES) as TipCategory[]).map((key) => ({
+  key,
+  label: TIP_CATEGORIES[key].label,
+  icon: TIP_CATEGORIES[key].icon,
+  color: TIP_CATEGORIES[key].color,
+  count: TIPS.filter((t) => t.cat === key).length,
+}));
+
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: `${TIPS.length} Stardew Valley Tips`,
+  description:
+    `A growing galaxy of ${TIPS.length} quick Stardew Valley tips, sorted by community heat, verified against Stardew Valley 1.6.`,
+  numberOfItems: TIPS.length,
+  itemListElement: TIPS.map((t, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: t.text,
+  })),
+};
 ---
 
-<Base title="Stardew Tips">
-	<section class="hero container">
-		<h1>Stardew Valley Guides &amp; Walkthroughs</h1>
-		<p>
-			In-depth tips and step-by-step guides to help you farm smarter, fish
-			better, and master every season in Stardew Valley.
-		</p>
-	</section>
+<Base
+  title="Stardew Tips: The Tip Galaxy — Quick Stardew Valley Tips"
+  description="Quick Stardew Valley tips orbiting a star map — sorted by heat, filterable by category, searchable. Hover a star to read a tip and boost its heat."
+  structuredData={structuredData}
+>
+	<div class="container tips-page">
+		<h1 class="sr-only">Stardew Tips — {tipsData.length} Quick Stardew Valley Tips</h1>
 
-	<section class="container post-list">
-		{
-			guides.length === 0 && (
-				<p>No guides published yet — check back soon.</p>
-			)
-		}
-		{
-			guides.map((guide) => (
-				<a class="post-card" href={`/guides/${guide.id}/`}>
-					<h2>{guide.data.title}</h2>
-					<p class="desc">{guide.data.description}</p>
-					<div class="meta">
-						<span>
-							{guide.data.pubDate.toLocaleDateString('en-US', {
-								year: 'numeric',
-								month: 'long',
-								day: 'numeric',
-							})}
-						</span>
-						{guide.data.tags.map((tag) => <span class="tag">{tag}</span>)}
-					</div>
-				</a>
-			))
-		}
-	</section>
+		<div class="tip-search-row">
+			<input
+				type="search"
+				id="tip-search"
+				class="tip-search"
+				placeholder="Search tips — try sprinkler, bait, truffle…"
+				aria-label="Search tips"
+			/>
+		</div>
+
+		<div class="chips" id="tip-chips" role="group" aria-label="Filter tips by category">
+			<button class="chip active" data-cat="all" type="button">
+				<span class="chip-dot" style="background:#8b5e34"></span>
+				All <span class="chip-count">{tipsData.length}</span>
+			</button>
+			{catList.map((c) => (
+				<button class="chip" data-cat={c.key} type="button">
+					<img src={c.icon} alt="" width="16" height="16" class="chip-icon" />
+					{c.label} <span class="chip-count">{c.count}</span>
+				</button>
+			))}
+		</div>
+
+		<div class="tip-orb-wrap">
+			<canvas id="tip-orb" width="640" height="640" aria-label="Tip galaxy: interactive sphere of tips"></canvas>
+			<div class="tip-tooltip" id="tip-tooltip" role="status" hidden>
+				<span class="tt-cat" id="tt-cat"></span>
+				<p class="tt-text" id="tt-text"></p>
+			</div>
+		</div>
+	</div>
+
+	<script define:vars={{ tips: tipsData, cats: TIP_CATEGORIES }}>
+		(() => {
+			const canvas = document.getElementById('tip-orb');
+			const ctx = canvas.getContext('2d');
+			const tooltip = document.getElementById('tip-tooltip');
+			const ttCat = document.getElementById('tt-cat');
+			const ttText = document.getElementById('tt-text');
+			const searchInput = document.getElementById('tip-search');
+
+			const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+			// ---- heat (popularity): deterministic seed + clicks saved in localStorage ----
+			let clicks = {};
+			try { clicks = JSON.parse(localStorage.getItem('tip-heat') || '{}'); } catch (e) { clicks = {}; }
+			const baseHeat = (id) => ((id * 7919 + 13) % 47) + 3;
+			const heatOf = (t) => baseHeat(t.id) + (clicks[t.id] || 0);
+
+			function bumpHeat(id) {
+				clicks[id] = (clicks[id] || 0) + 1;
+				try { localStorage.setItem('tip-heat', JSON.stringify(clicks)); } catch (e) {}
+			}
+
+			const state = { cat: 'all', q: '' };
+			let sphere = [];
+			let rot = 0;
+			let hover = null;
+			let hoverFreeze = null;
+			let size = 640, dpr = 1;
+			let drawn = [];
+
+			// ---- icon cache ----
+			const imgCache = new Map();
+			function getImg(src) {
+				if (!src) return null;
+				let im = imgCache.get(src);
+				if (!im) {
+					im = new Image();
+					im.src = src;
+					imgCache.set(src, im);
+				}
+				return im.complete && im.naturalWidth ? im : null;
+			}
+			tips.forEach((t) => getImg(t.icon ?? cats[t.cat].icon));
+
+			// ---- seeded random so a page always gets the same scatter ----
+			function mulberry32(seed) {
+				return function () {
+					seed |= 0; seed = (seed + 0x6d2b79f5) | 0;
+					let t = Math.imul(seed ^ (seed >>> 15), 1 | seed);
+					t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+					return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+				};
+			}
+
+			// ---- random-but-even scatter on the sphere ----
+			// random points, then relaxation pushes apart any pair closer
+			// than the min distance — clumps break up, gaps fill in.
+			function scatter(list, seed) {
+				const rand = mulberry32(seed);
+				const n = list.length;
+				const pts = [];
+				for (let i = 0; i < n; i++) {
+					let x, y, z, len2;
+					do {
+						x = rand() * 2 - 1; y = rand() * 2 - 1; z = rand() * 2 - 1;
+						len2 = x * x + y * y + z * z;
+					} while (len2 > 1 || len2 < 0.05);
+					const inv = 1 / Math.sqrt(len2);
+					pts.push({ x: x * inv, y: y * inv, z: z * inv });
+				}
+				if (n > 1) {
+					const minD = Math.sqrt((4 * Math.PI) / n) * 0.62; // chord distance for even spread
+					for (let iter = 0; iter < 90; iter++) {
+						let moved = false;
+						for (let a = 0; a < n; a++) {
+							for (let b = a + 1; b < n; b++) {
+								const pa = pts[a], pb = pts[b];
+								const dx = pa.x - pb.x, dy = pa.y - pb.y, dz = pa.z - pb.z;
+								const d = Math.sqrt(dx * dx + dy * dy + dz * dz);
+								if (d < minD && d > 1e-6) {
+									const push = (minD - d) / d / 2.6;
+									pa.x += dx * push; pa.y += dy * push; pa.z += dz * push;
+									pb.x -= dx * push; pb.y -= dy * push; pb.z -= dz * push;
+									const la = Math.hypot(pa.x, pa.y, pa.z);
+									pa.x /= la; pa.y /= la; pa.z /= la;
+									const lb = Math.hypot(pb.x, pb.y, pb.z);
+									pb.x /= lb; pb.y /= lb; pb.z /= lb;
+									moved = true;
+								}
+							}
+						}
+						if (!moved) break;
+					}
+				}
+				sphere = list.map((tip, i) => ({ tip, ...pts[i] }));
+			}
+
+			function positions() {
+				const tilt = 0.42;
+				const ct = Math.cos(tilt), st = Math.sin(tilt);
+				const cR = Math.cos(rot), sR = Math.sin(rot);
+				const cH = hoverFreeze !== null ? Math.cos(hoverFreeze) : cR;
+				const sH = hoverFreeze !== null ? Math.sin(hoverFreeze) : sR;
+				const R = size * 0.35;
+				return sphere.map((p) => {
+					const pinned = p.tip === hover;
+					const cR2 = pinned ? cH : cR, sR2 = pinned ? sH : sR;
+					const x1 = p.x * cR2 + p.z * sR2;
+					const z1 = -p.x * sR2 + p.z * cR2;
+					const y = p.y * ct - z1 * st;
+					const z = p.y * st + z1 * ct;
+					const depth = (z + 1) / 2;
+					const k = 0.7 + 0.45 * depth;
+					return { tip: p.tip, sx: size / 2 + x1 * R, sy: size / 2 + y * R, depth, k };
+				});
+			}
+
+			function iconRadius() {
+				const n = sphere.length;
+				const base = n <= 10 ? 40 : n <= 24 ? 30 : n <= 50 ? 24 : n <= 80 ? 20 : 16;
+				return base * (size < 520 ? 0.7 : 1);
+			}
+
+			function draw() {
+				ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+				ctx.clearRect(0, 0, size, size);
+				ctx.imageSmoothingEnabled = false;
+
+				const pts = positions().sort(
+					(a, b) => (a.tip === hover ? 1 : 0) - (b.tip === hover ? 1 : 0) || a.depth - b.depth
+				);
+				const rBase = iconRadius();
+				drawn = [];
+				for (const p of pts) {
+					const t = p.tip;
+					const hov = hover && hover.id === t.id;
+					const matched = !state.q || t.text.toLowerCase().includes(state.q);
+					let alpha = 0.4 + 0.6 * p.depth;
+					if (!matched) alpha = 0.1;
+					if (hov) alpha = 1;
+					// hotter tips sit a little bigger
+					const heatBoost = 1 + Math.min(heatOf(t), 90) / 400;
+					const r = rBase * p.k * heatBoost * (hov ? 1.35 : 1);
+
+					ctx.save();
+					ctx.globalAlpha = alpha;
+					if (hov) {
+						ctx.shadowColor = '#e0a83c';
+						ctx.shadowBlur = 22;
+					}
+					const im = getImg(t.icon ?? cats[t.cat].icon);
+					if (im) {
+						const nw = im.naturalWidth || 16, nh = im.naturalHeight || 16;
+						const s = (r * 2) / Math.max(nw, nh);
+						const w = nw * s, h = nh * s;
+						ctx.drawImage(im, p.sx - w / 2, p.sy - h / 2, w, h);
+					} else {
+						ctx.beginPath();
+						ctx.arc(p.sx, p.sy, r, 0, Math.PI * 2);
+						ctx.fillStyle = cats[t.cat].color;
+						ctx.fill();
+					}
+					ctx.restore();
+					drawn.push({ sx: p.sx, sy: p.sy, r, tip: t, matched });
+				}
+			}
+
+			function tick() {
+				if (!reduceMotion && !(dragStart && dragged)) {
+					rot += 0.0032;
+					// while hovering, hoverFreeze stays put → that star pins in place
+					// while the rest keep orbiting; on release it eases back
+					if (!hover && hoverFreeze !== null) {
+						hoverFreeze += (rot - hoverFreeze) * 0.08;
+						if (Math.abs(rot - hoverFreeze) < 0.005) hoverFreeze = null;
+					}
+					draw();
+				}
+				requestAnimationFrame(tick);
+			}
+
+			function resize() {
+				const wrap = canvas.parentElement;
+				size = Math.max(Math.min(wrap.clientWidth, 860), 300);
+				dpr = Math.min(window.devicePixelRatio || 1, 2);
+				canvas.width = size * dpr;
+				canvas.height = size * dpr;
+				canvas.style.width = size + 'px';
+				canvas.style.height = size + 'px';
+				draw();
+			}
+
+			function hitTest(x, y) {
+				let best = null, bestD = Infinity;
+				for (const d of drawn) {
+					if (state.q && !d.matched) continue;
+					const dist = Math.hypot(d.sx - x, d.sy - y);
+					// stickiness: keep the hovered star while the cursor stays in range,
+					// even if another star drifts closer underneath
+					if (hover && d.tip === hover && dist < d.r * 1.5) return d;
+					if (dist < d.r * 1.15 && dist < bestD) { best = d; bestD = dist; }
+				}
+				return best;
+			}
+
+			// ---- interaction ----
+			let dragStart = null, dragged = false, tapTimer = null;
+			canvas.addEventListener('pointerdown', (e) => {
+				dragStart = { x: e.clientX, y: e.clientY };
+				dragged = false;
+			});
+			window.addEventListener('pointermove', (e) => {
+				if (dragStart) {
+					const dx = e.clientX - dragStart.x;
+					if (!dragged && Math.abs(dx) > 3) {
+						dragged = true;
+						setHover(null);
+					}
+					if (dragged) {
+						rot += dx * 0.005;
+						dragStart.x = e.clientX;
+						draw();
+					}
+				} else if (e.target === canvas) {
+					const rect = canvas.getBoundingClientRect();
+					setHover(hitTest(e.clientX - rect.left, e.clientY - rect.top));
+				} else if (hover) {
+					setHover(null);
+				}
+			});
+
+			function setHover(hit) {
+				const t = hit ? hit.tip : null;
+				if (!t && !hover) return;
+				if (t && t !== hover) {
+					hoverFreeze = rot;
+					bumpHeat(t.id);
+				}
+				hover = t;
+				if (!t) {
+					tooltip.hidden = true;
+					draw();
+					return;
+				}
+				ttCat.textContent = cats[t.cat].label;
+				ttCat.style.setProperty('--tl-color', cats[t.cat].color);
+				ttText.textContent = t.text;
+				tooltip.hidden = false;
+				const left = canvas.offsetLeft + hit.sx;
+				const top = canvas.offsetTop + hit.sy - hit.r - 12;
+				const max = canvas.parentElement.clientWidth - 130;
+				tooltip.style.left = Math.min(Math.max(left, 130), max) + 'px';
+				tooltip.style.top = Math.max(top, 0) + 'px';
+				draw();
+			}
+			window.addEventListener('pointerup', (e) => {
+				if (dragStart && !dragged) {
+					const rect = canvas.getBoundingClientRect();
+					const hit = hitTest(e.clientX - rect.left, e.clientY - rect.top);
+					if (hit) {
+						setHover(hit);
+						clearTimeout(tapTimer);
+						tapTimer = setTimeout(() => setHover(null), 4000);
+					}
+				}
+				dragStart = null;
+			});
+
+			// ---- filtering / sorting / pagination ----
+			function applyFilter() {
+				const pool = tips
+					.filter((t) => state.cat === 'all' || t.cat === state.cat)
+					.sort((a, b) => heatOf(b) - heatOf(a));
+
+				// sphere shows the whole pool; seed depends only on its contents
+				let seed = state.cat.length * 7;
+				pool.forEach((t) => (seed = (seed + t.id * 31) | 0));
+				scatter(pool, seed);
+				draw();
+			}
+
+			searchInput.addEventListener('input', () => {
+				state.q = searchInput.value.trim().toLowerCase();
+				if (hover) setHover(null);
+				draw();
+			});
+
+			document.getElementById('tip-chips').addEventListener('click', (e) => {
+				const chip = e.target.closest('.chip');
+				if (!chip) return;
+				document.querySelectorAll('.chip').forEach((c) => c.classList.toggle('active', c === chip));
+				state.cat = chip.dataset.cat;
+				applyFilter();
+			});
+
+			// icons finish loading async — redraw a few times at boot
+			let settles = 0;
+			function warm() {
+				draw();
+				if (++settles < 12) setTimeout(warm, 500);
+			}
+
+			resize();
+			window.addEventListener('resize', resize);
+			applyFilter();
+			warm();
+			if (!reduceMotion) tick();
+		})();
+	</script>
 </Base>

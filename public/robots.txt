@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stardewtips.com/sitemap-index.xml

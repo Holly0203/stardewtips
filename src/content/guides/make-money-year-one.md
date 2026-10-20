@@ -1,69 +1,86 @@
 ---
 title: "How to Make Money Fast in Year 1: The Complete Guide"
-description: "The fastest ways to earn gold in your first Stardew Valley year — crops, fishing, foraging, and mining, ranked and explained for beginners."
+description: "Every proven way to earn gold in your first Stardew Valley year — fishing, crops, foraging, mining, and artisan goods — ranked with real prices and a season-by-season plan."
 pubDate: 2026-10-21
-category: "Money"
+updatedDate: 2026-10-21
+category: "Getting Started"
 tags: ["money", "beginner", "farming", "fishing", "mining"]
-draft: false
 ---
 
-Your first year in Stardew Valley is the hardest because you start with almost nothing: 500g, a few tools, and 15 Parsnip seeds. But if you know where the money is, you can be rolling in gold by Summer. This guide ranks every money-making method by how fast it pays.
+Year 1 is the hardest year in Stardew Valley. You start with 500g, five basic tools, and 15 Parsnip seeds — and every method of earning gold is locked behind a skill level, a season, or a bundle you haven't finished. This guide ranks the five real money sources by when they pay off, with exact prices, and ends with a season-by-season plan that reliably turns your first year into a six-figure one.
 
-## 1. Crops: your reliable backbone
+> **At a glance**
+>
+> - **Spring:** fishing is your best earner — crops are still too small.
+> - **The golden rule:** compare **profit per day**, never raw sell price.
+> - **Summer–Fall:** Blueberries and Cranberries are the season's money printers.
+> - **Late game:** Kegs and Preserves Jars multiply crop value 2–3×.
+> - **Reinvest everything** — Year 1 gold is seed money, not spending money.
 
-Farming is your steadiest income. The trick is planting the right crops in each season.
+## 1. Fishing: the best early-game income (Spring)
 
-- **Spring:** Start with your free ![Parsnip](/images/items/parsnip.png) Parsnips, then roll into ![Potato](/images/items/potato.png) Potatoes and ![Kale](/images/items/kale.png) Kale. Save up for ![Strawberry](/images/items/strawberry.png) Strawberry seeds at the Egg Festival on the 13th.
-- **Summer:** ![Blueberry](/images/items/blueberry.png) Blueberries are the best value — they drop three berries per harvest and regrow all season. Add ![Melon](/images/items/melon.png) Melons if you have spare gold.
-- **Fall:** ![Cranberries](/images/items/cranberries.png) Cranberries are your money printer. Buy ![Pumpkin](/images/items/pumpkin.png) Pumpkins and Rare Seeds whenever the Traveling Cart has them.
+For the first two weeks, fishing earns more gold per day than anything else on the farm. You have a small plot, little energy, and no sprinklers — but the ocean doesn't care.
 
-> Rule of thumb: always compare profit-per-day, not raw sell price. A cheap, fast crop can beat an expensive, slow one.
+- ![Sardine](/images/items/sardine.png) Sardines and ![Anchovy](/images/items/anchovy.png) anchovies off the beach sell for 30–40g per fish at 8 energy a cast.
+- ![Largemouth Bass](/images/items/largemouth-bass.png) Largemouth Bass (100g) and ![Rainbow Trout](/images/items/rainbow-trout.png) Rainbow Trout (65g) bite in the mountain lake and forest river from day one.
+- Rainy days bring ![Catfish](/images/items/catfish.png) Catfish (200g) in the town river and forest.
 
-## 2. Fishing: the best early-game income
+Every catch also levels Fishing, which unlocks the ![Fiberglass Rod](/images/items/fiberglass-rod.png) Fiberglass Rod (1,800g at level 2 — enables bait) and the game-changer ![Iridium Rod](/images/items/iridium-rod.png) Iridium Rod (level 6). The full progression is in our [fishing guide for beginners](/guides/fishing-guide-beginners/). Fishing is front-loaded: strong in Spring, outclassed by crops from Summer onward.
 
-For the first week or two, **fishing earns more gold per day than farming**. Fish sell for good money, and every catch levels the skill that makes you even more efficient.
+## 2. Crops: the reliable backbone (all year)
 
-- Buy the **Training Rod** (25g) from Willy if the minigame feels hard — it has a bigger bar and only catches easy fish.
-- Fish in the **Mountain Lake** or **ocean** for valuable catches like ![Largemouth Bass](/images/items/largemouth-bass.png) Largemouth Bass and ![Sardine](/images/items/sardine.png) Sardines.
-- Save some fish for the Community Center — don't sell everything.
+Farming is your steady income, and the right crop choice is pure arithmetic. The most important comparisons in Year 1:
 
-Fishing is front-loaded: it's strongest in Spring when your farm is small, then crops overtake it by Summer.
+| Crop | Season | Seed cost | Days | Yield per pick | Notes |
+|------|--------|-----------|------|----------------|-------|
+| ![Parsnip](/images/items/parsnip.png) Parsnip | Spring | 20g | 4 | 35g ×1 | your free starter |
+| ![Strawberry](/images/items/strawberry.png) Strawberry | Spring | 100g (Egg Festival) | 8, then 4 | 120g ×1 | best Spring ROI by far |
+| ![Blueberry](/images/items/blueberry.png) Blueberry | Summer | 80g | 13, then 4 | 50g ×**3** | 3 berries per pick |
+| ![Melon](/images/items/melon.png) Melon | Summer | 80g | 12 | 250g ×1 | one-off; great with Iridium Soil |
+| ![Cranberry](/images/items/cranberries.png) Cranberry | Fall | 240g | 7, then 5 | 75g ×**2** | the Fall money printer |
+| ![Pumpkin](/images/items/pumpkin.png) Pumpkin | Fall | 100g | 13 | 320g ×1 | strong, but slower than cranberries |
 
-## 3. Foraging: free money, zero cost
+Two rules fall out of this table. First, **regrowing crops beat one-time crops** for any plot you can leave planted — Blueberries and Cranberries pay you again every few days for only the energy to pick. Second, **buy seeds the day the season's festival opens** — the [first week guide](/guides/first-week-guide/) covers the Egg Festival strawberry run. Full season lists live in our [Spring](/guides/spring-crop-guide/), [Summer](/guides/summer-crop-guide/), and [Fall](/guides/fall-crop-guide/) crop guides.
 
-Foraging costs nothing but energy. Every season spawns items you can sell:
+## 3. Foraging: free money, zero investment
 
-- Spring: Wild Horseradish, Daffodils, Leeks, Dandelions, Spring Onions.
-- Summer: Spice Berries, Grapes, Sweet Peas.
-- Fall: Wild Plums, Hazelnuts, Blackberries (bushes turn loaded with them in mid-Fall).
-- Winter: Crystal Fruit, Winter Roots, Snow Yams.
+Foraging costs energy you'd otherwise waste. Each season scatters sellable items across the map:
 
-Foraging also feeds your Community Center bundles and gives you energy-boosting food early on.
+- **Spring:** ![Wild Horseradish](/images/items/wild-horseradish.png) (50g), ![Daffodil](/images/items/daffodil.png) (30g), ![Leek](/images/items/leek.png) (60g), ![Dandelion](/images/items/dandelion.png) (40g), ![Spring Onion](/images/items/spring-onion.png) (45g).
+- **Summer:** Spice Berry (80g), ![Grape](/images/items/grape.png) (80g), Sweet Pea (50g).
+- **Fall:** Wild Plum (200g), Hazelnut (90g), Blackberry (40g), Common Mushroom (40g).
+- **Winter:** Crystal Fruit (150g), Snow Yam (100g), Crocus (60g), Winter Root (70g).
+
+A winter day spent walking forest and mountain paths can pull in 1,000g+ with no investment at all. Foraged goods also feed Community Center bundles and double as emergency snacks — see [energy management](/guides/energy-management-tips/). At Foraging level 5, pick the **Gatherer** profession: picked items have a chance to stay in your basket, quietly doubling your best finds.
 
 ## 4. Mining: the mid-game gold rush
 
-Once you can handle the mines, gems and ores become a serious income source.
+From Spring 5, the mines add a third income lane. On rainy or already-watered days, descend:
 
-- Sell extra ![Quartz](/images/items/quartz.png) Quartz, ![Amethyst](/images/items/amethyst.png) Amethyst, and ![Topaz](/images/items/topaz.png) Topaz — but keep what the Community Center needs.
-- Smelt ores into bars like ![Copper Bar](/images/items/copper-bar.png) Copper Bar and ![Iron Bar](/images/items/iron-bar.png) Iron Bar to sell, or save them for tool upgrades.
-- Deeper floors drop better loot, including ![Diamond](/images/items/diamond.png) Diamonds and ![Iridium Bar](/images/items/iridium-bar.png) Iridium.
+- Sell surplus gems — ![Quartz](/images/items/quartz.png) 25g, Topaz 80g, ![Amethyst](/images/items/amethyst.png) 100g, Aquamarine 180g, Jade 200g, Ruby and Emerald 250g — but **keep one of each for the Collectors bundle and gifts**.
+- ![Diamond](/images/items/diamond.png) Diamonds (750g) start dropping from floor 80; a ![Prismatic Shard](/images/items/prismatic-shard.png) Prismatic Shard (2,000g) from floor 120+ is a payday in itself.
+- Smelt ore into bars in your furnace (3 copper + coal, 5 iron/gold/iridium + coal): bars sell for a solid multiple of raw ore **and** are what every [tool upgrade](/guides/tool-upgrades-guide/) requires — the same 2,000g you pay Clint doubles as your ore's best use.
+- Crack geodes at Clint's (25g each) for occasional gems and minerals he won't sell you.
+
+The full floor-by-floor routine is in our [mining guide](/guides/mining-guide-beginners/).
 
 ## 5. Artisan goods: the late-game multiplier
 
-Once you have a Keg or Preserves Jar, your profits multiply:
+Once you can build a Keg (Wood 30, Copper Bar 1, Iron Bar 1, Oak Resin 1 — Farming level 8) and a Preserves Jar (Wood 50, Stone 40, Copper Bar 8 — level 40), raw crops stop being the end product:
 
-- Turn cheap fruit into Wine and vegetables into Pickles/Juice.
-- ![Honey](/images/items/honey.png) Honey and ![Cheese](/images/items/cheese.png) Cheese are low-effort passive income.
-- Hops → Pale Ale is one of the best keg recipes.
+- **Wine sells for 3× the fruit's price; Juice for 2.25× the vegetable's.** Preserves Jars make Jelly at 2× fruit + 50g and Pickles at 2× veg + 50g.
+- ![Hops](/images/items/hops.png) Hops (40g, regrow every day all Summer) → **Pale Ale (300g)** is the single best keg ratio in the game — one trellis row quietly out-earns most crop fields.
+- Tappers on trees produce Maple Syrup (200g), Oak Resin (300g), and Pine Tar (250g) for zero daily energy.
+- In Winter, when nothing grows, artisan processing is how your farm keeps earning.
 
-## A simple Year 1 money plan
+## A season-by-season Year 1 plan
 
-1. **Week 1:** Plant Parsnips, fish every spare moment, forage on the way.
-2. **Mid-Spring:** Roll profits into Potatoes and Kale; buy Strawberries on the 13th.
-3. **Summer:** Go all-in on Blueberries; start a small Keg setup if you can.
-4. **Fall:** Plant Cranberries and Pumpkins; mine for gems on rainy days.
-5. **Winter:** Forage, fish, and process any crops you stockpiled into artisan goods.
+1. **Weeks 1–2:** Parsnips planted, Bamboo Pole out, forage everything on the walk.
+2. **Mid-Spring:** roll profits into Potatoes and Kale; dump ~1,000g+ into Strawberries on Spring 13; start mine trips on watered/rainy days.
+3. **Summer:** go heavy on Blueberries (or a hops trellis if you already have a Keg); pick Spice Berries on the beach.
+4. **Fall:** Cranberries everywhere; pumpkins if you have spare plots; grab Rare Seeds (~1,000g from the Traveling Cart) and plant by **Fall 4** — 24 days later they yield a 600g Rarefruit, still inside Fall.
+5. **Winter:** forage, mine, fish, and run your Keg/Jar queue off stockpiled crops.
 
 ## The bottom line
 
-**Fishing** carries you through Spring, **Blueberries and Cranberries** build your wealth through Summer and Fall, and **artisan goods** are where the real money is in the long run. Start small, reinvest everything, and your first year will end with a six-figure bank account.
+**Fishing carries Spring, regrowing crops build Summer and Fall, and artisan goods are where wealth compounds.** The one mistake that sinks Year 1 is spending profits on anything except seeds, sprinklers, and tool upgrades. Reinvest religiously and you'll hit Fall with real momentum — Winter is then just a processing season, not a dead one. When your gold is flowing, spend it where it multiplies: our [sprinkler guide](/guides/sprinkler-guide/) shows the best early purchase on the whole farm.

@@ -1,0 +1,37 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import PostCard from '../../components/PostCard.astro';
+import { CATEGORIES, categorySlug } from '../../utils/categories';
+
+const guides = (await getCollection('guides', ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+
+const byCategory = CATEGORIES.map((c) => ({
+  ...c,
+  posts: guides.filter((g) => categorySlug(g.data.category) === c.slug),
+})).filter((c) => c.posts.length > 0);
+---
+
+<Base
+  title="All Guides"
+  description="Every Stardew Valley guide on Stardew Tips, grouped by category — getting started, farming, fishing, mining, and community."
+  canonicalURL={new URL('/guides/', Astro.site)}
+>
+	<section class="hero container">
+		<h1>All Guides</h1>
+		<p class="lede">{guides.length} original guides covering every season of your farm.</p>
+	</section>
+
+	{byCategory.map((c) => (
+		<section class="section container">
+			<h2 class="section-title">
+				<a href={`/categories/${c.slug}/`}>{c.name}</a>
+			</h2>
+			<div class="card-grid">
+				{c.posts.map((guide) => <PostCard guide={guide} />)}
+			</div>
+		</section>
+	))}
+</Base>
