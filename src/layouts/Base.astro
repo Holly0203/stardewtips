@@ -1,0 +1,67 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title?: string;
+  description?: string;
+  type?: string;
+  canonicalURL?: string;
+}
+
+const {
+  title = 'Stardew Tips — Stardew Valley Guides & Walkthroughs',
+  description = 'In-depth Stardew Valley guides, tips, and walkthroughs to help you build the farm of your dreams.',
+  type = 'website',
+  canonicalURL,
+} = Astro.props;
+
+const siteName = 'Stardew Tips';
+const fullTitle = title === siteName ? title : `${title} | ${siteName}`;
+const url = canonicalURL ?? Astro.url;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="icon" href="/favicon.ico" />
+		<title>{fullTitle}</title>
+		<meta name="description" content={description} />
+		<link rel="canonical" href={url} />
+		<meta name="generator" content={Astro.generator} />
+		<meta property="og:title" content={fullTitle} />
+		<meta property="og:description" content={description} />
+		<meta property="og:type" content={type} />
+		<meta property="og:url" content={url} />
+		<meta property="og:site_name" content={siteName} />
+		<meta name="twitter:card" content="summary_large_image" />
+		<link rel="sitemap" href="/sitemap-index.xml" />
+	</head>
+	<body>
+		<header class="site-header">
+			<div class="inner">
+				<a class="logo" href="/">Stardew<span class="accent">Tips</span></a>
+				<nav class="nav">
+					<a href="/">Guides</a>
+					<a href="/about/">About</a>
+					<a href="/contact/">Contact</a>
+				</nav>
+			</div>
+		</header>
+		<main>
+			<slot />
+		</main>
+		<footer class="site-footer">
+			<div class="inner">
+				<span>© {new Date().getFullYear()} Stardew Tips. Not affiliated with ConcernedApe.</span>
+				<nav class="nav">
+					<a href="/about/">About</a>
+					<a href="/privacy/">Privacy Policy</a>
+					<a href="/contact/">Contact</a>
+				</nav>
+			</div>
+		</footer>
+	</body>
+</html>
