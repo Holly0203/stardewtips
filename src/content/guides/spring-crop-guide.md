@@ -24,11 +24,11 @@ Use this to compare everything below.
 
 | Crop | Seed cost | Sell price | Days | Profit/day |
 |------|-----------|------------|------|------------|
-| Strawberries | 100g | 120g | 8 | 2.5g |
-| Potatoes | 50g | 80g | 6 | 5g |
-| Cauliflower | 80g | 175g | 12 | 7.9g |
-| Kale | 70g | 110g | 6 | 6.7g |
-| Green Beans | 60g | 40g | 10 (regrows) | — |
+| ![Strawberry](/images/items/strawberry.png) Strawberries | 100g | 120g | 8 (regrows) | ~8.8g (2 harvests) |
+| ![Potato](/images/items/potato.png) Potatoes | 50g | 80g | 6 | 5g |
+| ![Cauliflower](/images/items/cauliflower.png) Cauliflower | 80g | 175g | 12 | 7.9g |
+| ![Kale](/images/items/kale.png) Kale | 70g | 110g | 6 | 6.7g |
+| ![Green Bean](/images/items/green-bean.png) Green Beans | 60g | 40g | 10 (regrows) | — |
 
 ## What to plant in Year 1
 
