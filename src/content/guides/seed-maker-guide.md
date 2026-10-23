@@ -2,11 +2,12 @@
 title: "Seed Maker Guide: When Saving Crops for Seeds Makes Sense"
 description: "Compare crop value with replacement seeds, understand variable Seed Maker outputs, and plan a small seed reserve without sacrificing your whole harvest."
 pubDate: 2026-10-24
+updatedDate: 2026-10-24
 category: "Farming"
 tags: ["seed maker", "seeds", "farming"]
 ---
 
-Turning a crop into seeds feels like closing a loop: harvest, replant, repeat. But the crop you put into a Seed Maker could also have been sold, cooked, or processed. The machine is valuable when it solves a particular seed problem, not simply because buying fewer seeds sounds cheaper.
+Count the seeds you need before loading the Seed Maker. Output varies, so process a small batch, check the packets, and continue until the planting is covered. For shop-bought seeds, compare the price with what the sacrificed crop could have earned.
 
 > **At a glance**
 >
@@ -18,7 +19,7 @@ Turning a crop into seeds feels like closing a loop: harvest, replant, repeat. B
 
 ## Begin with a seed problem, not a machine count
 
-Ask what you need the Seed Maker to do. Are you expanding a rare crop, preparing a planting outside a shop's usual stock, or merely trying to save a little gold on ordinary seeds? These are different decisions.
+Ask what you need the Seed Maker to do. Are you expanding a rare crop, preparing a planting outside a shop's usual stock, or merely trying to save a little gold on ordinary seeds?
 
 A rare seed supply can make conversion useful even when the sacrificed crop is valuable. With readily available shop seeds, the comparison is more direct: what could the crop earn elsewhere, and what would replacing those seeds cost?
 
@@ -38,7 +39,7 @@ Matching-seed output is variable, and a run can instead produce Mixed Seeds or a
 
 For a time-sensitive planting, process your reserve early enough to count the actual seeds. Stop when the field's requirement is met, then decide what to do with the remaining produce. Leave a small margin if missing seeds would force an inconvenient shop trip.
 
-For instance, a ten-tile expansion requires ten usable seeds, not “about five crops” on paper. After each small batch, count the packets you actually have. The distinction is especially important when you own very few parent crops and cannot replace a poor sequence immediately.
+For instance, a ten-tile expansion requires ten usable seeds, not “about five crops” on paper. After each small batch, count the packets you actually have.
 
 ## Regrowing crops change the replacement question
 
@@ -66,4 +67,4 @@ Keep this distinction visible in storage: one stack for produce you intentionall
 
 Do this before spending all available gold on the next project. Our [Year 1 income guide](/guides/make-money-year-one/) explains why keeping enough operating money matters even when equipment can replace part of your seed bill.
 
-**Sources and scope:** basic recipe, supported input limitations, and output variability checked against the [Seed Maker Wiki entry](https://stardewvalleywiki.com/Seed_Maker) on 24 October 2026. The 120g comparison is hypothetical arithmetic, and the workflow is our recommendation for unmodded 1.6.
+**References:** basic recipe, supported input limitations, and output variability checked against the [Seed Maker Wiki entry](https://stardewvalleywiki.com/Seed_Maker) on 24 October 2026. The 120g comparison is hypothetical arithmetic, and the workflow is our recommendation for unmodded 1.6.

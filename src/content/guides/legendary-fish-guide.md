@@ -1,59 +1,56 @@
 ---
-title: "Legendary Fish Guide: How to Catch All 5 (and Their Relatives)"
-description: "Exact tiles, seasons, and tackle for every legendary fish in Stardew Valley — Legend, Crimsonfish, Angler, Glacierfish, Mutant Carp, and the Qi variants."
+title: "Legendary Fish: Locations, Conditions, and Preparation"
+description: "Check where and when the five original legendary fish can appear, then prepare a rod, tackle, and food for repeated attempts."
 pubDate: 2026-10-21
-updatedDate: 2026-10-21
+updatedDate: 2026-10-24
 category: "Fishing"
 tags: ["legendary fish", "fishing", "endgame"]
 ---
 
-The five legendary fish are Stardew Valley's ultimate fishing test: difficulty ratings of 85–110, one-time catches, and spawn tiles so specific that most players fish the right river for a month before realizing they were casting ten tiles too far. This guide gives you the exact spots, seasons, levels, and the full preparation checklist.
+Check the required location before spending the day casting. Legendary fish have specific season, weather, skill, and tile requirements, and meeting them only makes a bite possible. Take a setup you can control and leave time for repeated attempts.
 
-> **At a glance**
->
-> - Each legendary can be caught **once per save** (plus one "II" version per year, see below).
-> - **Mutant Carp is the free win** — sewers, any season, any level. Catch it first.
-> - You need **Fishing level 10 + a buff** for Legend, and the exact spawn tile for the other four.
-> - Best gear: Iridium Rod + Quality Bait + **Trap Bobber** (fish progress drains 33% slower when it escapes your bar).
-> - Sell prices: 900g–5,000g — all five originals together are roughly **9,400g of fish**.
+## The original five
 
-## The five legendary fish
+This table gives the ordinary seasonal requirements. Check the individual location map in the [Fish reference](https://wiki.stardewvalley.net/Legendary_Fish) before traveling: broad area names do not show every eligible cast tile.
 
-| Fish | Location | Season | Weather | Lv req |
-|------|----------|--------|---------|--------|
-| ![Legend](/images/items/legend.png) Legend | Mountain Lake | Spring | **Rain only** | 10 |
-| ![Crimsonfish](/images/items/crimsonfish.png) Crimsonfish | Beach — east of the repaired bridge | Summer | Any | 5 |
-| ![Angler](/images/items/angler.png) Angler | River — north end of town (bridge by JojaMart) | Fall | Any | 3 |
-| ![Glacierfish](/images/items/glacierfish.png) Glacierfish | Cindersap Forest — the "arrowhead" channel at the south end | Winter | **Sunny only** | 6 |
-| ![Mutant Carp](/images/items/mutant-carp.png) Mutant Carp | The Sewers | Any | Any | — |
+| Fish | Area | Season | Weather | Minimum Fishing level |
+|---|---|---|---|---:|
+| Legend | Mountain Lake near the log | Spring | Rain | 10 |
+| Crimsonfish | East Beach pier | Summer | Any | 5 |
+| Angler | Waterfall north of JojaMart | Fall | Any | 3 |
+| Glacierfish | South end of Arrowhead Island, Cindersap Forest | Winter | Any | 6 |
+| Mutant Carp | Sewers | Any | Any | No minimum |
 
-> The **Mutant Carp** is the odd one out: the sewers (Rusty Key from a 600g donation to the museum) hold it in any season, and it will bite even at level 1. Its difficulty is brutal for a first legendary — save it for a rainy Spring day when you want a fight, or grab it last.
+The originals are ordinarily caught once per player, with specific bait-related exceptions. Food can help reach the required effective Fishing level; Legend does not require an additional buff if you already meet level ten.
 
-## Exact spots — this is where people fail
+## Prepare the location as well as the rod
 
-Legendary fish live in **one tile cluster**, not the whole water body:
+Check whether you can actually reach the water. Sewers access, the east Beach area, and the right lake or river position are different requirements. A fish appearing in the same broad map does not mean every cast anywhere on that map can hook it.
 
-- **Crimsonfish:** Repair the beach's broken bridge (300 Wood), walk east, and cast near the **shoreline just past the bridge**. The fish is right there at the water's edge.
-- **Angler:** Stand on the **wooden bridge north of JojaMart** (the boardwalk at the town river's north end) and cast up-river. The rest of the river does nothing.
-- **Glacierfish:** **Cindersap Forest's** southern arrowhead-shaped channel — stand at the tip of that island and cast into the water beside the log. Winter **sunny days only**, which is what makes it the calendar-crusher of the five.
-- **Legend:** Spring **rain only**, deep water of the Mountain Lake, and you need the **full 10 bars** — eat Fish Steak, Bream, or Dish O' The Sea to push past the cap if you're close.
-- **Mutant Carp:** Anywhere in the sewer pools, including around the statue.
+Pack for the outing before leaving. If a condition is rare, such as Spring rain for Legend, avoid using the first half of that day buying supplies you could have prepared earlier.
 
-## The preparation checklist
+The [Museum guide](/guides/museum-donation-guide/) explains the Rusty Key milestone for sewer access. It comes from donation progress, not paying a 600g fee.
 
-1. **Iridium Rod** (7,500g from Willy at Fishing Lv 6) — only rod that runs bait *and* tackle together.
-2. **Trap Bobber tackle** (Fishing Lv 8, 500g at Willy): the single best legendary unlock — legendaries spend most of the fight darting outside your bar, and this slows the drain 33%.
-3. **Quality or Deluxe Bait** to cut bite time from minutes to seconds.
-4. **A fishing-buff food**: Dish O' The Sea (+1 Fishing), Fish Steak (+2) — Legend genuinely requires level 10 *after* buffs.
-5. **A good-luck day** from the TV fortune teller: luck raises bite rate for everything and helps the treasure chest.
-6. **Patience math:** legendaries don't "guarantee" a bite — at the right tile, level, season, and weather they simply *can* bite. Half an hour of casting is normal; going back a different day costs nothing.
+## Choose support for the difficult part
 
-> One cast per tile at a time: if you hook a regular fish in a legendary spot, recast immediately — the bite window is independent.
+An Iridium Rod accepts bait and tackle; the later Advanced Iridium Rod accepts an additional tackle. A Trap Bobber or Cork Bobber is worth considering when control is the limiting factor.
 
-## The extended family: the "II" versions
+Do not rely on the name of a vague “best bait.” Check the attachment you actually own and the slot it uses. Our [bait and tackle guide](/guides/bait-and-tackle-guide/) explains compatibility and the difference between reducing wait time and supporting the catch.
 
-After catching the originals, Leo's quest line releases their offspring into the same spots — **Legend II, Son of Crimsonfish, Ms. Angler, Glacierfish Jr., Radioactive Carp**. They follow their parent's rules (Legend II still demands Spring rain), can be caught **once per save**, and sell for another 1,500g each — trophy rounds for the people who finished the original five too fast.
+If you use a fishing buff, bring recovery food that will not accidentally replace it with another food buff. The [cooking guide](/guides/cooking-and-food-buffs-guide/) explains that rule.
 
-## The bottom line
+## Give yourself several attempts
 
-Legendary fishing is **coordinates, seasons, and one tackle**: walk the bridge east of the beach, stand on the JojaMart boardwalk, and aim for the southern bay of the mountain lake — that alone solves 90% of failed hunts. Grab the easy Mutant Carp first, max Fishing by the [beginner guide's](/guides/fishing-guide-beginners/) routine, then chase Legend last on a rainy Spring 10+ day. All five in your backpack, and you've beaten the hardest the river can throw. More bite-sized tricks (and a Prismatic Shard or two) orbit the [Tip Galaxy](/).
+Ordinary fish may still bite in the target area. That does not by itself prove that the position is wrong. Verify the conditions, then continue if the outing still has time, food, and supplies.
+
+If control is the recurring problem, practice on other catches and return with a more comfortable setup. Fishing level requirements only determine eligibility; they do not promise that the minigame will be easy.
+
+Use the [beginner fishing guide](/guides/fishing-guide-beginners/) for bar control. A missed attempt costs less than carrying an unsuitable setup through an entire limited weather window.
+
+## The later “II” fish follow a different rule
+
+The related fish appear during Mr. Qi's Extended Family quest. Their season and weather requirements are removed, and they can be caught more than once while that quest is active. They are not an annual set unlocked by Leo's relationship storyline.
+
+Keep that quest separate from the original-five checklist. If a later variant appears where you expected an original, check the active quest before changing the whole location plan.
+
+**Reference:** conditions and catch-limit distinctions checked against the linked Wiki Fish entry on 24 October 2026. This revision corrects Glacierfish weather, the Legend level explanation, sewer access, and the Extended Family description. Consult individual location maps for cast positioning.

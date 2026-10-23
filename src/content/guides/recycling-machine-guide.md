@@ -2,13 +2,12 @@
 title: "Recycling Machine Guide: Turn Fishing Trash into Useful Supplies"
 description: "Sort recyclable catches, prioritize refined quartz, and build a recycling routine that supports crafting without taking over your day."
 pubDate: 2026-10-24
+updatedDate: 2026-10-24
 category: "Fishing"
 tags: ["recycling", "refined quartz", "crafting"]
 ---
 
-A broken pair of glasses can look like the least useful thing in a fishing chest. With a Recycling Machine, it becomes a predictable source of Refined Quartz. The trick is to distinguish dependable outputs from random ones, then recycle for materials you actually need.
-
-This is a small support system for fishing and crafting, not a requirement to save every unwanted item indefinitely.
+Save Broken CDs and Broken Glasses when you need Refined Quartz: each gives one piece in a Recycling Machine. Newspaper, Driftwood, and Trash have less predictable results. Sort them separately if you are trying to finish a particular recipe.
 
 > **At a glance**
 >
@@ -63,7 +62,7 @@ Avoid spending the last iron bar on a machine that will mostly sit empty. It may
 
 For example, if a project needs four Refined Quartz and you have four Broken CDs, those inputs meet that component exactly. That does not mean the rest of the project is ready; confirm all other materials before announcing the shortage solved.
 
-After the reserve is complete, decide whether to continue, store a small surplus, or stop collecting a particular input. A limited stock policy prevents the support system from taking over your backpack and chest space.
+After the reserve is complete, decide whether to continue, store a small surplus, or stop collecting a particular input.
 
 Our [storage guide](/guides/backpack-storage-guide/) explains a useful separation: project materials, ordinary processing inputs, and items you plan to sell should not all occupy the same mental category.
 
@@ -71,6 +70,6 @@ Our [storage guide](/guides/backpack-storage-guide/) explains a useful separatio
 
 Recycling is doing its job when it supplies useful materials with little additional travel. It does not need to become your farm's central activity. Once the immediate crafting shortage is solved, return to the work you wanted the materials for.
 
-For a broader recipe-priority plan, continue with our [crafting guide](/guides/crafting-guide-beginners/). Let that plan tell you what to recycle next, rather than treating every finished output as a reason to build another machine.
+For a broader recipe-priority plan, continue with our [crafting guide](/guides/crafting-guide-beginners/).
 
-**Sources and scope:** recipe, timing, accepted items, and outputs checked against the [Recycling Machine Wiki entry](https://wiki.stardewvalley.net/Recycling_Machine) on 24 October 2026. Storage and capacity recommendations are our own for an unmodded 1.6 farm.
+**References:** recipe, timing, accepted items, and outputs checked against the [Recycling Machine Wiki entry](https://wiki.stardewvalley.net/Recycling_Machine) on 24 October 2026. Storage and capacity recommendations are our own for an unmodded 1.6 farm.

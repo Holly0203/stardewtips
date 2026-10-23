@@ -2,11 +2,12 @@
 title: "Cooking Guide: Learn Recipes and Use Food Buffs Without Replacing Them"
 description: "Unlock a kitchen, organize ingredients, and understand why healing food, buff meals, and drinks belong in different parts of your trip plan."
 pubDate: 2026-10-24
+updatedDate: 2026-10-24
 category: "Getting Started"
 tags: ["cooking", "food", "buffs", "kitchen"]
 ---
 
-Cooking has three separate requirements: somewhere to cook, a learned recipe, and the right ingredients. Owning a full refrigerator does not satisfy a recipe you have not learned, and having a strong buff meal does not mean every food you eat afterward will preserve its effect.
+A grey recipe and a locked recipe mean different things. One needs ingredients; the other needs to be learned first. Once you can cook, separate the meal you take for its buff from the food you use to recover health during the trip.
 
 This guide explains a small, useful kitchen setup and the buff rule most likely to matter during a fishing or mining trip.
 
@@ -20,7 +21,7 @@ This guide explains a small, useful kitchen setup and the buff rule most likely 
 
 ## Decide whether the kitchen is the next useful purchase
 
-Robin's first farmhouse upgrade costs **10,000g and 450 Wood**, according to the [Farmhouse reference](https://wiki.stardewvalley.net/Farmhouse). The kitchen is useful, but the payment competes with animal buildings, crops, and equipment.
+Robin's first farmhouse upgrade costs **10,000g and 450 Wood**, according to the [Farmhouse reference](https://wiki.stardewvalley.net/Farmhouse).
 
 Choose it when cooking serves a real goal rather than because you feel behind without a house expansion. If ordinary food supplies are already sufficient and several core farm projects remain unfunded, the kitchen can wait.
 
@@ -56,7 +57,7 @@ For a mine trip, ask whether the stack restores enough health, whether you can r
 
 For fishing, consider the planned session and the effect you want to maintain. Do not fill the bag with several incompatible buff meals unless switching effects is deliberate.
 
-Our [combat guide](/guides/combat-survival-guide/) and [bait and tackle guide](/guides/bait-and-tackle-guide/) cover those destination-specific preparations. Food supports the plan rather than replacing equipment and practice.
+Our [combat guide](/guides/combat-survival-guide/) and [bait and tackle guide](/guides/bait-and-tackle-guide/) cover those destination-specific preparations.
 
 ## Cook in batches that match actual demand
 
@@ -66,4 +67,4 @@ Do not assume cooking every ingredient improves its sale value. Choose dishes fo
 
 If your current problem is simply running out of stamina, our [energy guide](/guides/energy-management-tips/) can help reduce waste before you commit more resources to food production.
 
-**Sources and scope:** kitchen cost checked against the Farmhouse page; ingredient access and buff rules against Cooking; television schedule against Queen of Sauce. References checked on 24 October 2026. Loadout and storage advice is our recommendation for unmodded 1.6, without assuming late-game seasoning or every recipe is unlocked.
+**References:** kitchen cost checked against the Farmhouse page; ingredient access and buff rules against Cooking; television schedule against Queen of Sauce. References checked on 24 October 2026. Loadout and storage advice is our recommendation for unmodded 1.6, without assuming late-game seasoning or every recipe is unlocked.

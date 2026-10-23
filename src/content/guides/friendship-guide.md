@@ -1,75 +1,50 @@
 ---
-title: "Friendship Guide: How to Earn Hearts Fast with Every Villager"
-description: "How friendship works in Stardew Valley — the point math behind hearts, gifts and birthdays, dating, marriage, decay rules, and the daily routine that maxes anyone quickly."
+title: "Friendship Guide: Conversations, Gifts, and Birthdays"
+description: "Understand friendship points and gift timing, then build a town routine around villagers you want to get to know."
 pubDate: 2026-10-21
-updatedDate: 2026-10-21
+updatedDate: 2026-10-24
 category: "Community"
 tags: ["friendship", "villagers", "gifts", "beginner"]
 ---
 
-Friendship is Stardew Valley's slowest-looking system that's actually the fastest to game. Every recipe, cutscene, mail gift, and marriage in the game sits behind the heart meter — and the heart meter runs on simple arithmetic you can exploit in about ninety seconds per day. Here's exactly how points, gifts, birthdays, dating, and decay work, with the real numbers.
+Talking to villagers on your usual route is an easy place to start. Add a suitable gift when you have one, and check birthdays before going to town. You can build relationships gradually; there is no need to visit everyone every day.
 
-> **At a glance**
->
-> - Hearts are **points**: each heart costs **250 points**. Talk to everyone daily (**+20**) and give **loved gifts (+80)** — that's 100 points a day per villager.
-> - You can gift each person **twice per week**, plus **one extra on their birthday** — and birthday gifts count for **8×**. A loved birthday gift is **+640 points**, over two full hearts in one hand.
-> - Datable villagers cap at **8 hearts until you date** (Bouquet, 100g at Pierre's), **10 until you marry** (Mermaid's Pendant, 5,000g), and **14 as a spouse**. Everyone else caps at 10.
-> - Hearts **decay** when ignored — below 8 for datables, below 10 for everyone else. A daily conversation resets it.
-> - Never gift **trash** (−40 to all), and know the one big exception: Haley **hates** the Prismatic Shard everyone else loves.
+## What the hearts represent
 
-## The point math of hearts
+A heart represents 250 friendship points. An ordinary daily conversation usually adds 20 points, and gifts add or subtract points according to the recipient's preference. A loved gift has an 80-point base value before relevant bonuses.
 
-Friendship is measured in hidden points, **250 per heart**. The Journal shows you a rounded heart display, but the engine underneath is these numbers:
+Those values come from the [Friendship reference](https://wiki.stardewvalley.net/Friendship). They are useful for understanding the system, but they do not mean you can give a loved gift every day without limits.
 
-| Interaction | Points |
-|-------------|--------|
-| Talking (once per day) | +20 |
-| **Loved** gift | +80 |
-| Liked gift | +45 |
-| Neutral gift | +20 |
-| Disliked gift | −20 |
-| Hated gift | −40 |
-| Same, but on a **birthday** | **×8** |
-| Completing their quest | +100 to +250 |
-| Giving your Bouquet / marrying | big one-time bumps |
+## Check the weekly gift boxes
 
-Gift quality multiplies the base (gold and iridium loved goods give extra points), which is why artisan gifts — cheese, wine, juice — are the endgame gifting meta. Two loved gifts plus a daily chat is 180 points: **a fresh villager reaches 8 hearts in about five weeks of pure routine**, faster if you hit their birthday with a loved gift.
+Normally, you can give one gift per day and two per week. Birthdays have an exception to the ordinary weekly limit. The Social tab's gift checkboxes help you see what has already been given.
 
-## Gifts: the engine
+An ordinary birthday gift has eight times its usual effect. That makes a suitable gift worth reserving, but an unsuitable one can also have a stronger negative effect. Special items such as Stardrop Tea have additional rules, so do not apply the ordinary arithmetic to every possible gift.
 
-Each villager accepts **two gifts per week**, and **one extra on their birthday** (the birthday gift doesn't consume your weekly slots). Loved items are listed in our [best gifts guide](/guides/best-gifts-villagers/) — the short version: **gems are loved by most of the town**, so a mine run funds half your social life.
+Use the [gift ideas page](/guides/best-gifts-villagers/) for a small starter list and links to individual preferences. A liked item you have readily available can be easier to maintain than an ambitious routine built around rare gifts.
 
-Rules people trip on:
+## Build a route around people you want to visit
 
-- **Quest items don't count as gifts** — hand over a bundle or quest request and your weekly gifts are untouched.
-- **The birthday ×8 is the whole game.** A +80 loved gift becomes +640; a Ruby (loved by many) on its birthday is more efficient than a month of chats.
-- **Hated gifts stick.** −40 per trash item; two mistakes undo three successes. When unsure, gems or a Rabbit's Foot.
-- **Festival food counts too.** The Luau's community soup (Summer 11) rewards a loved ingredient with a town-wide friendship bump — one of the few ways to gift *everyone* at once.
+Pick a few people rather than the entire town. Check whether an errand already takes you past their usual area, and bring gifts only when you intend to give them. If a schedule changes, you can return another day.
 
-## Decay: what happens when you ignore town
+Keep gift reserves at home. Carrying a different item for every villager can turn a fishing or mining outing into an inventory problem. Our [storage guide](/guides/backpack-storage-guide/) explains a small town-trip chest.
 
-Ignored villagers lose points daily — a gentle **2 per day** for townsfolk, but a punishing **20 per day** for a dating candidate you've let drop below 8 hearts. Talking once a day stops the decay cold; hearts at your ceiling (10, or 8 for an un-dated candidate) never decay. Kids never decay. Your spouse also cools when ignored, so say good morning.
+## Understand the heart caps before pursuing more gifts
 
-## Dating, marriage, and the heart gates
+Marriage candidates normally stop at eight visible friendship hearts until you give a Bouquet. Dating and marriage have their own progression and upkeep. Reaching a cap is not evidence that the game failed to count a gift.
 
-For the twelve marriage candidates the ladder has doors:
+If your goal is friendship without romance, you do not have to use a Bouquet merely to remove the greyed-out hearts. Let the relationship stay at the stage you want.
 
-1. **8 hearts** → their 8-heart cutscene plays, then the **Bouquet** (100g, Pierre's General Store) starts dating. The cap lifts to 10.
-2. **10 hearts** → on a **rainy day**, a **Mermaid's Pendant for 5,000g** appears from the old boat man on the beach. Give it to propose.
-3. **Married** → cap lifts to **14 hearts**, a spouse lives on your farm, and (with a Nursery in your [house upgrade](/guides/first-week-guide/)) kids join 3–7 days later.
+## Decay does not make every missed day an emergency
 
-Marriage also gives a passive friendship boost: a high-heart spouse chats with townsfolk while you farm, gently nudging the whole village upward on its own.
+Ordinary unmaintained relationships can lose points, but the rule changes when a relationship reaches its cap. A spouse needs continuing attention even at full hearts. The linked reference gives the distinctions for dating, non-dating, and married relationships.
 
-Non-datable villagers (Clint, Penny's pals, the kids' parents, etc.) simply cap at 10 hearts — and at the [Community Center](/guides/community-center-guide/) Bulletin Board completion you get **+2 hearts with every non-datable at once**, a huge head start worth planning gifts around.
+A missed visit therefore needs context. Do not abandon a useful farm day because a checklist told you that every person must receive attention every day. Start with a routine you enjoy, then add another person if there is room.
 
-## The daily routine that maxes everyone
+## Food gifts need a separate reserve
 
-1. **Walk the town path once, talking to every person you see.** Free, +20 each, kills decay.
-2. **Keep a "gift stack"** — a bundle of cheap gems (amethyst, topaz, aquamarine are near-universal likes/loves) or artisan goods from your [kegs and machines](/guides/greenhouse-guide/).
-3. **Pin birthdays to your calendar.** The TV weather channel's birthday ticker and the Journal front page both show the month's birthdays.
-4. **Do quests when they pop** — +100–250 points and the requester often gifts you a recipe at 1 heart.
-5. **Romance focus:** date one candidate at a time (you *can* date everyone, but the 10-heart group-event drama isn't worth the gifts), and save your best loved item for their birthday.
+A kitchen can widen the options, but learned recipes and ingredients still matter. Keep intended gifts outside the general cooking pool so a dish does not consume a reserved crop or fish.
 
-## The bottom line
+The [cooking guide](/guides/cooking-and-food-buffs-guide/) covers that storage rule. If cooking is not yet available, choose a suitable crop, forage item, or mineral rather than building a kitchen solely to make one gift.
 
-Friendship is a numbers game with three cheats: **+20 talks, two +80 gifts a week, and the birthday ×8**. Run the routine and the whole town reaches high hearts without ever feeling like work — recipes arrive in the mail, events trigger themselves, and marriage becomes a formality. For the exact "who loves what" cheat sheet, go to our [best gifts for every villager guide](/guides/best-gifts-villagers/), and fold festivals into your calendar with the [year-one plan](/guides/make-money-year-one/).
+**Reference:** points, ordinary gift limits, birthday behavior, and relationship caps checked against the [Friendship Wiki entry](https://wiki.stardewvalley.net/Friendship) on 24 October 2026. Examples describe ordinary gifts without special tea, quality, or book modifiers.

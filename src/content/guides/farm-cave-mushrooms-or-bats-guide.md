@@ -2,11 +2,12 @@
 title: "Mushrooms or Fruit Bats? Choose a Farm Cave for Your Goals"
 description: "Compare the farm cave options by collection habits, bundle needs, and the role you want the cave to play in your first Stardew Valley years."
 pubDate: 2026-10-24
+updatedDate: 2026-10-24
 category: "Getting Started"
 tags: ["farm cave", "mushrooms", "fruit bats", "demetrius"]
 ---
 
-Demetrius offers an appealing choice: make the farm cave useful in one of two ways. The temptation is to search for a universally correct answer. A more helpful question is which option complements your farm's current gaps and the collection habits you are likely to maintain.
+Choose fruit bats if extra chances at fruit would fill a gap in your bundles or gifting supplies. Choose mushrooms if you want the boxes’ collection routine and the included Dehydrator. Demetrius’s offer is permanent in normal play, but neither choice prevents you obtaining the other resources elsewhere.
 
 Neither choice guarantees that every future ingredient will appear exactly when you need it. Treat the cave as a supporting system rather than the single foundation of your whole farm plan.
 
@@ -38,7 +39,7 @@ Our [Community Center guide](/guides/community-center-guide/) helps identify wha
 
 The mushroom option adds six boxes that produce every other day in 1.6, and includes a free Dehydrator. Mushroom varieties are still random, so a predictable collection schedule is not a guarantee of a specific ingredient. Evaluate it by whether those ingredients fit the food or processing routine you want to build.
 
-Before choosing based on a precise daily-income claim, check the current source and your game version. Older advice about production schedules can be misleading when patches change behavior. There is no need to base the whole decision on a calculation that assumes uninterrupted output forever.
+Before choosing based on a precise daily-income claim, check the current source and your game version. Older advice about production schedules can be misleading when patches change behavior.
 
 If the attraction is supplying food, inspect the actual ingredients and recipes you can use. “More mushrooms” does not automatically mean every useful cooked dish is unlocked or that every variety should be eaten directly.
 
@@ -64,6 +65,6 @@ If you repeatedly forget to visit, tie the cave check to another farm task. An e
 
 Choosing one option does not remove the rest of the game's ways to obtain fruit or mushrooms. A missing item may call for another source rather than regret about a decision made seasons earlier.
 
-Treat the cave as one input to a varied farm. Our [first-year income guide](/guides/make-money-year-one/) can help keep the broader progression in view when a single choice starts to feel more important than it is.
+ Our [first-year income guide](/guides/make-money-year-one/) can help keep the broader progression in view when a single choice starts to feel more important than it is.
 
-**Sources and scope:** unlock, permanence, fruit behavior, and option descriptions checked against the [Farm Cave Wiki entry](https://wiki.stardewvalley.net/The_Cave) on 24 October 2026. The two-save comparison is hypothetical decision advice for unmodded 1.6, not a claim of personal testing or guaranteed output.
+**References:** unlock, permanence, fruit behavior, and option descriptions checked against the [Farm Cave Wiki entry](https://wiki.stardewvalley.net/The_Cave) on 24 October 2026. The two-save comparison is hypothetical decision advice for unmodded 1.6, not a claim of personal testing or guaranteed output.

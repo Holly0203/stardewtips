@@ -2,11 +2,12 @@
 title: "Stardew Valley Fair Guide: Build a Better Nine-Item Grange Display"
 description: "Prepare a varied grange display, understand where the score comes from, and keep a practical checklist for collecting rewards and taking your items home."
 pubDate: 2026-10-24
+updatedDate: 2026-10-24
 category: "Community"
 tags: ["fair", "grange display", "fall", "festival"]
 ---
 
-The Fair asks a different question from the shipping bin. Instead of simply presenting the most expensive crop stack, you are showing a range of what the farm can produce. Quality, item value, variety, and a full display all matter.
+Save one promising item from several activities before Fall 16: a good crop, a fish, a mineral, an artisan product. A varied nine-item display is a better starting point than nine expensive items from the same category.
 
 You do not need the theoretical maximum score to have a good Fair. A deliberate nine-item selection is a better first goal than trying to rebuild the entire farm around one event.
 
@@ -68,4 +69,4 @@ If your display did not win, identify whether the shortfall came from empty slot
 
 Our [Fall crop guide](/guides/fall-crop-guide/) can help you plan seasonal candidates without letting the Fair crowd out the final outdoor harvests of the year.
 
-**Sources and scope:** event details and scoring checked against the [Stardew Valley Fair Wiki entry](https://wiki.stardewvalley.net/Stardew_Valley_Fair) on 24 October 2026. Score budgets are our arithmetic, not a tested item-specific winning display. Advice assumes unmodded 1.6; verify individual classifications and save modifiers.
+**References:** event details and scoring checked against the [Stardew Valley Fair Wiki entry](https://wiki.stardewvalley.net/Stardew_Valley_Fair) on 24 October 2026. Score budgets are our arithmetic, not a tested item-specific winning display. Advice assumes unmodded 1.6; verify individual classifications and save modifiers.

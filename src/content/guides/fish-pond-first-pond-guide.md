@@ -2,13 +2,12 @@
 title: "Your First Fish Pond: Choose a Species and Plan the Upgrade Requests"
 description: "Build a useful first fish pond, understand population limits and requests, and decide whether its output fits your farm before adding more ponds."
 pubDate: 2026-10-24
+updatedDate: 2026-10-24
 category: "Fishing"
 tags: ["fish pond", "roe", "fishing", "buildings"]
 ---
 
-A Fish Pond adds a different kind of project to your farm: you choose a species, allow its population to develop, and respond to requests that can unlock more capacity. Its output is not simply the sale price of the fish you put in, and a pond should not be budgeted as guaranteed daily income.
-
-This guide helps you choose a manageable first pond and avoid confusing it with ordinary rod fishing.
+Check a fish’s pond products and upgrade requests before paying Robin. A species you already own and can supply is a sensible first resident. Rare fish are interesting, but their pond requests can be inconvenient at the stage when you first catch them.
 
 > **At a glance**
 >
@@ -32,7 +31,7 @@ The pond's cost includes materials that are easy to discard when backpack space 
 
 The construction payment is only the first commitment. Requests can require additional items, and the output may benefit from processing equipment. Leave some working money available instead of spending the last of it on a pond that cannot yet develop.
 
-Use a footprint that leaves access to collect output and inspect requests. A pond fits into the farm's route as well as its grid; a space that looks empty on a plan may be a path you use every morning.
+Use a footprint that leaves access to collect output and inspect requests.
 
 ## Understand growth and requests
 
@@ -64,4 +63,4 @@ Expand if the first pond's role is clear, the request supplies are manageable, a
 
 For a smaller daily water-based routine, consider [Crab Pots](/guides/crab-pot-route-guide/). They involve a different balance of materials, bait, and collection travel, so choosing between the two should depend on the routine you actually enjoy maintaining.
 
-**Sources and scope:** construction, population behavior, and collection limitations checked against the [Fish Pond Wiki entry](https://wiki.stardewvalley.net/Fish_Pond) on 24 October 2026. Recommendations target ordinary fish in unmodded 1.6; consult your exact patch for legendary pond support and other later changes.
+**References:** construction, population behavior, and collection limitations checked against the [Fish Pond Wiki entry](https://wiki.stardewvalley.net/Fish_Pond) on 24 October 2026. Recommendations target ordinary fish in unmodded 1.6; consult your exact patch for legendary pond support and other later changes.

@@ -2,11 +2,12 @@
 title: "Egg Festival Guide: Budget Strawberries and Plan the Evening Planting"
 description: "Prepare for Spring 13, buy before starting the Egg Hunt, and calculate a simple no-speed-bonus strawberry plan for your first Spring."
 pubDate: 2026-10-24
+updatedDate: 2026-10-24
 category: "Community"
 tags: ["egg festival", "strawberries", "spring", "festival"]
 ---
 
-The first Egg Festival combines a social event, a minigame, and one of Spring's most tempting seed purchases. The easy mistake is to prepare for only the shopping: buy more packets than you can plant and water comfortably, or start the Egg Hunt before visiting the stall.
+Buy Strawberry Seeds before asking Lewis to start the Egg Hunt. Once the hunt ends, so does the festival. Decide the field size beforehand: every packet costs 100g, and every extra plant needs watering for the rest of Spring.
 
 A useful festival plan begins the day before, with a field size and spending limit you can actually support.
 
@@ -66,4 +67,4 @@ Do not accidentally count stored future seeds as part of this Spring's income fo
 
 After the festival, return to the normal routine: maintain the field, harvest on time, and leave room for fishing or exploring. Our [energy guide](/guides/energy-management-tips/) can help keep the extra watering from consuming the whole day.
 
-**Sources and scope:** event details checked against the linked Egg Festival page, and growth and price against the Strawberry page, on 24 October 2026. Dates and returns are our calculations for an unmodded game without growth bonuses, assuming daily watering and no losses.
+**References:** event details checked against the linked Egg Festival page, and growth and price against the Strawberry page, on 24 October 2026. Dates and returns are our calculations for an unmodded game without growth bonuses, assuming daily watering and no losses.

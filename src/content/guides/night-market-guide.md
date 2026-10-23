@@ -2,11 +2,12 @@
 title: "Night Market Guide: Plan Submarine Fishing Without Missing the Last Boat"
 description: "Use the three Winter market nights well, separate shopping from fishing, and leave enough time and money to get home safely."
 pubDate: 2026-10-24
+updatedDate: 2026-10-24
 category: "Community"
 tags: ["night market", "winter", "submarine", "festival"]
 ---
 
-The Night Market looks like a relaxed evening event, but its attractions run on different schedules and the clock keeps moving. If you spend too long browsing before heading to the submarine, the trip can become hurried before you even start fishing.
+Head to the submarine first if fishing is tonight’s priority. Its entry closes before the rest of the market, and the journey down and back takes time. There are three evenings, so shopping and the Mermaid Show do not have to share the same visit.
 
 Plan each visit around one main activity. Three nights give you room to spread the experience instead of trying to fit every boat, shop, and catch into one evening.
 
@@ -40,7 +41,7 @@ Take a suitable rod and the supplies you intend to use. The Training Rod cannot 
 
 The relevant catches include **Midnight Squid, Spook Fish, and Blobfish**. You are paying for attempts, not purchasing a guarantee that every target will appear and be landed during that ride.
 
-Our [bait and tackle guide](/guides/bait-and-tackle-guide/) can help you choose a setup for the part of fishing you find difficult. A paid time-limited session is a poor place to discover that an attachment does not fit the rod you brought.
+Our [bait and tackle guide](/guides/bait-and-tackle-guide/) can help you choose a setup for the part of fishing you find difficult.
 
 ## Leave time for the return
 
@@ -68,8 +69,8 @@ Set a spending limit that includes the ride and anything needed afterward. An in
 
 ## A short checklist before leaving the farm
 
-Finish feeding, choose tonight's priority, pack the appropriate equipment, check space, and decide how you will get home. That turns the event from a frantic checklist into the evening outing it is meant to be.
+Finish feeding, choose tonight's priority, pack the appropriate equipment, check space, and decide how you will get home.
 
 If one goal remains unfinished, use another night when available rather than cramming everything into the final minutes. A missed catch is not a reason to ignore the clock.
 
-**Sources and scope:** dates, hours, ride price, travel duration, and rod restriction checked against the [Night Market Wiki entry](https://wiki.stardewvalley.net/Night_Market) on 24 October 2026. The three-night itinerary is our recommendation for unmodded 1.6, not a guaranteed collection route.
+**References:** dates, hours, ride price, travel duration, and rod restriction checked against the [Night Market Wiki entry](https://wiki.stardewvalley.net/Night_Market) on 24 October 2026. The three-night itinerary is our recommendation for unmodded 1.6, not a guaranteed collection route.

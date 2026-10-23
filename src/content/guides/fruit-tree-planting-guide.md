@@ -2,11 +2,12 @@
 title: "Fruit Tree Guide: Plant Early and Troubleshoot Missed Growth"
 description: "Plan a small orchard, leave room for saplings to grow, and distinguish seasonal fruit production from ordinary tree tapping."
 pubDate: 2026-10-24
+updatedDate: 2026-10-24
 category: "Farming"
 tags: ["fruit trees", "orchard", "saplings", "planting"]
 ---
 
-A fruit tree is a calendar investment. Buying the sapling solves only the first part: it still needs time and suitable surrounding space before it can produce. When a valuable sapling misses growth, the cost is not just an untidy orchard; it may be part of the fruiting season you hoped to use.
+Plant a normal-quality fruit sapling about a season before you want its first outdoor harvest, and leave its growth area clear. Watering does not speed it up. If you get a missed-growth message, check neighboring tiles before doing anything to the tree itself.
 
 This guide focuses on normal-quality saplings and a small orchard you can inspect easily.
 
@@ -66,4 +67,4 @@ Our [Greenhouse guide](/guides/greenhouse-guide/) covers the wider layout. If yo
 
 For the rest of the farm, the [layout guide](/guides/farm-layout-tips/) can help you reserve an orchard without blocking future buildings or daily routes.
 
-**Sources and scope:** growth duration, space requirements, watering, harvest accumulation, and Greenhouse behavior checked against the [Fruit Trees Wiki entry](https://stardewvalleywiki.com/Fruit_Trees) on 24 October 2026. Advice assumes normal-quality saplings in unmodded 1.6; higher-quality saplings have different maturation behavior.
+**References:** growth duration, space requirements, watering, harvest accumulation, and Greenhouse behavior checked against the [Fruit Trees Wiki entry](https://stardewvalleywiki.com/Fruit_Trees) on 24 October 2026. Advice assumes normal-quality saplings in unmodded 1.6; higher-quality saplings have different maturation behavior.

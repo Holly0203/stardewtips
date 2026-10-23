@@ -2,11 +2,12 @@
 title: "Museum Donation Guide: Organize Finds Without Losing Useful Reserves"
 description: "Track new museum donations, manage duplicates, plan collection trips, and keep a small reserve for crafting and later projects."
 pubDate: 2026-10-24
+updatedDate: 2026-10-24
 category: "Community"
 tags: ["museum", "artifacts", "minerals", "collections"]
 ---
 
-The Museum gives mining and exploring a second kind of progress: a find that looks like another small sale can become part of a permanent collection. The difficulty is keeping track of what is new without carrying every mineral to town or donating a useful reserve without thinking.
+Check an unfamiliar artifact or mineral’s description before selling it. If Gunther still needs it, put it with the next town-trip items. Keep duplicate resources separately so the donation pile stays small enough to check quickly.
 
 A simple sorting system makes the collection easier to grow and leaves more attention for the rest of the farm.
 
@@ -54,7 +55,7 @@ When you do claim a reward, inspect what it is and decide where it belongs. A se
 
 Some items have important uses beyond donation. When you find something rare for the first time, read its specific entry and your active goals before choosing its destination. Do not apply “always donate the first one” without considering what you are delaying.
 
-That does not mean every common mineral requires a research session. Reserve the extra attention for finds that are difficult to replace or clearly connected to another unlock. Ordinary duplicate sorting can remain quick.
+ Reserve the extra attention for finds that are difficult to replace or clearly connected to another unlock.
 
 If your larger priority is bundles, compare those needs in the [Community Center guide](/guides/community-center-guide/) as well. The Museum and Community Center are separate systems, and progress in one does not automatically satisfy the other.
 
@@ -66,4 +67,4 @@ If you are close to completion, use the collection reference to check specific m
 
 For steady new discoveries, return to a manageable [mining routine](/guides/mining-guide-beginners/) and bring the results home safely. Collection progress tends to be easier to maintain when it fits around activities you already enjoy.
 
-**Sources and scope:** donation rules, description behavior, rearranging, and milestone totals checked against the [Museum Wiki entry](https://wiki.stardewvalley.net/Museum) on 24 October 2026. Sorting and trip suggestions are our recommendations for unmodded 1.6.
+**References:** donation rules, description behavior, rearranging, and milestone totals checked against the [Museum Wiki entry](https://wiki.stardewvalley.net/Museum) on 24 October 2026. Trip planning assumes an unmodded 1.6 game.

@@ -2,11 +2,12 @@
 title: "Secret Woods Guide: Unlock Hardwood and Make Each Visit Count"
 description: "Reach the Secret Woods with a Steel Axe, find its daily stumps, and combine hardwood collection with a practical forest route."
 pubDate: 2026-10-24
+updatedDate: 2026-10-24
 category: "Mining"
 tags: ["secret woods", "hardwood", "steel axe", "foraging"]
 ---
 
-The Secret Woods turns hardwood from an occasional obstacle reward into a repeatable collection route. Unlocking it is the first step; using it well means bringing the right tools, finding the less obvious stumps, and deciding when the walk is worth your remaining time.
+Take a Steel Axe to the large log in northwest Cindersap Forest. Beyond it, six renewing stumps can provide twelve hardwood per visit. Two are in the lower section, so look for the covered paths if you only find four.
 
 There are light location and reward spoilers below. The main route works without following the optional statue reward.
 
@@ -22,7 +23,7 @@ There are light location and reward spoilers below. The main route works without
 
 The entrance log is not the same obstacle as an ordinary small branch. If your axe cannot clear it, check its upgrade tier rather than spending more energy trying. The [Secret Woods reference](https://wiki.stardewvalley.net/Secret_Woods) identifies the Steel Axe requirement.
 
-Use our [tool upgrade guide](/guides/tool-upgrades-guide/) to plan the hand-in and materials. The benefit here is recurring access, so compare the upgrade with your broader project list. If several upcoming recipes or buildings need hardwood, unlocking a repeatable source can be more useful than buying an unrelated improvement first.
+Use our [tool upgrade guide](/guides/tool-upgrades-guide/) to plan the hand-in and materials. If several upcoming recipes or buildings need hardwood, unlocking a repeatable source can be more useful than buying an unrelated improvement first.
 
 Before the first successful visit, leave room for the expected wood and any forage you choose to keep. You want to learn the area without immediately fighting the inventory limit.
 
@@ -32,7 +33,7 @@ Four stumps are in the upper area and two are below, through covered passages. I
 
 The full daily haul is twelve hardwood. A simple five-visit plan therefore contributes **60 Hardwood**, provided you collect every stump each time. This is a route total, not a promise that it is the only hardwood your farm can obtain.
 
-On the first outing, prioritize learning where to walk. A repeatable route becomes quick only after the area is familiar. There is no need to memorize a fast path before you have seen both sections safely.
+On the first outing, prioritize learning where to walk. A repeatable route becomes quick only after the area is familiar.
 
 ## Pack for a short outdoor combat area
 
@@ -66,4 +67,4 @@ If you want that reward, label the berry as a reserve before the harvest joins y
 
 There is no need to delay learning the route until the berry is ready. Work the forest into your routine first, then return for the optional exchange when you have the correct item.
 
-**Sources and scope:** entrance, stumps, seasonal example, and statue reward checked against the [Secret Woods Wiki entry](https://wiki.stardewvalley.net/Secret_Woods) on 24 October 2026. Route totals and scheduling are our suggestions for unmodded 1.6, without relying on access exploits.
+**References:** entrance, stumps, seasonal example, and statue reward checked against the [Secret Woods Wiki entry](https://wiki.stardewvalley.net/Secret_Woods) on 24 October 2026. Route totals and scheduling are our suggestions for unmodded 1.6, without relying on access exploits.

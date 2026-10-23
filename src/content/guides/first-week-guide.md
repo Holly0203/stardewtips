@@ -1,13 +1,13 @@
 ---
-title: "First Week in Stardew Valley: A Day-by-Day Guide (Spring 1–7)"
-description: "Exactly what to do from Spring 1 to Spring 7 in Stardew Valley — what to plant, the free fishing rod, the mines, and setting up a profitable first year."
+title: "Your First Week: A Spring 1–7 Plan"
+description: "A day-by-day plan for a new Standard Farm: plant Parsnips, get a fishing rod, visit the mines, and leave money for later purchases."
 pubDate: 2026-10-21
-updatedDate: 2026-10-23
+updatedDate: 2026-10-24
 category: "Getting Started"
 tags: ["first week", "beginner", "spring", "walkthrough"]
 ---
 
-Your first week on the farm sets the tone for your entire first year. Stardew Valley doesn't explain much — it just drops you on a new farm with unfamiliar tools and little direction. On the Standard Farm, you begin with 500g and 15 Parsnip Seeds. This guide gives you one: a day-by-day routine for Spring 1 through 7 that turns that overgrown field into a working farm and gets you earning gold from day two.
+On the Standard Farm, start with the 15 Parsnip Seeds and a small cleared patch. The first week gives you time to try fishing, meet villagers, and visit the mines once they open. The day-by-day plan below leaves room to do those things without clearing the whole farm first.
 
 > **At a glance**
 >
@@ -66,7 +66,7 @@ This week also buys you **food for the mines**, a first stack of geodes to crack
 
 ## Save for the Egg Festival (Spring 13)
 
-The Egg Festival is Pierre's market day in the square, and the single best investment opportunity of early Spring: **Strawberry Seeds for 100g each**. Strawberries regrow every 4 days for the rest of the season, making them by far the highest-profit Spring crop. Aim to leave your first week with **at least 1,000g** so you can buy ten seeds on the 13th — the more you can spend that day, the richer you'll be by Summer.
+The Egg Festival is Pierre's market day in the square, and a useful investment opportunity of early Spring: **Strawberry Seeds for 100g each**. Strawberries regrow every 4 days for the rest of the season, making them by far the highest-profit Spring crop. Aim to leave your first week with **at least 1,000g** so you can buy ten seeds on the 13th — the more you can spend that day, the richer you'll be by Summer.
 
 ## Your first-week checklist
 
@@ -77,10 +77,9 @@ The Egg Festival is Pierre's market day in the square, and the single best inves
 5. Stash 1,000g+ for Strawberry seeds.
 6. Peek inside the Community Center and start saving bundle items.
 
-## The bottom line
+## After the first harvest
 
-The first week is about **momentum**: plant cheap fast crops, convert spare energy into fishing gold, unlock the mines on Day 5, and pour everything back into seeds. Do that and you'll stroll into the Egg Festival with cash to burn — while most new players are still wondering why they're broke. For the next steps, read [how to make money in your first year](/guides/make-money-year-one/) and our [energy management tips](/guides/energy-management-tips/) so you never waste a day to exhaustion.
-
+Keep watering what is planted, try a few fishing sessions, and make a short mine trip when you have food. If you want Strawberries, the [Egg Festival plan](/guides/egg-festival-strawberry-plan/) gives the shopping and planting dates. There is plenty of time to explore the systems you skipped this week.
 
 ## References and scope
 

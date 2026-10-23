@@ -1,13 +1,13 @@
 ---
-title: "Mining Guide for Beginners: How to Clear the Mines Without Dying"
-description: "Everything about Stardew Valley's mines — what spawns on each floor, elevator logic, geodes, combat basics, and the fastest route to level 120."
+title: "Mining for Beginners: Checkpoints, Ore, and Safe Trips"
+description: "Use mine elevator checkpoints, pack food and equipment, and make short trips for the materials your next project needs."
 pubDate: 2026-10-21
-updatedDate: 2026-10-21
+updatedDate: 2026-10-24
 category: "Mining"
 tags: ["mining", "beginner", "combat", "ores"]
 ---
 
-The mines are where tool upgrades, sprinkler recipes, Community Center rewards, and half your early gold come from — and where new players lose entire afternoons to a Rock Crab. The mine is simple once you know its rules: what spawns where, how elevators work, and when to cut a run short. Here's the whole system.
+Aim for the next elevator checkpoint rather than a large floor target. Bring food, leave room for ore, and return before health becomes difficult to manage. A short trip that unlocks another starting floor is still useful progress.
 
 > **At a glance**
 >
@@ -19,9 +19,9 @@ The mines are where tool upgrades, sprinkler recipes, Community Center rewards, 
 
 ## Getting in and how floors work
 
-The entrance sits northeast of town in the mountains. Inside, each floor is a cave of rocks, nodes, enemies, and one **ladder** (or sometimes a **shaft** — a hole you drop through, taking 5–10 damage on the landing). Kill every enemy on an "infested" floor and the ladder appears. When you descend to a floor ending in **0 or 5**, that floor's elevator unlocks forever — the next run starts there, not at floor 1.
+The entrance sits northeast of town in the mountains. Inside, each floor is a cave of rocks, nodes, enemies, and one **ladder** . Kill every enemy on an "infested" floor and the ladder appears. When you descend to a floor ending in **0 or 5**, that floor's elevator unlocks forever — the next run starts there, not at floor 1.
 
-The meta-rule for your first year: **never push past the next elevator with a full backpack or under half health.** The ore will still be here tomorrow; the 200g of dropped items you lose to a slime will not.
+A cautious first goal is the next checkpoint. If the pack is full or health is becoming difficult to manage, return with what you have.
 
 ## What you'll find, floor by floor
 
@@ -30,32 +30,33 @@ The meta-rule for your first year: **never push past the next elevator with a fu
 | 1–40 | ![Copper Ore](/images/items/copper-ore.png) Copper (every floor), ![Geode](/images/items/geode.png) Geodes, Coal, Amethyst/Topaz, Quartz; Rock Crabs early |
 | 41–80 | ![Iron Ore](/images/items/iron-ore.png) Iron added, ![Frozen Geode](/images/items/frozen-geode.png) Frozen Geodes, ![Aquamarine](/images/items/aquamarine.png) + Jade |
 | 81–120 | ![Gold Ore](/images/items/gold-ore.png) Gold added, ![Magma Geode](/images/items/magma-geode.png) Magma Geodes, Ruby/Emerald from 81, **Diamonds from 51 up** |
-| 101–120 | **Mystic Stones** (need at least a Gold Pickaxe; give 5 gems + iridium/gold ore — the jackpot nodes) |
 
-Gem and ore counts roughly double in the 80s and 100s — the "go deep, stay safe" strategy pays in density, not just variety. **Ladders, chests, and harder nodes also scale with depth.**
+Choose floors according to the ore you need. A deeper trip is useful only if the equipment and food let you collect the materials safely.
 
 ## Ore, bars, and why smelting matters
 
 Five ore plus one coal in the Furnace makes a bar, and bars are the currency of progression: **tool upgrades** (5 per tier — [full price table here](/guides/tool-upgrades-guide/)), **sprinklers** ([sprinkler guide](/guides/sprinkler-guide/)), and the Community Center's Blacksmith bundle (a free Furnace). Keep your best copper/iron/gold aside for these; sell the surplus. Coal drops from geodes and Dust Sprites, so the ore loop covers it.
 
-## Combat basics (the part nobody reads)
+## Combat and recovery
 
 - **Enemies:** slimes (all depths), bats, skeletons (20+), Cave Bats, Dust Sprites (the annoying coal-bombers), Rock Crabs (1–29, armored), and Ghosts. Each floor band has a "monster" lineup; deeper means harder.
-- **Your sword kills in arcs** — wait for the approach animation, swing once, step back. Mashing drains stamina and leaves you flat when a second enemy arrives.
+- **Your sword kills in arcs** — wait for the approach animation, swing once, step back. Weapon swings do not use energy, but poor positioning can still cost health.
 - **Food is armor.** Eat before you descend, carry healing food (Salad, Cheese, what the fish give you), and treat health like a budget, not a bar.
-- **The dungeon buff:** if you do fall to 0 HP, you wake in your bed minus some gold and any items that were in your last inventory slots — a reason to bank ore at the elevator, not carry it down.
+- **Zero health can cost items and gold.** If it happens, check the lost-item list and Marlon’s recovery service before another risky outing.
 
 ## What to bring
 
-- **Pickaxe** (upgrade it first — faster swing speed means more rocks per day) and **axe** (stumps block ladders and occasionally hide chests).
+- **Pickaxe** (upgrade it first — faster swing speed means more rocks per day).
 - **Weapon** matching your Combat level — the Adventurer's Guild sells better ones as you kill things.
 - **Food** and a **couple of bombs** later on for clearing floors fast.
 - **Empty inventory slots** — geodes and gems take space; you'll fill up.
 
-## Why mining beats "just farming" in winter
+## Mining as a Winter project
 
-Twenty-eight days of no watering means full-day mine runs. In one winter you can clear all 120 floors, stockpile every bar your tools need, collect museum artifacts, and crack geodes until Clint's shop pays for itself. The [winter guide](/guides/winter-guide/) structures that season; hit the **floor-120 chest** on the way down — it contains the **Skull Key**, and the [Skull Cavern guide](/guides/skull-cavern-guide/) picks up from there.
+If Winter reduces your watering chores, use some of the spare time for ore or checkpoint trips. Keep the target small enough to leave time for animal care and other projects. The [winter guide](/guides/winter-guide/) structures that season; hit the **floor-120 chest** on the way down — it contains the **Skull Key**, and the [Skull Cavern guide](/guides/skull-cavern-guide/) picks up from there.
 
-## The bottom line
+## Unpack before the next trip
 
-Mine in **elevator-to-elevator chunks**, respect the health bar, smelt everything you don't sell, and let depth do the scaling: copper early, iron mid, gold and mystic stones late. Do that and by Summer 1 you'll have Gold tools, sprinkler materials, and a geode habit — the backbone of a fast first year. More one-liners (including the gem-gifting trick) orbit the [Tip Galaxy](/).
+Put ore into the smelting queue, separate [Museum donations](/guides/museum-donation-guide/), and restock food. For the next outing, choose either a resource target or another checkpoint. That makes it easier to decide when to leave.
+
+**Reference:** the [Mines entry](https://wiki.stardewvalley.net/The_Mines) was checked on 24 October 2026 for floor progression, ladders, and item recovery. This revision removes Skull Cavern shaft mechanics from the ordinary mine description.

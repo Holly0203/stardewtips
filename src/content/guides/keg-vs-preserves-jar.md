@@ -2,11 +2,12 @@
 title: "Keg vs Preserves Jar: What to Process and When to Sell"
 description: "Compare Stardew Valley kegs and preserves jars with price formulas, worked examples, and a practical plan for a farm with limited machines."
 pubDate: 2026-10-24
+updatedDate: 2026-10-24
 category: "Farming"
 tags: ["artisan goods", "keg", "preserves jar", "profit"]
 ---
 
-A harvest chest can fill much faster than your first few machines can empty it. That makes “which product sells for more?” only half the question. The other half is what else could have used that machine while you waited. This guide separates the value of one crop from the value of a busy machine, then gives you a sorting routine that does not require a spreadsheet every morning.
+A bottle that sells for more can still be the slower way to clear a harvest chest. Compare the value added to each crop and how long the machine stays occupied. That matters most when crops are piling up faster than your few machines can process them.
 
 > **At a glance**
 >

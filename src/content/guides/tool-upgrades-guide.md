@@ -1,92 +1,59 @@
 ---
-title: "Tool Upgrades Guide: When and How to Upgrade Every Tool"
-description: "Every tool upgrade in Stardew Valley — exact costs, bars needed, what each tier unlocks, the best upgrade order, and how to time them so you're never stuck."
+title: "Tool Upgrades: Costs, Priorities, and Collection Timing"
+description: "Choose a tool upgrade for your next farm project and plan the hand-in so watering, mining, or woodcutting can wait."
 pubDate: 2026-10-21
-updatedDate: 2026-10-21
+updatedDate: 2026-10-24
 category: "Getting Started"
 tags: ["tools", "upgrades", "beginner", "mining"]
 ---
 
-Tool upgrades are the quiet engine of your whole first year. A better pickaxe mines faster, a better watering can turns a 40-tile chore into two button-holds, and the right axe tier is the only thing standing between you and hardwood. Here's exactly how upgrading works, what each tier does (with real 1.6 numbers), and the order that pays off fastest.
+Upgrade the tool that is holding up your next project. A better pickaxe helps when ore trips take too long; a Steel Axe opens the Secret Woods. Time a watering-can hand-in around a day when the field will not need it.
 
-> **At a glance**
->
-> - Upgrade at **Clint's Blacksmith** (on the road north of town, past the river). Cost: **gold + 5 metal bars** per tier.
-> - Tiers: Copper (2,000g) → Steel (5,000g) → Gold (10,000g) → Iridium (25,000g).
-> - Each upgrade takes **2 days** — you can't use the tool meanwhile.
-> - Upgrades must go **in order**; you can't skip to Gold.
-> - Best Year 1 order: **Pickaxe → Axe → Watering Can → Hoe → Scythe**.
+## Costs and order
 
-## The upgrade table
+Clint upgrades eligible tools one tier at a time. Bring the tool, the gold, and five bars of the next metal.
 
-| Tier | Bars needed | Gold |
-|------|-------------|------|
-| Copper | 5 ![Copper Bar](/images/items/copper-bar.png) Copper Bars | 2,000g |
-| Steel | 5 ![Iron Bar](/images/items/iron-bar.png) Iron Bars | 5,000g |
-| Gold | 5 ![Gold Bar](/images/items/gold-bar.png) Gold Bars | 10,000g |
-| Iridium | 5 ![Iridium Bar](/images/items/iridium-bar.png) Iridium Bars | 25,000g |
+| Upgrade | Gold | Bars |
+|---|---:|---|
+| Copper | 2,000g | 5 Copper Bars |
+| Steel | 5,000g | 5 Iron Bars |
+| Gold | 10,000g | 5 Gold Bars |
+| Iridium | 25,000g | 5 Iridium Bars |
 
-(Yes — the "Steel" tier is built from iron bars.) Each bar is 5 ore + 1 coal in your furnace, so a Copper tier is roughly 25 copper ore and 5 coal plus your 2,000g. Bars you smelt but don't upgrade with still sell for a healthy markup, so nothing is wasted — ore comes from the mines (see our [mining guide](/guides/mining-guide-beginners/)) and coal from geodes and Dust Sprites.
+You cannot jump from a starter tool to Gold. Check the current tier before smelting a batch, and keep the bars separate from materials intended for machines. The [Tools reference](https://wiki.stardewvalley.net/Tools) explains the upgrade process.
 
-Two rules people learn the hard way: **you lose use of the tool for the full 2 days**, and if Clint's shop is shut when the job finishes (Sundays, festivals), you wait longer to collect it. On rainy days and in Winter those days cost you almost nothing — plan around them.
+## What “two days” means
 
-## What each tool's upgrades do
+Use the tool for today's tasks, then take it to Clint before the shop closes. You spend the next day without it. The following day, collect it and use it for the rest of that day. A completed tool does not teleport into the backpack.
 
-### Pickaxe
+This is particularly useful for the watering can. Water today, hand it in if tomorrow's forecast is rainy, then collect it the following day and water after collection. Check shop availability on the collection day before relying on that schedule.
 
-Every tier knocks one hit off every rock and ore node (Copper −1, Steel −2, Gold −3, Iridium −4) — which is the difference between grinding floors 1–40 and eating them alive. It also gates the world:
+Clint's ordinary hours are 9am–4pm. His schedule changes after Community Center restoration, and festivals can affect access. The [Blacksmith page](https://wiki.stardewvalley.net/Blacksmith) gives the current exceptions; Sunday is not a blanket weekly closure.
 
-- **Copper:** can break the large stones inside the mines.
-- **Steel:** breaks the boulders on your farm **and** removes the obstruction that blocks talking to the dwarves — which opens the Skull Cavern shortcut.
-- **Gold:** mines the meteorite that lands on your farm (Stardrop inside, later).
-- **Iridium:** raw speed, and a prerequisite for endgame bombing routines.
+## Pickaxe or axe first?
 
-### Axe
+Choose the pickaxe when gathering ore is taking too long or a mining obstacle is blocking progress. Compare your current tier with the specific obstacle rather than assuming every upgrade removes one hit from every rock.
 
-Same hit-reduction ladder, plus the hardwood gate:
+Choose the axe when hardwood or forest access is the immediate goal. A Copper Axe handles large stumps; a Steel Axe handles large logs and opens the entrance to the [Secret Woods](/guides/secret-woods-hardwood-guide/). That unlock can matter more than a faster ordinary tree cut.
 
-- **Copper:** chops **Big Stumps** (2 hardwood each) — your first steady hardwood supply.
-- **Steel:** chops **Big Logs** (8 hardwood each) and opens the **Secret Woods**, whose daily hardwood + mushroom + slime loot is one of the best foraging spots in the game.
-- **Gold/Iridium:** faster tree-felling and easier giant-crop harvesting.
+If neither task is holding you back, keep the money for something the farm needs now. Upgrading by a fixed list can leave you with a fine tool and no money for the seeds it was supposed to support.
 
-### Watering can
+## Watering can and hoe
 
-The tier that changes your daily routine most. Capacity and maximum charged-water area per swing:
+Upgrades let these tools charge to affect more tiles. Hold the action to choose a larger area, and line up the field so the selected shape is useful. Charging a tool does not help much if the field's obstacles leave most of the area empty.
 
-| Tier | Water capacity | Area at full charge |
-|------|----------------|---------------------|
-| Basic | 40 | 1 tile |
-| Copper | 55 | 1×3 (3 tiles) |
-| Steel | 70 | 1×5 (5 tiles) |
-| Gold | 85 | 3×3 (9 tiles) |
-| Iridium | 100 | 3×6 (18 tiles) |
+The watering can is most useful while you still water a significant field by hand. Once [sprinklers](/guides/sprinkler-guide/) cover most crops, a higher tier may be less urgent. The hoe remains useful for preparing new fields, but does not need to stay in your backpack on every trip.
 
-Higher tiers cost more energy per swing (2 at Basic → 10 at full-charge Iridium), but cover *far* more ground per point — a full Iridium can waters eighteen tiles for the energy of nine with a Basic. Refilling is free of cost and instant at any water source (or in the rain).
+In Winter, check whether you still have crops or a Greenhouse to water. “It's Winter” does not automatically mean you can hand over the can without arranging the next day's watering.
 
-### Hoe
+## Scythes follow a different path
 
-Identical area ladder (1×3 / 1×5 / 3×3 / 3×6) for tilling. Its biggest single win is Copper+: tilling a new field in rows of 3 instead of tile-by-tile, and one charged swing on Gold+ can cover an entire sprinkler's worth of farmland.
+Clint does not upgrade the Scythe through the metal-bar tiers. The Golden Scythe is found in the Quarry Mine; the Iridium Scythe comes from Farming Mastery. The [Scythe reference](https://wiki.stardewvalley.net/Scythe) describes that separate progression.
 
-### Scythe
+Do not save five gold bars for a scythe hand-in or assume both improved versions require Mastery. If cutting grass is the task, check what you can obtain at your present stage.
 
-The lowest priority. Scythes don't cost energy to swing, upgrades mostly widen the weed-cutting sweep, and the 1.6 golden/Iridium scythe variants are Mastery content you'll reach long after your real tools matter. Ignore until everything else is Iridium.
+## Plan the collection trip too
 
-## The best upgrade order
+Before handing over a tool, check the forecast, the next two days' work, Clint's access, and the money left afterward. Put a reminder in your own routine to collect it. If a trip is already planned for geodes or [Museum donations](/guides/museum-donation-guide/), combine the errands when shop hours allow.
 
-1. **Pickaxe to Copper, then Steel.** Faster mining feeds bars to every other upgrade — this is the engine that runs the whole system.
-2. **Axe to Copper** the moment hardwood is your bottleneck (you need it constantly for chests, kegs, and house upgrades), then **Steel** for the Secret Woods.
-3. **Watering can** — hand-watering is your biggest daily tax until [sprinklers](/guides/sprinkler-guide/) replace it. Upgrade during rain or Winter so the 2 lost days hurt less.
-4. **Hoe** — mostly for seasonal replanting days; after sprinklers it's your least-used tool.
-5. **Finish Pickaxe and Axe to Gold/Iridium**, then sweep the rest.
-
-## Timing tricks that cost nothing
-
-- **The rainy-day swap:** water everything the night before, hand Clint the can, and let the storm farm for you while it's on his bench.
-- **Winter is shop day:** no crops need watering from Winter 1. You can realistically push three tools through upgrades during a single Winter.
-- **Batch it:** you can leave multiple tools with Clint at once (as long as you can cope without them) — two rainy days can absorb a watering can *and* a hoe.
-- **Don't pre-season upgrade the axe** if you're mid-orchard: trees you can't fell still regrow their taps.
-- **Never start a pickaxe upgrade right before a planned mine run** — the 2 days always balloon into 4 when a festival lands in between.
-
-## The bottom line
-
-Upgrade the **pickaxe first** to feed the bar economy, get the **axe to Steel** to open the Secret Woods, then hand the **watering can** to Clint on every rainy day until it's Iridium. Every bar you smelt doubles as savings, so the mines are also your bank. Once your tools are caught up, the natural next investment is sprinklers — start with our [sprinkler guide](/guides/sprinkler-guide/) — and keep your gold strategy aligned with our [year-one money plan](/guides/make-money-year-one/).
+**References:** upgrade behavior, shop access, and scythe progression checked against the linked Wiki entries on 24 October 2026. This revision removes the incorrect meteorite/Stardrop claim and the description of a Dwarf obstruction as a Skull Cavern shortcut.

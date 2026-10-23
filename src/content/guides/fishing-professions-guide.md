@@ -2,11 +2,12 @@
 title: "Fisher or Trapper? Choose Fishing Professions for Your Routine"
 description: "Compare Fisher, Trapper, Angler, Pirate, Mariner, and Luremaster by the kind of fishing you enjoy and the reward you want."
 pubDate: 2026-10-24
+updatedDate: 2026-10-24
 category: "Fishing"
 tags: ["professions", "fisher", "trapper", "angler"]
 ---
 
-The Fishing profession choice is really a choice about the activity you want to reward. A large sale bonus is useful if you regularly sell fish. A Crab Pot convenience can be more pleasant if passive collection is the fishing routine you actually maintain.
+Choose Fisher if you regularly sell fish caught with a rod. Consider Trapper if you are building a substantial Crab Pot route. At level 10, the choice becomes more specific: sale value or treasure on one branch, cleaner pot catches or no baiting on the other.
 
 Instead of declaring one branch correct for every save, this guide maps the options to common goals and shows how to make a choice with your current farm in mind.
 
@@ -67,4 +68,4 @@ Choose the benefit that aligns with those answers, or with a specific change you
 
 If rod fishing is frustrating, a profession bonus is not the first control fix. Use our [bait and tackle guide](/guides/bait-and-tackle-guide/) to address the actual catch problem before judging the activity's rewards.
 
-**Sources and scope:** profession branches and effects checked against the [Fishing Wiki entry](https://wiki.stardewvalley.net/Fishing) on 24 October 2026. The income comparison and decision framework are our explanation for unmodded 1.6, not a simulation of every sale modifier.
+**References:** profession branches and effects checked against the [Fishing Wiki entry](https://wiki.stardewvalley.net/Fishing) on 24 October 2026. The income comparison and decision framework are our explanation for unmodded 1.6, not a simulation of every sale modifier.

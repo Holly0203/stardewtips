@@ -2,13 +2,12 @@
 title: "Geode Guide: Budget Cracking Costs and Sort What You Find"
 description: "Plan a geode-opening trip, understand what luck does not change, and route new finds into donations, materials, and useful reserves."
 pubDate: 2026-10-24
+updatedDate: 2026-10-24
 category: "Mining"
 tags: ["geodes", "minerals", "museum", "blacksmith"]
 ---
 
-Finding geodes costs time and backpack space; opening them adds another cost. A pile in your chest is therefore a set of decisions, not a bag of guaranteed profit. Open them with a budget, leave room for the results, and know where the new items will go before you arrive at Clint's counter.
-
-This guide covers the processing routine and the common misconception about daily luck, rather than predicting a particular save's contents.
+Opening twenty geodes at Clint’s costs 500g. Set that money aside before the trip and leave room for the results. You can open the rest another day; daily luck will not improve what is inside the pile already sitting in your chest.
 
 > **At a glance**
 >
@@ -24,7 +23,7 @@ At the listed fee, opening ten geodes costs **250g**, twenty costs **500g**, and
 
 Do not spend the seed fund merely because you have collected a large stack. Choose an affordable batch and leave the remainder stored. You can finish the processing later without losing the resources needed to keep the farm working today.
 
-The fee and basic contents are documented in the [Geode reference](https://wiki.stardewvalley.net/Geode). The point of a batch budget is not that every batch will repay the cost immediately; it is that uncertain results should not disrupt a purchase you already know you need.
+The fee and basic contents are documented in the [Geode reference](https://wiki.stardewvalley.net/Geode).
 
 ## Do not wait for a lucky day to improve the contents
 
@@ -32,7 +31,7 @@ Luck is relevant to many Stardew activities, but the reference explicitly states
 
 Choose the opening day for access and convenience. A trip can be useful when you also need to visit the Museum or buy something nearby, provided those services are available.
 
-This distinction prevents a common planning error: applying a general “lucky days are better” habit to a system with a different rule. You can still use a lucky day for another activity; just do not credit it for changing these contents.
+
 
 ## Make room for several kinds of result
 
@@ -72,4 +71,4 @@ Do not respond to an unlucky-feeling batch by automatically doubling the next sp
 
 For timing an actual tool hand-in around town access, continue with our [upgrade guide](/guides/tool-upgrades-guide/).
 
-**Sources and scope:** cracking fee, luck limitation, and ordinary Geode behavior checked against the [Wiki Geode entry](https://wiki.stardewvalley.net/Geode) on 24 October 2026. Cost totals and sorting workflow are our arithmetic and recommendations for unmodded 1.6, not a predictor or profit guarantee.
+**References:** cracking fee, luck limitation, and ordinary Geode behavior checked against the [Wiki Geode entry](https://wiki.stardewvalley.net/Geode) on 24 October 2026. Cost totals and sorting workflow are our arithmetic and recommendations for unmodded 1.6, not a predictor or profit guarantee.

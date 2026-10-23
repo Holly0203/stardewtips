@@ -2,13 +2,12 @@
 title: "Lightning Rods and Battery Packs: Prepare Before the Storm"
 description: "Craft lightning rods, understand why placement does not create a protection radius, and build a useful reserve of battery packs."
 pubDate: 2026-10-24
+updatedDate: 2026-10-24
 category: "Farming"
 tags: ["lightning rod", "battery pack", "storms"]
 ---
 
-A storm is useful only if the equipment is already waiting for it. Lightning Rods turn weather into Battery Packs, but their behavior is easy to misread: they do not work like sprinklers, and placing one beside a valuable crop does not create a special protected circle around it.
-
-This guide explains what a small rod setup can do, what it cannot promise, and how to plan around a resource that arrives irregularly.
+Build Lightning Rods before a storm, then collect the packs afterward. Rods do not have a sprinkler-style protection radius, so place them somewhere convenient on the farm. Several unused rods provide more capacity than one rod that has already caught a strike.
 
 > **At a glance**
 >
@@ -48,7 +47,7 @@ Before selling your first pack, inspect the recipes and projects you expect to n
 
 Use our [sprinkler guide](/guides/sprinkler-guide/) to decide whether higher-tier watering is actually your next constraint. If you cannot yet supply the other materials, storing batteries is still reasonable, but building more rods may not be the most urgent use of iron.
 
-Separate “collected already” from “expected next storm.” Future weather is not money or materials in your chest. Do not dismantle a working plan because you assume another batch will arrive tomorrow.
+ Do not dismantle a working plan because you assume another batch will arrive tomorrow.
 
 ## A storm-day routine without waiting around
 
@@ -62,6 +61,6 @@ Storms do not occur during Winter on the main farm, so make a winter project lis
 
 Add rods when you have useful demand and can afford the inputs. An empty decorative row provides no extra value until it catches a strike, and a beautiful arrangement can still be awkward to collect.
 
-Start with accessible equipment, observe the supply, and expand if batteries are repeatedly holding back your plans. That approach keeps the farm functional without requiring you to calculate every possible weather outcome.
+Start with accessible equipment, observe the supply, and expand if batteries are repeatedly holding back your plans.
 
-**Sources and scope:** recipe, interception behavior, seasons, and output timing checked against the [Stardew Valley Wiki](https://wiki.stardewvalley.net/Lightning_Rod) on 24 October 2026. Batch totals and reserve planning are our examples for unmodded 1.6, not a promise of complete lightning protection.
+**References:** recipe, interception behavior, seasons, and output timing checked against the [Stardew Valley Wiki](https://wiki.stardewvalley.net/Lightning_Rod) on 24 October 2026. Batch totals and reserve planning are our examples for unmodded 1.6, not a promise of complete lightning protection.

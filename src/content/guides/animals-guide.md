@@ -1,73 +1,59 @@
 ---
-title: "Animals Guide: Coops, Barns, and How to Raise Livestock"
-description: "Every farm animal in Stardew Valley — prices, what they produce, and how often — plus coop and barn costs, feeding, happiness, and the most profitable picks."
+title: "Animals Guide: Buildings, Feeding, and Daily Care"
+description: "Plan your first Coop or Barn, understand building upgrades and feeding, and choose animals that fit the time and supplies you have."
 pubDate: 2026-10-21
-updatedDate: 2026-10-21
+updatedDate: 2026-10-24
 category: "Farming"
 tags: ["animals", "farming", "money", "mid-game"]
 ---
 
-Animals turn your farm into a background income machine: eggs, milk, wool, and truffles that sell directly or multiply through artisan machines. They're forgiving, profitable, and one of the coziest mid-game goals in Stardew Valley. This guide covers every animal's real price, product, and production cycle, plus the buildings and feeding systems you need first.
+Before buying chickens or cows, check which building they need and how you will feed them when they cannot graze. Start with a few animals, get comfortable with the morning chores, then expand. An autofeeder helps later, but only Deluxe buildings include one.
 
-> **At a glance**
->
-> - Build the **Silo before the Coop** — hay is non-negotiable in winter and on rainy days.
-> - ![Chicken](/images/items/egg.png) Chickens (800g) lay an ![Egg](/images/items/egg.png) egg daily and pay for themselves in about two weeks.
-> - ![Pig](/images/items/truffle.png) **Pigs are the most profitable animal** by a distance — truffles become 1,065g Truffle Oil.
-> - A fed, petted animal with 5 hearts produces **larger, higher-value goods** (Large Egg, Large Milk).
-> - An unfed animal will **refuse to produce** the next morning — never skip the hay.
+## Which building do you need?
 
-## Coops and barns: costs first
+Coops and Barns each have three tiers. The table shows the cost of each construction or upgrade, not a combined price for the finished building.
 
-Animals live in buildings from Robin's carpenter shop. Two tiers each:
+| Building | Gold | Wood | Stone | Capacity | Main addition |
+|---|---:|---:|---:|---:|---|
+| Coop | 4,000g | 300 | 100 | 4 | Chickens |
+| Big Coop | 10,000g | 400 | 150 | 8 | Ducks and an incubator |
+| Deluxe Coop | 20,000g | 500 | 200 | 12 | Rabbits and autofeeding |
+| Barn | 6,000g | 350 | 150 | 4 | Cows |
+| Big Barn | 12,000g | 450 | 200 | 8 | Goats and pregnancy |
+| Deluxe Barn | 25,000g | 550 | 300 | 12 | Sheep, pigs, and autofeeding |
 
-| Building | Cost | Capacity | Bonus |
-|----------|------|----------|-------|
-| Coop | 4,000g + 300 Wood + 100 Stone | 4 animals | — |
-| Big Coop | 10,000g + 400 Wood + 150 Stone | 8 animals | Auto-feeders, unlocks Ducks and Rabbits |
-| Barn | 6,000g + 350 Wood + 150 Stone | 4 animals | — |
-| Big Barn | 12,000g + 450 Wood + 200 Stone | 6 animals | Auto-feeders, unlocks Goats, Sheep, and Pigs |
+These tiers are documented in the [Coop](https://wiki.stardewvalley.net/Coop) and [Barn](https://wiki.stardewvalley.net/Barn) references. Other animals have additional unlock or hatching requirements; upgrading a building does not put an animal inside it automatically.
 
-Robin takes 2–3 days to build, so order before you need them. The **auto-feeders in the Big tiers are the real upgrade**: they fill every trough from your silo each morning, ending daily feeding forever.
+On a Standard Farm, a small Coop is a manageable starting point. A Meadowlands save already has a Coop, so check what you own before using a first-building checklist written for another map.
 
-## Every animal, price and product
+## Feeding: silo, hopper, bench
 
-| Animal | Price | Requires | Product | Frequency |
-|--------|-------|----------|---------|-----------|
-| ![Chicken](/images/items/egg.png) Chicken | 800g | Coop | Egg (50g / Large 95g) | Daily |
-| ![Duck](/images/items/duck-egg.png) Duck | 1,200g | Big Coop | Duck Egg (95g) | ~2 days |
-| ![Rabbit](/images/items/wool.png) Rabbit | 8,000g | Big Coop | Wool (340g) | ~4 days |
-| ![Cow](/images/items/milk.png) Cow | 1,500g | Barn | Milk (125g / Large 190g) | Daily |
-| ![Goat](/images/items/goat-milk.png) Goat | 4,000g | Big Barn | Goat Milk (225g / Large 345g) | ~2 days |
-| ![Sheep](/images/items/wool.png) Sheep | 8,000g | Big Barn | Wool (340g) | ~3 days |
-| ![Pig](/images/items/truffle.png) Pig | 16,000g | Big Barn | Truffle (625g) | ~50%/day |
+A silo holds the shared hay reserve. The hopper inside the animal building gives access to it. In basic and Big buildings, you still need to put hay on the feeding bench yourself. Deluxe autofeeders perform that step from the available reserve.
 
-Two more come late: the **Ostrich** (10,000g from Marnie) lays a 600g ![Ostrich Egg](/images/items/ostrich-egg.png) roughly every 7 days, and a **Dinosaur** hatches from a **Prehistoric Egg** — dug up at artifact spots and in the mines — then lays a 350g ![Dinosaur Egg](/images/items/dinosaur-egg.png) every 7 days. And the rare ![Void Egg](/images/items/void-egg.png) — a Traveling Cart stock — incubates into the purple-feathered Void Chicken.
+When animals can graze outside, grass provides another food source. Plan hay for days when they cannot graze and for Winter. A full building deserves a feed budget before you add more residents; the [hay and silo guide](/guides/silo-hay-winter-feeding-guide/) gives a conservative Winter calculation.
 
-## Feeding and happiness — the actual mechanics
+Check the bench during the morning visit. If an animal seems unhappy, inspect food and access before assuming it needs a different building.
 
-- **Grass**: animals left outside on sunny, non-winter days eat your farm's grass. Build a **Silo** (Robin, or the Community Center's Storage bundle) to cut grass into hay with the scythe.
-- **Hay**: each animal eats 1 hay when it can't graze — winter and every rainy day. Buy more from Marnie at 50g a piece if the silo runs dry.
-- **Pet every single day.** Clicking each animal raises friendship; at 5 hearts, eggs and milk upgrade to their Large versions and pigs dig truffles far more reliably.
-- **Heaters** (1,000g from Pierre in fall/winter) placed inside buildings keep animals' happiness from decaying through winter.
-- If animals are locked **outside** overnight they risk a wolf visit; an unfed animal produces nothing the next morning.
+## Start with a routine you can maintain
 
-## The money: artisan goods
+Pet the animals, check food, collect available products, and refill the machines you use. Place equipment where you can reach it without obstructing the building entrance. Leave a clear outdoor route if grazing is part of the plan.
 
-Raw products are only half the value. Once your [Community Center](/guides/community-center-guide/) gives you a Cheese Press or you've built your own kitchen machines:
+You do not need to fill every available animal slot immediately. A partially filled building gives you time to learn how much feed and processing capacity the routine needs. Add residents after those chores feel comfortable.
 
-- ![Egg](/images/items/egg.png) Eggs → ![Mayonnaise](/images/items/mayonnaise.png) Mayonnaise (and duck mayonnaise from duck eggs).
-- ![Milk](/images/items/milk.png) Milk → ![Cheese](/images/items/cheese.png) Cheese; ![Goat Milk](/images/items/goat-milk.png) → ![Goat Cheese](/images/items/goat-cheese.png).
-- ![Wool](/images/items/wool.png) Wool → Cloth in the loom.
-- ![Truffle](/images/items/truffle.png) Truffle → ![Truffle Oil](/images/items/truffle-oil.png) in an Oil Maker: **625g raw becomes 1,065g**, and pigs are one of the few animals with a product that scales like that.
+The [farm layout guide](/guides/farm-layout-tips/) covers paths and grazing space. The useful test is whether you can walk the morning route easily with the tools you need.
 
-## Best animals for profit
+## Decide where products will go
 
-1. **Pigs, pigs, pigs.** Four pigs from the moment you can afford a Big Barn is the classic mid-game plan — see the [Year 1 money guide](/guides/make-money-year-one/) for the funding route.
-2. **Chickens** first because 800g and a daily egg is the cheapest positive feedback loop in the game.
-3. **Rabbits** once you're wealthy: 8,000g each, but wool every ~4 days plus a chance of the 565g rabbit's foot at high hearts.
-4. **Cows and goats** are steady keg-free income — artisan cheese never spoils.
+Eggs can be processed into Mayonnaise, milk into Cheese, and wool into Cloth when the relevant equipment is available. Those are separate crafting projects. Buying animals and buying or building all their processing equipment at once can consume more money and materials than expected.
 
-## The bottom line
+Reserve items for bundles before processing or shipping them. If a bundle needs a particular size or quality, check the actual requirement instead of assuming a processed version will substitute.
 
-Build the Silo, then a Coop with 4 chickens. Pet and feed daily, upgrade to Big buildings for auto-feeders, then convert your barn to Pigs and run everything through a Cheese Press and Oil Maker. Animals need almost no daily attention once automated — they're the closest thing Stardew has to passive income until your [greenhouse](/guides/greenhouse-guide/) comes online. For pen placement and grazing layouts, see our [farm layout tips](/guides/farm-layout-tips/), and the [Tip Galaxy](/) has one-liners on weasels, heaters, and truffle odds.
+Pigs are a larger investment: reaching the required building tier is part of the cost, and truffle production depends on outdoor conditions. They are a later option, not a reason to skip directly past a small working animal routine.
+
+## Before upgrading
+
+Write down what the upgrade is meant to add: more capacity, a species unlock, or autofeeding. Big buildings add capacity and other features but do not automate the feeding bench. That distinction matters if reducing morning chores is the entire reason for the purchase.
+
+Keep gold for feed and other farm expenses after paying Robin. The [Year 1 income guide](/guides/make-money-year-one/) can help place the building in a wider spending plan. If the animals already produce more than you can collect and process, fix that before expanding.
+
+**References:** building tables checked against the linked Coop and Barn entries on 24 October 2026. Feeding details are explained in the [Hay reference](https://wiki.stardewvalley.net/Hay). This revision corrects the earlier building tiers, capacity, and autofeeder claims; it does not attempt to list every special animal.

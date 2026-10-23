@@ -1,73 +1,58 @@
 ---
-title: "Fall Crops Guide: Cranberries, Pumpkins, and the Rare Seed"
-description: "Every Fall crop in Stardew Valley ranked by profit — Cranberry math, Giant Pumpkins, the 3,000g Sweet Gem Berry, and how to finish Year 1 strong."
+title: "Fall Crop Planning: Cranberries, Pumpkins, and Rare Seeds"
+description: "Compare Fall planting costs and harvest dates, save bundle crops, and decide whether a Rare Seed fits the remaining season."
 pubDate: 2026-10-20
-updatedDate: 2026-10-21
+updatedDate: 2026-10-24
 category: "Farming"
 tags: ["crops", "fall", "money", "beginner"]
 ---
 
-Fall is the last growing season before Winter kills everything outdoors, and it's the most lucrative of the three. Two headliners dominate the season — the regrowing Cranberry and the one-shot jackpot Sweet Gem Berry — but the supporting cast has real tricks too. Here's every Fall crop with verified numbers and a plan for squeezing one more season out of your farm.
+Cranberries suit a field you can keep planted all season. Pumpkins suit larger individual harvests and several collection goals. A Rare Seed needs much earlier planning. Compare those choices against the days remaining and the gold you can afford to tie up.
 
-> **At a glance**
->
-> - **Money printer:** ![Cranberries](/images/items/cranberries.png) Cranberries — 2 berries per harvest, regrowing all season.
-> - **Lottery ticket:** ![Sweet Gem Berry](/images/items/sweet-gem-berry.png) from a 1,000g Rare Seed (Traveling Cart) — plant by Fall 4.
-> - **Big single payout:** ![Pumpkin](/images/items/pumpkin.png) at 320g — the only way to finish the Pantry's Quality Crops bundle, and your ticket to winning the Fair on Fall 16.
-> - Cheap ![Eggplant](/images/items/eggplant.png) and fast ![Bok Choy](/images/items/bok-choy.png) make excellent filler between the heavy hitters.
-> - Everything outdoors dies on Winter 1 — read the [winter guide](/guides/winter-guide/) before you plant anything after October 20.
+## Compare the main purchases
 
-## The heavy hitters
+| Crop | Seed cost | Base sale value | Initial growth | Later harvests |
+|---|---:|---:|---:|---|
+| Cranberries | 240g at Pierre | 75g per berry; at least 2 per pick | 7 days | Every 5 days |
+| Pumpkin | 100g | 320g | 13 days | Replant |
+| Sweet Gem Berry | 1,000g for a standard Rare Seed purchase | 3,000g | 24 days | Replant |
 
-| Crop | Seed cost | Sell price | Grow time | Harvest type |
-|------|-----------|------------|-----------|--------------|
-| ![Cranberries](/images/items/cranberries.png) Cranberries | 240g (Pierre) / 300g (Joja) | 75g ×2 per harvest | 7 days | Regrows every 5 days |
-| ![Pumpkin](/images/items/pumpkin.png) Pumpkin | 100g | 320g | 13 days | Single harvest; can go Giant |
-| ![Sweet Gem Berry](/images/items/sweet-gem-berry.png) Sweet Gem Berry | 1,000g Rare Seed | 3,000g | 24 days | Single harvest |
+These values exclude quality and profession bonuses. Check the [Crops reference](https://wiki.stardewvalley.net/Crops) and the actual [Traveling Cart stock](https://wiki.stardewvalley.net/Traveling_Cart) before making a purchase plan. Seeds being obtainable does not mean a sufficient quantity will be available on the visit you intended.
 
-### Cranberries: the Fall equivalent of Blueberries
+## Cranberries: an early start matters
 
-Each Cranberry harvest drops **two berries (150g)**, and a plant started on Fall 1 gives you five harvests — on days 8, 13, 18, 23, and 28 — for roughly **750g of fruit from a 240g seed**. About 50g of the 75 can become seed again in a Mill, so a fall's Cranberries partly fund next year.
+With no speed bonus and daily watering, a Fall 1 planting is ready on days 8, 13, 18, 23, and 28. Five picks of two 75g berries give a baseline of 750g gross, or 510g above the 240g seed cost.
 
-The seed price is the only barrier. At Pierre's they cost 240g (JojaMart charges 300g for the same packet — buy from Pierre). If cash is tight on Fall 1, plant them a few days late and accept four harvests instead of five; they still out-earn every cheap crop on the table.
+Planting later can reduce the number of picks. Count your own remaining harvests instead of applying the full-season total to every planting date. Extra berries and quality can change sales, but they are not part of that simple baseline.
 
-### Pumpkins: giants and the Harvest Festival
+The crop does not turn into seeds in a Mill. Use a [Seed Maker](/guides/seed-maker-guide/) if you want to explore that option, and compare the fruit sacrificed with the packets produced.
 
-Pumpkins sell for 320g and carry three jobs:
+## Pumpkins: save what your plans require
 
-1. **Giant crops.** A 3×3 pumpkin block can merge into a Giant Pumpkin — chop it with an axe for multiple pumpkins at once. Pumpkins, Melons, and Cauliflower are the only three giant-crop plants.
-2. **The Pantry's Fall Crops bundle** asks for one, and the **Fair on Fall 16** wants a Pumpkin in your display to win.
-3. **Artisan goods.** Kegs turn them into Pumpkin Juice, and the cooking recipe (Pumpkin Soup) is one of the best energy foods in the game — see [energy management tips](/guides/energy-management-tips/).
+Pumpkins can serve standard bundles, processing, and a Fair display. Those are possible uses, not a requirement to allocate every harvest to all three.
 
-Plant them by Fall 15 (13-day growth) or, if Winter's coming, let them finish in the Greenhouse instead.
+If bundles are the priority, inspect their item and quality requirements before selling. If the Fair is the priority, keep a promising candidate alongside items from other categories. A Pumpkin is not mandatory for a winning display; variety and score matter. The [Fair guide](/guides/stardew-valley-fair-grange-guide/) gives that breakdown.
 
-### The Sweet Gem Berry (Rare Seed)
+Without speed bonuses, a thirteen-day crop planted by Fall 15 can finish by Fall 28. Leave margin if your watering routine is still inconsistent.
 
-The **Rare Seed costs 1,000g**, grows for 24 days, and ships as a **3,000g Sweet Gem Berry** — the single most profitable ordinary crop in Stardew Valley. It's sold by the **Traveling Cart** in Cindersap Forest (Friday and Sunday), with a small random stock each week, so buy one or two whenever it appears.
+## Rare Seeds need an early decision
 
-The 24-day clock means **plant by Fall 4** for an outdoor harvest. After that, the only way to still get one is the Greenhouse, where crops ignore seasons entirely. If you've read our [greenhouse guide](/guides/greenhouse-guide/), you'll know Sweet Gem Berries become the greenhouse's default rent-payment crop from Year 2 onward.
+A Sweet Gem Berry's twenty-four-day growth period makes Fall 4 the latest ordinary planting date for a Fall 28 harvest, assuming uninterrupted watering and no speed bonuses. Late purchases can be stored rather than planted into a deadline they cannot meet.
 
-## The supporting crops
+Decide whether the berry is for sale or the optional [Secret Woods reward](/guides/secret-woods-hardwood-guide/) before it joins the shipping pile. Keeping one for that exchange is a separate decision from maximizing this season's cash.
 
-| Crop | Seed | Sell | Grow | Notes |
-|------|------|------|------|-------|
-| ![Eggplant](/images/items/eggplant.png) Eggplant | 20g | 60g | 5 days | Regrows every 5 days — a Fall crop, not Summer |
-| ![Yam](/images/items/yam.png) Yam | 60g | 160g | 10 days | Pantry Fall Crops bundle item |
-| ![Bok Choy](/images/items/bok-choy.png) Bok Choy | 50g | 80g | 4 days | Fastest Fall crop; replant until Oct 24 |
-| ![Amaranth](/images/items/amaranth.png) Amaranth | 70g | 150g | 7 days | More than doubles the seed cost per harvest |
-| ![Grape](/images/items/grape.png) Grapes | 60g (Summer Seeds) | 80g | 7 days | Trellis; regrows every 3 days |
-| ![Artichoke](/images/items/artichoke.png) Artichoke | 30g | 160g | 8 days | Seeds from Pierre only in Year 2+ |
-| ![Beet](/images/items/beet.png) Beet | 20g (Oasis) | 100g | 6 days | 5g/day profit, desert-only seed |
-| ![Corn](/images/items/corn.png) Corn | 150g | 50g | 14 days | Planted in Summer, keeps paying through Fall |
+A 3,000g fruit from a 1,000g packet leaves 2,000g above seed cost at normal quality. That single return does not account for growing time, replacement stock, or what the same tile could have produced instead. It is not a reason to call the crop the universal best choice.
 
-## What to plant in Year 1
+## Leave space for inexpensive plantings
 
-1. **Cranberries first** — every 240g you can spare on Fall 1–5 returns 750g. Nothing else matches.
-2. **Pumpkins second** — for the bundle, the Fair, and the giant-crop lottery.
-3. **Rare Seeds the moment the Cart shows one** — even a single 1,000g → 3,000g flip funds half of Year 2.
-4. **Filler: Eggplants and Bok Choy.** Cheap, fast, and they don't compete for your premium tiles.
-5. **Save seeds.** At season's end, stockpile anything you can mill or replant next Spring — Winter means the outside farm sleeps (see the [winter guide](/guides/winter-guide/) for what to do instead: fishing, mining, and the Greenhouse).
+Eggplants and Bok Choy offer smaller seed purchases. Existing Summer Corn can continue producing in Fall. Consider what your field already contains before clearing it to copy a new layout.
 
-## The bottom line
+For trellis crops, leave a walking route. For processing crops, check how much of the harvest your machines can handle. The [keg and jar guide](/guides/keg-vs-preserves-jar/) explains the difference between a high finished price and a queue that clears in time.
 
-**Cranberries are the king of Fall** for steady income, **Pumpkins** are the high-value keg and giant-crop pick with two bundle uses, and the **Sweet Gem Berry** is your once-a-season lottery. Plant Cranberries heavily, buy the Pumpkin seeds before Fall 16, grab every Rare Seed the Traveling Cart offers, and start planning Winter — the [greenhouse](/guides/greenhouse-guide/) is the only farm that grows in December. More bite-sized tricks are one hover away on the [Tip Galaxy](/).
+## Finish with a Winter plan
+
+Near the end of Fall, keep enough cash for hay, animal care, and projects you actually want to do next. Harvest the crops that are ready and check late plantings rather than assuming everything can be moved into the Greenhouse after planting.
+
+The [Winter guide](/guides/winter-guide/) covers the change in routine. In 1.6 there are outdoor Winter-growing options, so the next season does not require abandoning growing altogether.
+
+**References:** crop figures checked against the linked Crops reference on 24 October 2026. Dates and returns are calculations without speed bonuses, crop loss, or sale modifiers. This revision corrects the Mill claim and removes the claim that a Pumpkin is necessary to win the Fair.

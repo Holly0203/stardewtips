@@ -2,11 +2,12 @@
 title: "Crab Pot Guide: Build a Daily Route You Will Actually Maintain"
 description: "Choose freshwater or ocean crab pots, budget bait, recycle unwanted catches, and decide whether a larger route is worth the travel."
 pubDate: 2026-10-24
+updatedDate: 2026-10-24
 category: "Fishing"
 tags: ["crab pot", "bait", "daily routine"]
 ---
 
-Crab Pots remove the fishing minigame, but they do not remove the need for a routine. Each extra pot adds another collection point and, usually, another bait refill. A short route beside a place you already visit can be useful; a distant shoreline full of neglected pots is harder to justify.
+Put your first Crab Pots somewhere you already visit. Collecting and rebaiting a short row is easy to fit into the day; crossing the map for a few catches is a different commitment. Choose freshwater or ocean water according to the catches you need.
 
 > **At a glance**
 >
@@ -62,4 +63,4 @@ Track whether you actually collected and refilled the initial group. If you skip
 
 If the route is easy and the output has a purpose, add a modest batch. Check how the extra catches affect inventory space and recycling capacity. The best number is the one that still fits into your day without crowding out activities you prefer.
 
-**Sources and scope:** standard recipe, buying price, bait requirements, catch locations, and profession effects checked against the [Crab Pot Wiki entry](https://wiki.stardewvalley.net/Crab_Pot) on 24 October 2026. Route sizes and budgeting examples are our recommendations for unmodded 1.6; specialized bait has additional effects.
+**References:** standard recipe, buying price, bait requirements, catch locations, and profession effects checked against the [Crab Pot Wiki entry](https://wiki.stardewvalley.net/Crab_Pot) on 24 October 2026. Route sizes and budgeting examples are suggestions for an unmodded 1.6 game; specialized bait has additional effects.

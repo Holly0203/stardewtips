@@ -2,13 +2,12 @@
 title: "Combat Survival Guide: Handle the Early Mines Without Rushing"
 description: "Prepare a usable hotbar, separate healing from energy, and practice safer positioning before you push into harder Stardew Valley mine floors."
 pubDate: 2026-10-24
+updatedDate: 2026-10-24
 category: "Mining"
 tags: ["combat", "health", "weapons", "mines"]
 ---
 
-An early mine trip often fails before the player runs out of energy. Health falls during a messy fight, food is buried in the backpack, and one more tempting rock turns a manageable situation into a rescue. Better preparation is less about carrying everything and more about making the next action obvious.
-
-This guide is for players learning ordinary mine combat, rather than optimizing late-game damage builds.
+Put food beside your weapon on the hotbar before entering the mines. When health drops, finding the right slot should take one familiar action. You can practice fights on comfortable floors; there is no need to learn a new enemy while also pushing for depth.
 
 > **At a glance**
 >
@@ -66,4 +65,4 @@ Fix that failure before buying unrelated equipment. A stronger weapon may help d
 
 Once ordinary mine trips feel controlled, read our [Skull Cavern guide](/guides/skull-cavern-guide/) for the different preparation that a more demanding area requires. Do not assume success on familiar floors removes the need to prepare for a new environment.
 
-**Sources and scope:** Combat progression and profession effects checked against the [Combat Wiki entry](https://wiki.stardewvalley.net/Combat) on 24 October 2026. Positioning, loadout, and retreat suggestions are our beginner recommendations for unmodded 1.6, not guarantees of survival.
+**References:** Combat progression and profession effects checked against the [Combat Wiki entry](https://wiki.stardewvalley.net/Combat) on 24 October 2026. Positioning, loadout, and retreat suggestions are our beginner recommendations for unmodded 1.6, not guarantees of survival.

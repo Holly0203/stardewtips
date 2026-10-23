@@ -1,69 +1,63 @@
 ---
-title: "Winter Guide: What to Do When the Snow Falls"
-description: "How to use Winter in Stardew Valley — winter foraging and fishing, festival dates, the best tool-upgrade window, and a Spring-ready checklist."
+title: "Winter Planning: Feed, Fishing, Upgrades, and Spring Preparation"
+description: "Keep animals fed, choose Winter crops and projects, and make time for fishing, festivals, and preparation for Spring."
 pubDate: 2026-10-21
-updatedDate: 2026-10-21
+updatedDate: 2026-10-24
 category: "Farming"
 tags: ["winter", "season", "fishing", "planning"]
 ---
 
-Winter is the only season where the outdoor farm stops earning — no regular crops grow in the snow. Smart players treat it as the game's hidden best season: twenty-eight days of pure mining, fishing, crafting, and preparation that decide how rich your next Spring is. Here's exactly what to do when the temperature drops.
+Winter frees up time for mining, fishing, building work, and tool upgrades. Animals still need feeding, and a Greenhouse or Winter planting still needs watering. Pick a few projects for Spring rather than trying to finish every upgrade in one season.
 
-> **At a glance**
->
-> - **No outdoor crops** — except Winter Seeds, which grow and can be re-harvested all season.
-> - **Festivals:** Festival of Ice on Winter 8, SquidFest on Winter 12–13, Feast of the Winter Star on Winter 25.
-> - **Winter is the safest tool-upgrade window** — upgrade the watering can and hoe now and you lose nothing.
-> - Fish and the mines don't care about the season: stockpile ore, gems, and ![Glacierfish](/images/items/glacierfish.png) fishing cash all month.
-> - Kegs, jars, presses, and animal products keep earning the whole time — artisan goods ignore winter.
+## What still grows outdoors?
 
-## Winter foraging and Winter Seeds
+In 1.6, Powdermelon is a Winter crop. Winter Seeds and Fiber Seeds are other outdoor options. The [Winter reference](https://wiki.stardewvalley.net/Winter) lists the seasonal exceptions; advice that nothing grows outdoors is too broad.
 
-Four ground items spawn outdoors all season: **Winter Root**, **Crystal Fruit**, **Snow Yam**, and **Crocus**. Collect them, and at Foraging level 7 you can craft **Winter Seeds** from the four — plant them and after a week you harvest a cluster of random winter forage, which you can turn into *more seeds*. That loop makes winter foraging self-sustaining instead of scavenger-hunt chores.
+[Powdermelon](https://wiki.stardewvalley.net/Powdermelon) takes seven days without speed bonuses. A small patch is an option if you have seeds and want to keep growing. Remember the watering chore before handing your can to Clint.
 
-Also watch for the spiky **Holly** bushes — it's the one winter forage that grows on bushes instead of the ground, so it survives when the ground items have been picked clean.
+Winter Seeds produce seasonal forage. Decide how much you want to grow and leave time to gather or craft the seeds before planning a large field. You can also leave most fields empty and spend the month on other activities.
 
-## Fishing: the quiet money season
+## Feed animals before starting projects
 
-Fishing never closes. Winter brings its own river lineup, the **SquidFest** nights (two days of ocean squid, which normally require rain or a specific season), and one of the game's hardest catches:
+Animals cannot graze outside through Winter. Check the feeding bench and the reserve, not just the amount you remember buying earlier. Deluxe autofeeders need hay in the silo to work.
 
-- The **Glacierfish** legendary fish is winter-only, so January and February are your only windows if you're chasing it — requirements and the full fight are in the [legendary fish guide](/guides/legendary-fish-guide/).
-- Crab pots keep producing (mussels and cockles) whether or not it snows.
-- Rainy winter days are the prime squid hours the rest of the year would pay you to miss — see the [fishing guide for beginners](/guides/fishing-guide-beginners/) for the weather table.
+Use the [silo and hay guide](/guides/silo-hay-winter-feeding-guide/) to budget the remaining season. If the supply is short, buy or move hay before it becomes an emergency. Expansion can wait until the existing animals are covered.
 
-## Mining — winter's real job
+Outdoor grass persists in 1.6 but is dormant and gives less hay when cut. It is a limited reserve rather than a renewable Winter feeding plan.
 
-With no watering to plan your day around, mining becomes uninterrupted: twenty-eight days is enough to finish the mine's 120 levels, gather a year's worth of iridium, and set up a Skull Cavern routine. That means:
+## Choose one upgrade that removes a Spring problem
 
-- **Ores and bars for every tool upgrade** before Spring 1.
-- **Gems and geodes** for bundles and the Blacksmith.
-- **Battery Packs and iridium** for the Iridium Sprinkler build list ([sprinkler guide](/guides/sprinkler-guide/)).
-- If you're past the regular mine, the [Skull Cavern guide](/guides/skull-cavern-guide/) shows how a winter Skull run funds your entire Spring seed budget.
+A can upgrade is convenient if no crops need it during the hand-in. A pickaxe upgrade helps future ore trips but interrupts mining while Clint has it. Choose according to the work you are actually doing that week.
 
-## Festivals: three dates that matter
+Write down the hand-in and collection days, then check shop access. Our [tool guide](/guides/tool-upgrades-guide/) explains the timing. Winter reduces some conflicts; it does not remove the need to collect a tool or water an active crop patch.
 
-- **Winter 8 — Festival of Ice.** The ice fishing contest at the mountain lake; winning needs nothing but a decent catch and a few minutes of your day.
-- **Winter 12–13 — SquidFest.** The beach stays open late both nights with squid biting all day — plan your ocean fishing around it.
-- **Winter 25 — Feast of the Winter Star.** The secret-Santa gift exchange plus free gifts for the whole town. Giving villagers their loved gifts on this day is friendship gold — check the [best gifts list](/guides/best-gifts-villagers/).
+For buildings, keep room for future routes and grazing. The [farm layout guide](/guides/farm-layout-tips/) helps you compare a planned footprint with the paths already in use.
 
-## The upgrade window
+## Fish or mine between farm chores
 
-Tool upgrades take two days and lock you out of that tool — in Spring that costs you watered fields. **Winter has no such cost.** Send in:
+Pick a fishing target with Winter availability, or use a session for ordinary sale catches. A collection goal may require a particular time or location. It should not be planned around real-world months such as January: the game's Winter has twenty-eight days of its own.
 
-1. **Watering Can** → next tier (you weren't using it anyway).
-2. **Hoe** → bigger tilled area = bigger Spring fields.
-3. **Pickaxe and Axe** → timed around your mining streaks.
+For mining, choose the next checkpoint or a material batch. The [beginner mining guide](/guides/mining-guide-beginners/) explains a manageable outing. Finishing the regular mines does not mean every later cavern is equally safe.
 
-Buildings follow the same logic: order coops, barns, and sheds from Robin during the slow months so they're finished before the Spring planting rush.
+Keep a small part of the budget for the next outing's food. A pile of bars is less helpful if gathering it leaves you unable to operate the farm afterward.
 
-## Winter income checklist
+## Put the events on the calendar
 
-- **Greenhouse first if you have it** — it fully replaces winter crops ([greenhouse guide](/guides/greenhouse-guide/)).
-- **Process everything**: milk → cheese, eggs → mayo, fruit → wine run all winter in your kegs and presses.
-- **Animals still need you**: hay in troughs (silo!), heaters in buildings, pets every morning — see the [animals guide](/guides/animals-guide/).
-- **The Traveling Cart** (Fri/Sun) sells odd seeds, Rare Seeds, and sprinkler stock — a good place to grab next year's starts early.
-- **Clear debris** on the farm: big stumps and boulders you've been ignoring take up field space you'll want on Spring 1.
+| Winter date | Event |
+|---|---|
+| 8 | Festival of Ice |
+| 12–13 | SquidFest |
+| 15–17 | Night Market |
+| 25 | Feast of the Winter Star |
 
-## The bottom line
+The [Night Market guide](/guides/night-market-guide/) covers the different boat hours and why time still matters there. Check each event's rules rather than assuming every festival pauses the day or handles animal feeding for you.
 
-Winter is maintenance season with a bonus: while the snow locks the fields, it opens the mines and the fishing seasons you'd never get to in busy months. Mine hard, upgrade tools freely, hit all three festivals, keep animals fed and greenhouse kegs running — and by Spring 1 you'll have the bars, the sprinklers, and the cash to plant a season no one else can match. The new year starts in the [first-week guide](/guides/first-week-guide/), and bite-sized winter tricks live on the [Tip Galaxy](/).
+For the gift exchange, prepare something suitable for your assigned recipient rather than bringing an undirected pile of gifts.
+
+## Leave money and access for Spring 1
+
+Before the season ends, decide the size of the next field, keep seed money available, and clear the routes you will use on planting day. Check equipment and supplies before buying another decorative or optional item.
+
+The [Spring crop guide](/guides/spring-crop-guide/) gives a starting point. If the farm is still small, a modest field with time left for town and fishing is a reasonable plan for the new year too.
+
+**References:** seasonal growth rules and event dates checked against the linked Winter page on 24 October 2026; Powdermelon timing comes from its item entry. This revision corrects the claim that Winter has no outdoor crops and removes the rainy-Winter squid advice.

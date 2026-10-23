@@ -2,13 +2,12 @@
 title: "Silo and Hay Guide: Plan Animal Feed Before Winter"
 description: "Build your first silo, understand hay hoppers and autofeeders, and calculate a safe Winter feed budget for your Stardew Valley animals."
 pubDate: 2026-10-24
+updatedDate: 2026-10-24
 category: "Farming"
 tags: ["silo", "hay", "animals", "winter", "beginner"]
 ---
 
-Buying animals creates a recurring job that does not appear in the building’s purchase price: keeping food available when grazing is not an option. A silo helps you collect that food, but storage and feeding are different tasks. If your chickens seem hungry beside a full silo, the missing step may be inside the coop rather than out in the field.
-
-This guide focuses on a simple feeding system you can inspect at a glance, plus a conservative Winter budget that leaves room for mistakes. It assumes an unmodded 1.6 game; mods can change building behavior and animal needs.
+A full silo does not feed animals in a basic or Big building by itself. Take hay from the hopper and put it on the bench. Deluxe buildings handle that step automatically, provided there is hay in storage.
 
 > **At a glance**
 >
@@ -86,4 +85,4 @@ Count current and expected animals, set a reserve target, inspect storage capaci
 
 For choosing livestock and understanding their products, continue with our [animals guide](/guides/animals-guide/). For a manageable first-year spending plan, read our [Year 1 income guide](/guides/make-money-year-one/).
 
-**Sources and scope:** linked Wiki references checked on 24 October 2026. The reserve table is our conservative calculation; it does not attempt to minimize feed using festival exceptions. Building rules and Winter grass behavior assume an unmodded 1.6 game.
+**References:** linked Wiki references checked on 24 October 2026. The reserve table is our conservative calculation; it does not attempt to minimize feed using festival exceptions. Building rules and Winter grass behavior assume an unmodded 1.6 game.

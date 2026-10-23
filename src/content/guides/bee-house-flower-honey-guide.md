@@ -2,11 +2,12 @@
 title: "Bee House Guide: Keep Flowers Growing and Harvest Better Honey"
 description: "Set up a small Stardew Valley apiary, avoid accidentally harvesting its flowers, and decide when honey deserves more farm space."
 pubDate: 2026-10-24
+updatedDate: 2026-10-24
 category: "Farming"
 tags: ["bee house", "honey", "flowers"]
 ---
 
-A Bee House can look productive while quietly giving you ordinary honey. The difference is often one flower: whether it has bloomed, whether it is close enough, and whether you picked it before collecting. A good beginner apiary is designed around preserving that flower and making the collection route easy.
+Collect the honey before picking the flower. Honey type is decided at collection, so harvesting a nearby bloom first can turn a ready batch into Wild Honey. Leave the flower standing and give yourself a clear path to the Bee Houses.
 
 > **At a glance**
 >
@@ -22,7 +23,7 @@ Start with one or a few Bee Houses and a clearly accessible flower patch. The fi
 
 The [Bee House reference](https://wiki.stardewvalley.net/Bee_House) documents the recipe and flower rules. Maple Syrup is a separate supply constraint, so prepare the relevant tree using our [tapper guide](/guides/tapper-tree-products-guide/) rather than assuming you can craft an apiary from mined materials alone.
 
-Keep the first setup on your farm. Elaborate off-farm layouts add pathing and access questions that do not help you learn the basic cycle. A small test patch also makes it easier to spot an accidentally picked flower.
+Keep the first setup on your farm. Elaborate off-farm layouts add pathing and access questions that do not help you learn the basic cycle.
 
 ## Grow the flower as a crop
 
@@ -60,4 +61,4 @@ Expand after you have collected a successful flower batch and can reach every ho
 
 For another processing route that competes for crafting resources, read our [keg versus preserves jar guide](/guides/keg-vs-preserves-jar/). A mixed farm can be easier to manage than committing every resource to one system at once.
 
-**Sources and scope:** mechanics and listed prices checked against the [Bee House Wiki entry](https://wiki.stardewvalley.net/Bee_House) on 24 October 2026. Layout advice is our recommendation for an outdoor main-farm setup in unmodded 1.6; later island layouts have different seasonal opportunities.
+**References:** mechanics and listed prices checked against the [Bee House Wiki entry](https://wiki.stardewvalley.net/Bee_House) on 24 October 2026. Layout advice is our recommendation for an outdoor main-farm setup in unmodded 1.6; later island layouts have different seasonal opportunities.

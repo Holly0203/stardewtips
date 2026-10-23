@@ -2,13 +2,12 @@
 title: "Backpack and Storage Guide: Carry Less, Keep What Matters"
 description: "Choose when to buy backpack upgrades, build useful chest categories, and prepare distinct fishing, mining, and town-trip loadouts."
 pubDate: 2026-10-24
+updatedDate: 2026-10-24
 category: "Getting Started"
 tags: ["backpack", "inventory", "chests", "beginner"]
 ---
 
-A full backpack is often a sorting problem before it becomes an upgrade problem. Carrying yesterday's forage, tomorrow's building materials, every tool, and a few gifts can leave almost no room for today's activity. Buying space helps, but so does deciding what the trip is actually for.
-
-This guide gives you a simple storage system and a way to judge when paying for more capacity is worthwhile.
+Leave the watering can at home for a fishing trip. That one change frees a slot immediately; storing spare seeds, building materials, and yesterday’s forage often frees several more. If the pack still fills halfway through the outing, the first upgrade is worth considering.
 
 > **At a glance**
 >
@@ -24,7 +23,7 @@ Return home and sort everything that has no role in the next activity. A crop re
 
 Then look at how many slots are genuinely needed. A small required loadout with room for results may work well at the current capacity. A stripped-down mining trip that still fills immediately is stronger evidence that an upgrade will help.
 
-The [Inventory reference](https://stardewvalleywiki.com/Inventory) documents capacity and prices. The purchase should solve the repeated limit you actually encounter, not merely tidy up a pack filled with unrelated items.
+The [Inventory reference](https://stardewvalleywiki.com/Inventory) documents capacity and prices.
 
 ## Use a few categories you can remember
 
@@ -68,4 +67,4 @@ The second upgrade is a larger payment. Buying it should not leave a growing far
 
 An extra row is permanent capacity, while seed money is a near-term requirement. The [Year 1 income guide](/guides/make-money-year-one/) can help you keep both in the budget rather than treating every spare coin as immediately available.
 
-**Sources and scope:** capacities, upgrade prices, and inventory-interface behavior checked against the [Inventory Wiki entry](https://stardewvalleywiki.com/Inventory) on 24 October 2026. Loadouts and storage categories are our suggestions for unmodded 1.6; exact controls depend on platform and settings.
+**References:** capacities, upgrade prices, and inventory-interface behavior checked against the [Inventory Wiki entry](https://stardewvalleywiki.com/Inventory) on 24 October 2026. Loadouts and storage categories are our suggestions for unmodded 1.6; exact controls depend on platform and settings.
