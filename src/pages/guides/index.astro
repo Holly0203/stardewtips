@@ -21,8 +21,8 @@ const byCategory = CATEGORIES.map((c) => ({
 >
 	<section class="hero container">
 		<h1>All Guides</h1>
-		<p class="lede">{guides.length} original guides covering every season of your farm.</p>
-	</section>
+		<p class="lede">{guides.length} guides covering every season of your farm. Choose a topic below or search for a crop, skill, or goal.</p>
+	<label class="search-label" for="guide-search">Find a guide</label><input class="guide-search" id="guide-search" type="search" placeholder="Try crops, fishing, gifts…"/><p id="search-status" role="status" aria-live="polite"></p></section>
 
 	{byCategory.map((c) => (
 		<section class="section container">
@@ -35,3 +35,15 @@ const byCategory = CATEGORIES.map((c) => ({
 		</section>
 	))}
 </Base>
+
+<script>
+const input = document.querySelector<HTMLInputElement>('#guide-search');
+input?.addEventListener('input', () => {
+ const query = input.value.trim().toLowerCase();
+ let count = 0;
+ document.querySelectorAll<HTMLAnchorElement>('.post-card').forEach(card => { card.hidden = !card.textContent?.toLowerCase().includes(query); if (!card.hidden) count++; });
+ document.querySelectorAll<HTMLElement>('main > .section').forEach(section => { section.hidden = !section.querySelector('.post-card:not([hidden])'); });
+ const status = document.querySelector('#search-status');
+ if (status) status.textContent = query ? `${count} guide${count === 1 ? '' : 's'} found.${count ? '' : ' Try a broader term, such as farming or fishing.'}` : '';
+});
+</script>

@@ -2,12 +2,12 @@
 title: "How to Make Money Fast in Year 1: The Complete Guide"
 description: "Every proven way to earn gold in your first Stardew Valley year — fishing, crops, foraging, mining, and artisan goods — ranked with real prices and a season-by-season plan."
 pubDate: 2026-10-21
-updatedDate: 2026-10-21
+updatedDate: 2026-10-23
 category: "Getting Started"
 tags: ["money", "beginner", "farming", "fishing", "mining"]
 ---
 
-Year 1 is the hardest year in Stardew Valley. You start with 500g, five basic tools, and 15 Parsnip seeds — and every method of earning gold is locked behind a skill level, a season, or a bundle you haven't finished. This guide ranks the five real money sources by when they pay off, with exact prices, and ends with a season-by-season plan that reliably turns your first year into a six-figure one.
+Year 1 is the hardest year in Stardew Valley. On a Standard Farm, you start with 500g, basic tools, and 15 Parsnip seeds — and every method of earning gold is locked behind a skill level, a season, or a bundle you haven't finished. This guide ranks the five real money sources by when they pay off, with exact prices, and ends with a season-by-season plan that reliably turns your first year into a six-figure one.
 
 > **At a glance**
 >
@@ -22,7 +22,7 @@ Year 1 is the hardest year in Stardew Valley. You start with 500g, five basic to
 For the first two weeks, fishing earns more gold per day than anything else on the farm. You have a small plot, little energy, and no sprinklers — but the ocean doesn't care.
 
 - ![Sardine](/images/items/sardine.png) Sardines and ![Anchovy](/images/items/anchovy.png) anchovies off the beach sell for 30–40g per fish at 8 energy a cast.
-- ![Largemouth Bass](/images/items/largemouth-bass.png) Largemouth Bass (100g) and ![Rainbow Trout](/images/items/rainbow-trout.png) Rainbow Trout (65g) bite in the mountain lake and forest river from day one.
+- ![Largemouth Bass](/images/items/largemouth-bass.png) Largemouth Bass (100g) can be caught in the mountain lake in Spring. ![Rainbow Trout](/images/items/rainbow-trout.png) Rainbow Trout (65g) become available in Summer, during sunny weather in the rivers and mountain lake.
 - Rainy days bring ![Catfish](/images/items/catfish.png) Catfish (200g) in the town river and forest.
 
 Every catch also levels Fishing, which unlocks the ![Fiberglass Rod](/images/items/fiberglass-rod.png) Fiberglass Rod (1,800g at level 2 — enables bait) and the game-changer ![Iridium Rod](/images/items/iridium-rod.png) Iridium Rod (level 6). The full progression is in our [fishing guide for beginners](/guides/fishing-guide-beginners/). Fishing is front-loaded: strong in Spring, outclassed by crops from Summer onward.
@@ -36,7 +36,7 @@ Farming is your steady income, and the right crop choice is pure arithmetic. The
 | ![Parsnip](/images/items/parsnip.png) Parsnip | Spring | 20g | 4 | 35g ×1 | your free starter |
 | ![Strawberry](/images/items/strawberry.png) Strawberry | Spring | 100g (Egg Festival) | 8, then 4 | 120g ×1 | best Spring ROI by far |
 | ![Blueberry](/images/items/blueberry.png) Blueberry | Summer | 80g | 13, then 4 | 50g ×**3** | 3 berries per pick |
-| ![Melon](/images/items/melon.png) Melon | Summer | 80g | 12 | 250g ×1 | one-off; great with Iridium Soil |
+| ![Melon](/images/items/melon.png) Melon | Summer | 80g | 12 | 250g ×1 | one-off; save one for a Summer bundle |
 | ![Cranberry](/images/items/cranberries.png) Cranberry | Fall | 240g | 7, then 5 | 75g ×**2** | the Fall money printer |
 | ![Pumpkin](/images/items/pumpkin.png) Pumpkin | Fall | 100g | 13 | 320g ×1 | strong, but slower than cranberries |
 
@@ -46,7 +46,7 @@ Two rules fall out of this table. First, **regrowing crops beat one-time crops**
 
 Foraging costs energy you'd otherwise waste. Each season scatters sellable items across the map:
 
-- **Spring:** ![Wild Horseradish](/images/items/wild-horseradish.png) (50g), ![Daffodil](/images/items/daffodil.png) (30g), ![Leek](/images/items/leek.png) (60g), ![Dandelion](/images/items/dandelion.png) (40g), ![Spring Onion](/images/items/spring-onion.png) (45g).
+- **Spring:** ![Wild Horseradish](/images/items/wild-horseradish.png) (50g), ![Daffodil](/images/items/daffodil.png) (30g), ![Leek](/images/items/leek.png) (60g), ![Dandelion](/images/items/dandelion.png) (40g), ![Spring Onion](/images/items/spring-onion.png) (8g).
 - **Summer:** Spice Berry (80g), ![Grape](/images/items/grape.png) (80g), Sweet Pea (50g).
 - **Fall:** Wild Plum (200g), Hazelnut (90g), Blackberry (40g), Common Mushroom (40g).
 - **Winter:** Crystal Fruit (150g), Snow Yam (100g), Crocus (60g), Winter Root (70g).
@@ -84,3 +84,8 @@ Once you can build a Keg (Wood 30, Copper Bar 1, Iron Bar 1, Oak Resin 1 — Far
 ## The bottom line
 
 **Fishing carries Spring, regrowing crops build Summer and Fall, and artisan goods are where wealth compounds.** The one mistake that sinks Year 1 is spending profits on anything except seeds, sprinklers, and tool upgrades. Reinvest religiously and you'll hit Fall with real momentum — Winter is then just a processing season, not a dead one. When your gold is flowing, spend it where it multiplies: our [sprinkler guide](/guides/sprinkler-guide/) shows the best early purchase on the whole farm.
+
+
+## References and scope
+
+Base sale values exclude quality and profession bonuses. This plan is for an unmodded game, not a guaranteed income target. References: [Rainbow Trout seasons and locations](https://stardewvalleywiki.com/Rainbow_Trout), [Spring Onion values](https://stardewvalleywiki.com/Spring_Onion), and [crop mechanics](https://stardewvalleywiki.com/Crops). Corrected on 23 October 2026: Rainbow Trout season, Spring Onion base price, and a nonexistent fertilizer reference.

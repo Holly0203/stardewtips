@@ -2,7 +2,7 @@
 title: "Community Center Guide: Every Bundle, Reward, and the Best Order (v1.6)"
 description: "All 30 Community Center bundles in Stardew Valley 1.6 — exact items, room rewards, the Joja alternative, and the completion order that earns the most."
 pubDate: 2026-10-21
-updatedDate: 2026-10-21
+updatedDate: 2026-10-23
 category: "Community"
 tags: ["community center", "bundles", "beginner", "progression"]
 ---
@@ -27,7 +27,7 @@ In v1.6 the Crafts Room holds the **four seasonal foraging bundles plus Construc
 
 | Bundle | Items (choose from) | Reward |
 |--------|--------------------|--------|
-| Spring Foraging | ![Wild Horseradish](/images/items/wild-horseradish.png), ![Daffodil](/images/items/daffodil.png), ![Leek](/images/items/leek.png), ![Dandelion](/images/items/dandelion.png), ![Spring Onion](/images/items/spring-onion.png) (pick 4) | 30 Spring Seeds |
+| Spring Foraging | ![Wild Horseradish](/images/items/wild-horseradish.png), ![Daffodil](/images/items/daffodil.png), ![Leek](/images/items/leek.png), ![Dandelion](/images/items/dandelion.png) (all 4) | 30 Spring Seeds |
 | Summer Foraging | ![Grape](/images/items/grape.png), Spice Berry, Sweet Pea (all 3) | 30 Summer Seeds |
 | Fall Foraging | Common Mushroom, Plum, ![Hazelnut](/images/items/hazelnut.png), ![Blackberry](/images/items/blackberry.png) (pick 4) | 30 Fall Seeds |
 | Winter Foraging | ![Winter Root](/images/items/winter-root.png), ![Crystal Fruit](/images/items/crystal-fruit.png), ![Snow Yam](/images/items/snow-yam.png), ![Crocus](/images/items/crocus.png), Holly (pick 4) | 30 Winter Seeds |

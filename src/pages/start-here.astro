@@ -1,0 +1,12 @@
+---
+import Base from '../layouts/Base.astro';
+const steps = [
+['01','Start with a manageable first week','first-week-guide','Clear only the space you need. A small field leaves you time and energy to learn fishing, meet your neighbours, and explore. Use this day-by-day plan as a starting point rather than a deadline.'],
+['02','Choose what your energy can support','energy-management-tips','Before buying more seeds, think about watering. If chores consume the morning, keep the field small and put spare time into fishing or foraging.'],
+['03','Plan your first planting','spring-crop-guide','Compare seed cost, growing time, and your next harvest date. Keep spending money for new seeds and remember that most crops die when their season ends.'],
+['04','Learn a second source of income','fishing-guide-beginners','Fishing gives you something useful to do between harvests. Start with easy catches and consider the Training Rod if the minigame feels difficult.'],
+['05','Make each mine trip achievable','mining-guide-beginners','Take food and leave room in your backpack. Aim for the next elevator checkpoint instead of carrying everything or staying until you collapse.'],
+['06','Save the things you will need later','community-center-guide','Check bundle requirements before shipping your last seasonal item. This guide covers standard bundles; remixed bundles can ask for different items.'],
+];
+---
+<Base title="Start Here: Your First Stardew Valley Farm" description="A practical reading path for a fresh Stardew Valley save: your first week, energy, crops, fishing, mines, and bundles."><div class="simple-page container"><p class="eyebrow">THE NEW FARMER’S READING PATH</p><h1>A fresh save.<br/>A little direction.</h1><p>You don’t need a perfect first year. This route helps you understand one system at a time, without turning your farm into a to-do list. It assumes an unmodded game with standard bundles; farm types and settings can change your starting resources.</p><div class="reading-path">{steps.map(([n,title,id,desc])=><section><span class="eyebrow">STEP {n}</span><h2><a href={`/guides/${id}/`}>{title} →</a></h2><p>{desc}</p></section>)}</div><h2>Prefer to follow the seasons?</h2><p>Continue with <a href="/guides/summer-crop-guide/">Summer crops</a>, <a href="/guides/fall-crop-guide/">Fall crops</a>, and <a href="/guides/winter-guide/">your first Winter</a>. For a specific question, <a href="/guides/">search the full guide library</a>.</p></div></Base>

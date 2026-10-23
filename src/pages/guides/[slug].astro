@@ -39,7 +39,7 @@ const structuredData = [
     description: guide.data.description,
     datePublished: guide.data.pubDate.toISOString().slice(0, 10),
     dateModified: (guide.data.updatedDate ?? guide.data.pubDate).toISOString().slice(0, 10),
-    author: { '@type': 'Organization', name: 'Stardew Tips', url: 'https://stardewtips.com/' },
+    author: { '@type': 'Person', name: 'Holly', url: 'https://stardewtips.com/about/' },
     publisher: { '@type': 'Organization', name: 'Stardew Tips' },
     mainEntityOfPage: url.toString(),
     inLanguage: 'en',
@@ -99,8 +99,10 @@ const structuredData = [
 					<span>{dateStr}</span>
 					{updatedStr && updatedStr !== dateStr && <span>Updated {updatedStr}</span>}
 					<span>{minutes} min read</span>
+                    <a href="/about/">By Holly · Stardew Tips</a>
 				</div>
 			</header>
+			<p class="article-scope">Guide scope: unmodded Stardew Valley 1.6. Settings, platforms, and mods may change results. <a href="/editorial-policy/">Sources & corrections</a></p>
 			<div class="prose">
 				<Content />
 			</div>

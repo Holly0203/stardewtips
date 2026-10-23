@@ -2,12 +2,12 @@
 title: "First Week in Stardew Valley: A Day-by-Day Guide (Spring 1–7)"
 description: "Exactly what to do from Spring 1 to Spring 7 in Stardew Valley — what to plant, the free fishing rod, the mines, and setting up a profitable first year."
 pubDate: 2026-10-21
-updatedDate: 2026-10-21
+updatedDate: 2026-10-23
 category: "Getting Started"
 tags: ["first week", "beginner", "spring", "walkthrough"]
 ---
 
-Your first week on the farm sets the tone for your entire first year. Stardew Valley doesn't explain much — it just drops you at a weed-choked plot with 500g, a handful of tools, and no plan. This guide gives you one: a day-by-day routine for Spring 1 through 7 that turns that overgrown field into a working farm and gets you earning gold from day two.
+Your first week on the farm sets the tone for your entire first year. Stardew Valley doesn't explain much — it just drops you on a new farm with unfamiliar tools and little direction. On the Standard Farm, you begin with 500g and 15 Parsnip Seeds. This guide gives you one: a day-by-day routine for Spring 1 through 7 that turns that overgrown field into a working farm and gets you earning gold from day two.
 
 > **At a glance**
 >
@@ -19,7 +19,7 @@ Your first week on the farm sets the tone for your entire first year. Stardew Va
 
 ## Day 1 (Spring 1): plant and introduce yourself
 
-- **Clear a small patch near your house.** Cut weeds with your scythe (they become Mayonnaise-machine ingredients later, and you get experience), then till about 15–20 tiles with the ![Hoe](/images/items/wood.png) hoe — enough space for your starter seeds plus a few you'll buy.
+- **Clear a small patch near your house.** Cut weeds with your scythe to make space and collect any Fiber they drop, then till about 15–20 tiles with the ![Hoe](/images/items/wood.png) hoe — enough space for your starter seeds plus a few you'll buy.
 - **Plant and water your 15 Parsnip seeds.** Parsnips take just 4 days to grow and sell for 35g each. This is your seed money, so water every single day.
 - **Walk around town and talk to everyone.** First conversations give friendship points for free, and you'll learn where the shops, the beach, and the forest are.
 - **Go to bed early.** Your energy bar is small at the start and you have no good food yet — don't burn out by 4pm on day one.
@@ -34,9 +34,9 @@ If the fishing minigame frustrates you, Willy also sells the **Training Rod for 
 
 ## Day 3 (Spring 3): let the rain work for you
 
-The first rain of Spring usually arrives around now. On rainy days **you don't need to water crops at all**, so spend the whole day fishing or foraging. Early Spring foraging is free money and free energy:
+In an unmodded first year, Spring 3 is a guaranteed rainy day. On rainy days **you don't need to water crops at all**, so spend the whole day fishing or foraging. Early Spring foraging is free money and free energy:
 
-- ![Wild Horseradish](/images/items/wild-horseradish.png) Wild Horseradish, ![Daffodil](/images/items/daffodil.png) Daffodils, ![Leek](/images/items/leek.png) Leeks, ![Dandelion](/images/items/dandelion.png) Dandelions, and ![Spring Onion](/images/items/spring-onion.png) Spring Onions all sell for 30–40g and several restore a little energy when eaten.
+- ![Wild Horseradish](/images/items/wild-horseradish.png) Wild Horseradish, ![Daffodil](/images/items/daffodil.png) Daffodils, ![Leek](/images/items/leek.png) Leeks, ![Dandelion](/images/items/dandelion.png) Dandelions, and ![Spring Onion](/images/items/spring-onion.png) Spring Onions have different sale values; edible forage can also restore energy. Daffodils are not edible, so keep those for selling, gifting, or bundles.
 
 Check the TV in your house each morning — the weather forecast tells you whether tomorrow will rain, which helps you plan watering and tool upgrades around it.
 
@@ -51,7 +51,7 @@ Our [Spring crop guide](/guides/spring-crop-guide/) compares profit-per-day for 
 
 - **Harvest your Parsnips** (planted on Day 1, ready on Day 5 — 15 × 35g = 525g shipped overnight) and reinvest in more seeds.
 - **The rockslide blocking the mines is cleared.** Head to the mountains, grab your first ![Copper Ore](/images/items/copper-ore.png) ores and ![Geode](/images/items/geode.png) geodes, and don't push deeper than you can safely climb back. Leveling Mining gives you gems, metal for tool upgrades, and bundles for the Community Center. The full routine is in our [mining guide for beginners](/guides/mining-guide-beginners/).
-- **Visit the Community Center** in Cinderspace Forest when the cutscene invites you in. Its request list ([the Community Center guide](/guides/community-center-guide/) explains every bundle) quietly shapes your first year — it's why you should keep some fish, crops, and forage instead of selling everything.
+- **Visit the Community Center** in northern Pelican Town. From Spring 5 onward, enter town from the Bus Stop between 8am and 1pm on a non-rainy day to trigger its introduction. Its request list ([the Community Center guide](/guides/community-center-guide/) explains every bundle) quietly shapes your first year — it's why you should keep some fish, crops, and forage instead of selling everything.
 
 ## Days 6–7 (Spring 6–7): build the routine
 
@@ -62,7 +62,7 @@ By now you have the rhythm every experienced farmer runs on:
 3. **Talk to villagers** you pass on the way; gifts are cheap and friendship pays off later.
 4. **Ship everything** in the bin by 2am and sleep before midnight for a full energy bar.
 
-This week also buys you **oil and torches for the mines**, a first stack of geodes to crack open at the Blacksmith, and — most importantly — savings.
+This week also buys you **food for the mines**, a first stack of geodes to crack open at the Blacksmith, and — most importantly — savings.
 
 ## Save for the Egg Festival (Spring 13)
 
@@ -73,10 +73,15 @@ The Egg Festival is Pierre's market day in the square, and the single best inves
 1. Plant and harvest all 15 Parsnips.
 2. Get the Bamboo Pole and reach Fishing level 2.
 3. Enter the mines and bring back Copper Ore.
-4. Reinvest every coin into Potatoes and Kale.
+4. Reinvest some earnings into seeds, keeping money for food and festival purchases.
 5. Stash 1,000g+ for Strawberry seeds.
 6. Peek inside the Community Center and start saving bundle items.
 
 ## The bottom line
 
 The first week is about **momentum**: plant cheap fast crops, convert spare energy into fishing gold, unlock the mines on Day 5, and pour everything back into seeds. Do that and you'll stroll into the Egg Festival with cash to burn — while most new players are still wondering why they're broke. For the next steps, read [how to make money in your first year](/guides/make-money-year-one/) and our [energy management tips](/guides/energy-management-tips/) so you never waste a day to exhaustion.
+
+
+## References and scope
+
+This route assumes the Standard Farm, standard bundles, and an unmodded 1.6 game. Other farm types can have different starting gifts. See the [Wiki weather reference](https://stardewvalleywiki.com/Weather), [Community Center entry conditions](https://stardewvalleywiki.com/Community_Center), and [Spring Onions](https://stardewvalleywiki.com/Spring_Onion). Corrected on 23 October 2026: weed cutting, forage values, Community Center location and entry conditions, and mine supplies.
