@@ -42,7 +42,7 @@ Check the TV in your house each morning — the weather forecast tells you wheth
 
 ## Day 4 (Spring 4): reinvest
 
-- **Buy more seeds from Pierre.** Potato Seeds (50g, 6 days, sells for 80g and sometimes yields an extra potato) and Kale Seeds (100g, 6 days, sells for 110g) are the two best uses of your first few hundred gold.
+- **Buy more seeds from Pierre.** Potato Seeds (50g, 6 days, sells for 80g and sometimes yields an extra potato) and Kale Seeds (70g, 6 days, sells for 110g) are the two best uses of your first few hundred gold.
 - **Keep fishing and foraging** with whatever energy you have left after watering.
 
 Our [Spring crop guide](/guides/spring-crop-guide/) compares profit-per-day for every Spring crop if you want to optimize this step.

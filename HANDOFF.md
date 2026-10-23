@@ -34,44 +34,66 @@
 ```
 stardewtips/
 ├── astro.config.mjs          # site 域名 + sitemap 集成
-├── src/content.config.ts     # guides 集合定义（Content Layer API）
-├── src/content/guides/*.md   # 所有攻略文章（20 篇）
-├── src/layouts/Base.astro    # 全局布局（含 <head>、AdSense 代码、导航、页脚）
+├── src/content.config.ts     # guides 集合定义（Content Layer API；draft 默认 false）
+├── src/content/guides/*.md   # 攻略文章（20 篇，已全部深度重写）
+├── src/data/tips.ts          # Tip Galaxy 的 100 条 tips 数据
+├── src/utils/categories.ts   # 5 大分类定义 + 季节色映射
+├── src/utils/readingTime.ts  # 阅读时长估算（200wpm）
+├── src/layouts/Base.astro    # 全局布局（<head> AdSense、JSON-LD、Google Fonts、导航、页脚）
+├── src/components/PostCard.astro # 复用文章卡片（分类色条）
 ├── src/pages/
-│   ├── index.astro           # 首页：列出非 draft 文章（按 pubDate 倒序）
-│   ├── guides/[slug].astro   # 文章详情页（getStaticPaths 过滤 draft）
-│   ├── about.astro           # AdSense 要求的 About 页
-│   ├── privacy.astro         # AdSense 要求的隐私政策页（含 AdSense cookie 披露）
-│   └── contact.astro         # 联系页
-├── src/styles/global.css     # 全局样式
-├── public/images/items/      # 1454 张 wiki 物品图标（48x48）
+│   ├── index.astro           # 首页：Hero + Start Here + Tip Galaxy + 最新攻略
+│   ├── guides/index.astro    # 全部攻略按分类分组
+│   ├── guides/[slug].astro   # 文章页：面包屑/粘性 TOC/阅读时长/上一篇下篇/相关文章
+│   ├── categories/[category].astro # 5 个分类页
+│   ├── 404.astro             # 品牌化 404
+│   ├── about.astro / privacy.astro / contact.astro  # AdSense 要件
+├── src/styles/global.css     # 温馨田园像素风 design tokens（羊皮纸/木纹/季节色）
+├── public/ads.txt            # AdSense 发布商 ID（缺这个极易被拒）
+├── public/robots.txt         # 允许抓取 + Sitemap 声明
+├── public/favicon.svg        # 像素风嫩芽 favicon
+├── public/og.png             # 1200×630 品牌分享图
+├── public/images/items/      # wiki 物品图标（48x48，NPC 头像是 12 位可结婚角色）
 ├── items.json                # 物品索引：{name, image, category}（1454 条）
+├── docs/ROADMAP.md           # 长期规划（阶段 0–3）
 └── dist/                     # 构建产物（gitignore，本地生成）
 ```
+
+**分类体系（5 类，写新文必须归入其一）**：`Getting Started` / `Farming` / `Fishing` / `Mining` / `Community`。旧文的 `Villagers`/`Guides`/`Money` 已全部归并。
+
+**文章统一模板**：导语 → `> **At a glance**` 要点框（利于 featured snippet）→ H2 章节（表格+图标）→ 底部 "The bottom line" + 下一步阅读内链。每篇 800+ 词、3–5 个 `/guides/<slug>/` 内链。
 
 ---
 
 ## 4. 内容工作流（重要）
 
-**核心机制**：`draft` frontmatter 字段控制发布。`draft: true` 的文章**不构建、不显示**；翻成 `draft: false`（或删掉该字段）即发布。
+**核心机制**：`draft` frontmatter 字段控制发布（schema 默认 `false`）。**写新文时不要写 draft 字段即默认发布**；想暂存草稿就显式写 `draft: true`。20 篇存量文章已全部删除 draft 字段。
 
 ### 新增一篇文章
 
 1. 在 `src/content/guides/` 新建 `xxx.md`（文件名即 URL slug，用 `-` 连接小写词）。
-2. 写 frontmatter：
+2. 写 frontmatter（`updatedDate` 每次实质修改都要更新，页面会显示 "Last updated"）：
 
 ```yaml
 ---
 title: "标题"
-description: "一句话描述（用于 SEO 和列表卡片）"
+description: "120–160 字符，用于 SEO 和列表卡片"
 pubDate: 2026-10-21
-category: "Farming"        # 任意分类字符串
-tags: ["crops", "money"]   # 任意标签数组
-draft: true                # 写稿时 true，审核通过后改 false
+updatedDate: 2026-10-21
+category: "Farming"        # 必须是 5 类之一：Getting Started / Farming / Fishing / Mining / Community
+tags: ["crops", "money"]   # 小写规范
 ---
 ```
 
-3. 正文用标准 Markdown（标题、表格、列表、引用 `>`、粗体等）。
+3. 正文按统一模板：导语 → `> **At a glance**` 要点框 → H2 章节（图标表格）→ "The bottom line" + 内链。800+ 词、3–5 个站内链接。
+
+### 事实核验流程（写作前必做）
+
+stardewvalleywiki.com 与中文 wiki 经常 503（Varnish 限流），WebFetch 也被域名安全策略拦截。可行路径：
+
+1. 用 **Agent + WebSearch** 批量核验数值（价格/天数/解锁条件/NPC 喜好/生日）；
+2. 对 agent 结论中的**可疑项自己再 WebSearch 交叉验证**（阶段 0 实测：agent 和计划书都会出错，如 "Crafts Room 奖励不是 Quarry" 对 1.6 是错的、"Training Rod 涨价到 500g" 也是错的）；
+3. 仍存疑的数值：**模糊化表述或直接删掉**，宁可少写不可写错。
 
 ### 插入物品图标
 
@@ -136,7 +158,7 @@ git push origin master
 
 2. **Astro 7 用 Content Layer API**：`src/content.config.ts` 里用 `loader: glob({...})`，**不是**旧的 `type: 'content'`（旧的会返回空集合）。取文章 ID 用 `guide.id`，**不是** `guide.slug`（否则报 "Missing parameter: slug"）。
 
-3. **`draft` 过滤**在 `src/pages/guides/[slug].astro`（getStaticPaths）和 `index.astro` 两处都用 `!data.draft` 过滤，改一处逻辑要同步考虑另一处。
+3. **`draft` 过滤**在 `src/pages/guides/[slug].astro`（getStaticPaths）、`index.astro`、`guides/index.astro`、`categories/[category].astro` 四处都用 `!data.draft`，改一处逻辑要同步考虑其余三处。
 
 4. **版权红线**：
    - 中文攻略的**行文/措辞**受版权保护，**禁止逐句翻译**发布（衍生作品侵权 + AdSense"非原创/采集内容"违规）。
@@ -150,16 +172,18 @@ git push origin master
 ## 8. 当前状态（截至 2026-10-21）
 
 - ✅ 域名 + HTTPS + Cloudflare 部署完成，`stardewtips.com` 可访问
-- ✅ **20 篇原创英文攻略已全部发布**（`draft: false`），全部内嵌物品图标
+- ✅ **温馨田园像素风改版 + Tip Galaxy 首页**（commit `d271ab5`，已部署）
+- ✅ **20 篇原创英文攻略全部深度重写**（800–1200 词/篇、统一模板、wiki 核验数值、5 分类、每篇 3–5 内链）——**尚未 commit/push，待 Holly 确认后部署**
+- ✅ AdSense 合规：`ads.txt`、`robots.txt`、404、JSON-LD、og.png、像素 favicon 全部就位
 - ✅ 1454 张 wiki 物品图标 + `items.json` 索引已入库
 - ✅ AdSense 代码已上线，**已提交 AdSense 审核（等待结果）**
-- ⬜ favicon 还是 Astro 默认的，未替换
+- 📋 长期规划见 `docs/ROADMAP.md`（阶段 1 是审核等待期的选题清单）
 
 已完成的里程碑 git 提交：
 ```
+d271ab5 Redesign site and launch Tip Galaxy homepage
+0754828 Add project handoff document
 ec2fd29 Publish 19 original guide articles
-6286339 Add item icons and use them in the Spring crop guide
-1602e65 Add Google AdSense auto ads script to site head
 ```
 
 ---

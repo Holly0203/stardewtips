@@ -26,7 +26,7 @@ Tool upgrades are the quiet engine of your whole first year. A better pickaxe mi
 | Gold | 5 ![Gold Bar](/images/items/gold-bar.png) Gold Bars | 10,000g |
 | Iridium | 5 ![Iridium Bar](/images/items/iridium-bar.png) Iridium Bars | 25,000g |
 
-(Yes — the "Steel" tier is built from iron bars.) Each bar is 3–5 ore + 1 coal in your furnace, so a Copper tier is roughly 15 copper ore and 5 coal plus your 2,000g. Bars you smelt but don't upgrade with still sell for a healthy markup, so nothing is wasted — ore comes from the mines (see our [mining guide](/guides/mining-guide-beginners/)) and coal from geodes and Dust Sprites.
+(Yes — the "Steel" tier is built from iron bars.) Each bar is 5 ore + 1 coal in your furnace, so a Copper tier is roughly 25 copper ore and 5 coal plus your 2,000g. Bars you smelt but don't upgrade with still sell for a healthy markup, so nothing is wasted — ore comes from the mines (see our [mining guide](/guides/mining-guide-beginners/)) and coal from geodes and Dust Sprites.
 
 Two rules people learn the hard way: **you lose use of the tool for the full 2 days**, and if Clint's shop is shut when the job finishes (Sundays, festivals), you wait longer to collect it. On rainy days and in Winter those days cost you almost nothing — plan around them.
 

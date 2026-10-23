@@ -1,79 +1,88 @@
 ---
-title: "Community Center Bundles Guide: All Rooms and Rewards"
-description: "Every Community Center bundle in Stardew Valley, what items you need, and the best order to complete the rooms for the biggest rewards."
+title: "Community Center Guide: Every Bundle, Reward, and the Best Order (v1.6)"
+description: "All 30 Community Center bundles in Stardew Valley 1.6 — exact items, room rewards, the Joja alternative, and the completion order that earns the most."
 pubDate: 2026-10-21
-category: "Guides"
+updatedDate: 2026-10-21
+category: "Community"
 tags: ["community center", "bundles", "beginner", "progression"]
-draft: false
 ---
 
-The Community Center is the heart of Stardew Valley's main quest. Fill its bundles with items, and you unlock game-changing rewards — including the Greenhouse and access to the Calico Desert. This guide maps every room and tells you what to prioritize.
+The Community Center is Stardew Valley's master progression track: thirty bundles hidden behind six shrine rooms, each rewarding a machine, an unlock, or a shortcut that shapes your entire first year. The v1.6 bundle list shuffled some rooms around, and most older guides are now wrong. This one is current: every bundle's exact items, every room's reward, and the order to chase them in.
 
-## How the Community Center works
+> **At a glance**
+>
+> - Six rooms: **Crafts Room, Pantry, Fish Tank, Boiler Room, Bulletin Board, Vault.** Most bundles let you choose among several items — you don't need all of them.
+> - The room rewards that matter: **Greenhouse** (Pantry), **bus to the desert** (Vault), **Quarry bridge** (Crafts Room), **minecarts** (Boiler Room).
+> - The best machines come from bundles, not the Forge: **Keg, Cheese Press, Preserves Jar, Furnace, Bee House, Seed Maker.**
+> - Most players rush the Pantry and the Vault; skip Joja unless you hate foraging.
+> - Completing everything (CC *or* Joja) unlocks the Witch's Swamp questline and the **Dark Talisman**.
 
-After the first few days, the Wizard asks you to investigate the old Community Center. Once you read the golden scroll, you can start depositing items into **bundles** — groups of specific items grouped by theme. Complete every bundle in a room to earn that room's reward.
+## How bundles work
 
-> You only need to provide *most* of the items in each bundle, not all of them. Read each bundle's requirements carefully.
+The Wizard sends you into the old building your first few days; reading the golden scroll opens the bundles. Drop the right items on a shrine and the room's paper flutter counts down. **Most bundles ask for "any 3 of 5" or "any 4 of 6"** — check each list before you commit resources. The Community Center never locks you out: every item can be replaced later in another season.
 
-## The six rooms and their rewards
+## Crafts Room — foraging and building (reward: Quarry bridge)
 
-| Room | Main reward | Why it matters |
-|------|-------------|----------------|
-| Pantry | **Greenhouse** | Grow any crop year-round — huge for money |
-| Boiler Room | **Minecarts repaired** | Fast travel around the map |
-| Vault | **Bus repair** | Unlocks the Calico Desert (Starfruit, Skull Cavern) |
-| Crafts Room | **Quarry access** | Free ore and gems |
-| Fish Tank | **Panning** | Pan for ore in rivers |
-| Bulletin Board | **Friendship boost** | Instant hearts with all villagers |
+In v1.6 the Crafts Room holds the **four seasonal foraging bundles plus Construction and Exotic Foraging** — mostly free stuff you pick up anyway:
 
-## What goes in each bundle
+| Bundle | Items (choose from) | Reward |
+|--------|--------------------|--------|
+| Spring Foraging | ![Wild Horseradish](/images/items/wild-horseradish.png), ![Daffodil](/images/items/daffodil.png), ![Leek](/images/items/leek.png), ![Dandelion](/images/items/dandelion.png), ![Spring Onion](/images/items/spring-onion.png) (pick 4) | 30 Spring Seeds |
+| Summer Foraging | ![Grape](/images/items/grape.png), Spice Berry, Sweet Pea (all 3) | 30 Summer Seeds |
+| Fall Foraging | Common Mushroom, Plum, ![Hazelnut](/images/items/hazelnut.png), ![Blackberry](/images/items/blackberry.png) (pick 4) | 30 Fall Seeds |
+| Winter Foraging | ![Winter Root](/images/items/winter-root.png), ![Crystal Fruit](/images/items/crystal-fruit.png), ![Snow Yam](/images/items/snow-yam.png), ![Crocus](/images/items/crocus.png), Holly (pick 4) | 30 Winter Seeds |
+| Construction | 99 ![Wood](/images/items/wood.png) ×2, 99 ![Stone](/images/items/stone.png), 10 ![Hardwood](/images/items/hardwood.png) | Charcoal Kiln |
+| Exotic Foraging | Coconut, Cactus Fruit, Cave Carrot, mushrooms, Maple Syrup, resins, Morel (pick 4) | 5 ![Autumn's Bounty](/images/items/autumn-s-bounty.png) |
 
-### Pantry (the most important)
+Complete the room and the **bridge east of the mines is repaired, opening the Quarry** — a permanent free source of stone, ores, and gems.
 
-The Pantry unlocks the **Greenhouse**, which lets you grow any crop in any season. Bundles include:
+## Pantry — crops and artisan (reward: Greenhouse)
 
-- **Spring Crops:** ![Parsnip](/images/items/parsnip.png) Parsnip, ![Green Bean](/images/items/green-bean.png) Green Bean, ![Cauliflower](/images/items/cauliflower.png) Cauliflower, ![Potato](/images/items/potato.png) Potato.
-- **Summer Crops:** ![Tomato](/images/items/tomato.png) Tomato, ![Blueberry](/images/items/blueberry.png) Blueberry, ![Melon](/images/items/melon.png) Melon, ![Hot Pepper](/images/items/hot-pepper.png) Hot Pepper.
-- **Fall Crops:** ![Corn](/images/items/corn.png) Corn, ![Eggplant](/images/items/eggplant.png) Eggplant, ![Pumpkin](/images/items/pumpkin.png) Pumpkin, ![Yam](/images/items/yam.png) Yam.
-- **Quality Crops:** Gold-star versions of select crops.
-- **Animal and Artisan:** eggs, milk, and artisan goods.
+The money room. Six bundles:
 
-### Boiler Room (do this early)
+- **Spring Crops:** ![Parsnip](/images/items/parsnip.png) + ![Green Bean](/images/items/green-bean.png) + ![Cauliflower](/images/items/cauliflower.png) + ![Potato](/images/items/potato.png) → **20 Speed-Gro**
+- **Summer Crops:** ![Tomato](/images/items/tomato.png) + ![Hot Pepper](/images/items/hot-pepper.png) + ![Blueberry](/images/items/blueberry.png) + ![Melon](/images/items/melon.png) → **![Quality Sprinkler](/images/items/quality-sprinkler.png)**
+- **Fall Crops:** ![Corn](/images/items/corn.png) + ![Eggplant](/images/items/eggplant.png) + ![Pumpkin](/images/items/pumpkin.png) + ![Yam](/images/items/yam.png) → **![Bee House](/images/items/bee-house.png)**
+- **Quality Crops:** 5 *gold-star* Parsnips, Melons, Pumpkins, Corn → **![Preserves Jar](/images/items/preserves-jar.png)**
+- **Animal:** ![Large Milk](/images/items/large-milk.png), ![Large Egg](/images/items/large-egg.png), brown large egg, Large Goat Milk, ![Wool](/images/items/wool.png), ![Duck Egg](/images/items/duck-egg.png) → **![Cheese Press](/images/items/cheese-press.png)**
+- **Artisan:** pick 6 of oil, cloth, cheeses, honey, jellies, and the six tree fruits → **![Keg](/images/items/keg.png)**
 
-Repairs the **Minecarts** for fast travel. You'll need minerals and monster loot like ![Quartz](/images/items/quartz.png) Quartz, ![Frozen Tear](/images/items/frozen-tear.png) Frozen Tear, ![Earth Crystal](/images/items/earth-crystal.png) Earth Crystal, ![Fire Quartz](/images/items/fire-quartz.png) Fire Quartz, plus ![Bat Wing](/images/items/bat-wing.png) Bat Wings and ![Slime](/images/items/slime.png) Slime.
+All six = the **Greenhouse restored** ([our greenhouse guide](/guides/greenhouse-guide/) covers what to plant there).
 
-### Vault (pure gold)
+## Fish Tank — every water body (reward: Copper Pan)
 
-No items — just gold. Four bundles totaling **42,500g** to repair the **bus** and unlock the Desert. This is where Starfruit, Coconuts, and the Skull Cavern live.
+River (Sunfish, Catfish, Shad, Tiger Trout), Lake (Carp, Bullhead, Sturgeon + largemouth bass), Ocean (Sardine, Tuna, Red Snapper, Tilapia), Night Fishing (Walleye, Bream, Eel), Crab Pot (pick 5 shellfish), and Specialty (Pufferfish, Ghostfish, Sandfish, Woodskip). Rewards range from **30 Deluxe Bait** and a **Glow Ring** to **5 Warp Totems: Beach** and 3 extra crab pots. Finish the room and the Glittering Boulder in the river is removed — **Willy gives you a Copper Pan**, and ore-panning by water is yours forever.
 
-### Crafts Room (easy and useful)
+## Boiler Room — smith and slayer (reward: Minecarts)
 
-Unlocks the **Quarry**. Bundles need foraged items from each season and materials like ![Wood](/images/items/wood.png) Wood, ![Stone](/images/items/stone.png) Stone, and ![Hardwood](/images/items/hardwood.png) Hardwood.
+Only three bundles, all mined or killed:
 
-### Fish Tank
+- **Blacksmith's:** Copper + Iron + Gold Bar → **![Furnace](/images/items/furnace.png)**
+- **Geologist's:** ![Quartz](/images/items/quartz.png), ![Earth Crystal](/images/items/earth-crystal.png), ![Frozen Tear](/images/items/frozen-tear.png), ![Fire Quartz](/images/items/fire-quartz.png) → 5 Omni Geodes
+- **Adventurer's:** 99 Slime, 10 ![Bat Wings](/images/items/bat-wing.png), ![Solar Essence](/images/items/solar-essence.png), ![Void Essence](/images/items/void-essence.png) → Small Magnet Ring
 
-Unlocks **panning**. You'll need fish from rivers, lakes, and the ocean, plus a few rare catches like ![Pufferfish](/images/items/pufferfish.png) Pufferfish and ![Ghostfish](/images/items/ghostfish.png) Ghostfish.
+The room reward repairs the **minecart network** — instantly the most convenient fast travel in the game. It's the reason this small room is worth finishing *first* if you mine a lot.
 
-### Bulletin Board
+## Bulletin Board — the grab bag (reward: friendship)
 
-Gives a **friendship boost** with every villager. Bundles include cooking ingredients, flowers, and specific gems like ![Diamond](/images/items/diamond.png) Diamond and ![Ruby](/images/items/ruby.png) Ruby.
+Five rotating bundles: Chef's (→ 3 Pink Cakes), Dye (→ **![Seed Maker](/images/items/seed-maker.png)**), Field Research (→ Recycling Machine), Fodder (10 Wheat, 10 Hay, 3 Apple → **![Heater](/images/items/heater.png)** for winter animals), Enchanter's (Oak Resin, Wine, Rabbit's Foot, Pomegranate → 5 Gold Bars). Completing the board gives **2 hearts with every non-datable villager you've met** — free friendship for the town's whole supporting cast.
 
-## The best order to complete the rooms
+## Vault — pure gold (reward: the bus)
 
-1. **Pantry first** — the Greenhouse is the single best reward for making money.
-2. **Boiler Room second** — minecarts save you time every single day.
-3. **Vault third** — the Desert unlocks Starfruit and end-game content.
-4. **Crafts Room fourth** — the Quarry is a nice passive bonus.
-5. Finish **Fish Tank** and **Bulletin Board** as you go.
+Four coin bundles: 2,500g (→ 3 Chocolate Cakes), 5,000g (→ 30 Quality Fertilizer), 10,000g (→ **Lightning Rod**), 25,000g (→ **Crystalarium**). Total **42,500g** — and completing the Vault **repairs the bus to Calico Desert**: Oasis seeds (Starfruit!), the Skull Cavern, and the trading post all open at once.
 
-## Tips to complete bundles faster
+## JojaMart: the alternative route
 
-- **Plant a little of everything.** Bundles need variety, not volume.
-- **Check the Traveling Cart** (Friday and Sunday) — it sells bundle items you're missing.
-- **Save one of each mineral and gem** until the bundles are done.
-- **Don't sell foraged items** until you've checked the seasonal foraging bundles.
-- **Buy a Silo and animals early** for the Animal and Artisan bundles.
+Joining costs 5,000g and turns the center into a warehouse. The Community Development Form sells the unlocks directly: Minecarts 15,000g • Panning 20,000g • Bridge 25,000g • Greenhouse 35,000g • Bus 40,000g — **135,000g total**, and every bundle reward (keg, press, sprinkler…) is gone. The CC route also closes JojaMart permanently, re-hires Sam, and triggers the abandoned-lot quest chain later. Joja buys you speed with a huge gold tax — worth it mainly if you're fishing-hating or already rich.
+
+## The best order to complete rooms
+
+1. **Boiler Room early** — the Furnace alone (3 bars, trivial) then the minecarts speed up everything.
+2. **Crafts Room in the background** — its bundles are free foraging; the quarry bridge arrives mid-Spring if you try.
+3. **Vault second major push** — the bus unlocks Starfruit, the desert, and iridium income.
+4. **Pantry whenever** — crops fill it naturally; the Greenhouse is the long-term prize.
+5. Fish Tank and Bulletin Board finish themselves if you keep one of each catch.
 
 ## The bottom line
 
-The Community Center is your roadmap through the game. Rush the **Pantry for the Greenhouse**, then the **Boiler Room for minecarts** and the **Vault for the bus**. Complete the rest as you naturally gather items, and you'll unlock nearly everything Stardew Valley has to offer.
+Read the "pick N of M" lists before spending, hold one copy of every fish, gem, and forage, and route your year so the **Furnace → bus → Greenhouse** chain completes as early as possible — it's the shortest path from 500g to self-sustaining. The money math behind each choice is in the [Year 1 money guide](/guides/make-money-year-one/), and one-line bundle tricks orbit the [Tip Galaxy](/).
