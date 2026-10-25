@@ -9,7 +9,7 @@ An English-language Stardew Valley guide site built with Astro. Production: http
 - `src/data/plans.ts`: six curated goal-based reading orders.
 - `src/pages/guides/`: library search and article templates.
 - `src/pages/categories/`: topic-grouped category pages.
-- `public/images/guides/`: original labeled SVG diagrams.
+- `public/images/guides/`: original labeled SVG diagrams and screenshot walkthroughs.
 - `audits/`: editorial findings, per-article revision record, and site plan.
 
 The library works as a complete static listing without JavaScript. In-browser filters use URL parameters (`q`, `category`, `topic`, `stage`) so a selection can be bookmarked. No external search service is called. Each article has three selected continuations that address the next relevant task.

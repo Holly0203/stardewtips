@@ -530,6 +530,15 @@
       "furnace-and-coal-planning"
     ]
   },
+  "restore-previous-day-save-mac": {
+    "topic": "Saves & troubleshooting",
+    "stage": "Starting out",
+    "related": [
+      "first-week-guide",
+      "tips-and-tricks",
+      "backpack-storage-guide"
+    ]
+  },
   "scarecrow-range-rarecrow-checklist": {
     "topic": "Farm layout & travel",
     "stage": "Building the farm",
@@ -680,7 +689,7 @@
     "related": [
       "first-week-guide",
       "backpack-storage-guide",
-      "make-money-year-one"
+      "restore-previous-day-save-mac"
     ]
   },
   "tool-upgrades-guide": {

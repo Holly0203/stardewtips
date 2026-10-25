@@ -819,6 +819,21 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,su
   border-radius:10px;
   vertical-align:baseline
 }
+.guide-screenshot {
+  margin:28px 0 32px
+}
+.guide-screenshot img[src^="/images/guides/"] {
+  margin:0 0 12px;
+  border:1px solid var(--line)
+}
+.guide-screenshot figcaption {
+  color:var(--muted);
+  font-size:.82rem;
+  line-height:1.6
+}
+.guide-screenshot a:focus-visible {
+  display:block
+}
 .prose pre {
   padding:20px;
   background:var(--ink);
