@@ -2,6 +2,7 @@
 title: "Fertilizer: Choose Quality, Earlier Harvests, or Water Retention"
 description: "Match fertilizer to a crop’s purpose, understand regrowth limits, and avoid buying an upgrade that does not change the harvest you need."
 pubDate: "2026-10-24"
+updatedDate: 2026-10-26
 category: "Farming"
 tags: ["fertilizer", "speed gro", "crop quality"]
 ---
@@ -55,5 +56,11 @@ The reference also explains seasonal persistence and the Greenhouse exception. D
 If uncertain, use fertilizer on the field that has a clear reason for it. Keep an untreated comparison only if it helps your own planning; you do not need to turn an ordinary save into a perfect experiment.
 
 For [Spring](/guides/spring-crop-guide/) or [Fall](/guides/fall-crop-guide/), reserve the next seed purchase before spending heavily on treatment. Good growing conditions are useful only if the crop can still be planted and maintained.
+
+## Compare speed on a real repeat crop
+
+An unboosted Strawberry planted Spring 13 first harvests Spring 21, then Spring 25. If your exact growth-bonus combination moves the first harvest to Spring 20, later picks are **24 and 28**: one extra harvest fits, while the recurring interval remains four days.
+
+That example identifies the useful threshold; it does not claim every fertilizer produces that first date. Check the crop's bonus calendar before paying. [Speed-Gro](https://wiki.stardewvalley.net/Speed-Gro) can be applied after planting, but reductions to already completed growth stages do not apply retroactively. Treating the seed early is easier to plan than trying to rescue a mature late-season schedule.
 
 **Reference:** fertilizer categories, one-type limit, regrowth behavior, timing, and persistence checked against the linked Wiki page on 24 October 2026. Field costs and the four-day regrowth sequence are hypothetical examples, not a crop-specific boosted calendar.

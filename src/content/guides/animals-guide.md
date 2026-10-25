@@ -2,7 +2,7 @@
 title: "Animals Guide: Buildings, Feeding, and Daily Care"
 description: "Plan your first Coop or Barn, understand building upgrades and feeding, and choose animals that fit the time and supplies you have."
 pubDate: 2026-10-21
-updatedDate: 2026-10-24
+updatedDate: 2026-10-26
 category: "Farming"
 tags: ["animals", "farming", "money", "mid-game"]
 ---
@@ -40,8 +40,6 @@ Pet the animals, check food, collect available products, and refill the machines
 
 You do not need to fill every available animal slot immediately. A partially filled building gives you time to learn how much feed and processing capacity the routine needs. Add residents after those chores feel comfortable.
 
-The [farm layout guide](/guides/farm-layout-tips/) covers paths and grazing space. The useful test is whether you can walk the morning route easily with the tools you need.
-
 ## Decide where products will go
 
 Eggs can be processed into Mayonnaise, milk into Cheese, and wool into Cloth when the relevant equipment is available. Those are separate crafting projects. Buying animals and buying or building all their processing equipment at once can consume more money and materials than expected.
@@ -50,10 +48,10 @@ Reserve items for bundles before processing or shipping them. If a bundle needs 
 
 Pigs are a larger investment: reaching the required building tier is part of the cost, and truffle production depends on outdoor conditions. They are a later option, not a reason to skip directly past a small working animal routine.
 
-## Before upgrading
+## A four-chicken starter budget
 
-Write down what the upgrade is meant to add: more capacity, a species unlock, or autofeeding. Big buildings add capacity and other features but do not automate the feeding bench. That distinction matters if reducing morning chores is the entire reason for the purchase.
+On a farm without an existing Coop, four purchased Chickens cost **3,200g**. Add the basic Coop's 4,000g and a Silo's 100g: **7,300g in cash**, plus the building materials. This excludes feed purchases and processing machines. [Chicken prices](https://stardewvalleywiki.com/Chicken) are 800g each; Meadowlands starters should subtract buildings and animals already supplied.
 
-Keep gold for feed and other farm expenses after paying Robin. The [Year 1 income guide](/guides/make-money-year-one/) can help place the building in a wider spending plan. If the animals already produce more than you can collect and process, fix that before expanding.
+Four Mayonnaise Machines additionally need 60 Wood, 60 Stone, four Earth Crystals, and four Copper Bars. One machine is enough to begin, but four daily eggs will queue if you load only once each morning. Choose between additional visits and more machines before filling the Coop.
 
-**References:** building tables checked against the linked Coop and Barn entries on 24 October 2026. Feeding details are explained in the [Hay reference](https://wiki.stardewvalley.net/Hay). This revision corrects the earlier building tiers, capacity, and autofeeder claims; it does not attempt to list every special animal.
+**References:** building tables checked against the linked Coop and Barn entries on 24 October 2026. Feeding details are explained in the [Hay reference](https://wiki.stardewvalley.net/Hay).

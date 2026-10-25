@@ -2,6 +2,7 @@
 title: "Dwarf Scrolls: Find the Missing Color and Unlock Translation"
 description: "Distinguish access to the Dwarf from understanding Dwarvish, target the scroll still missing, and claim the Museum translation reward."
 pubDate: "2026-10-24"
+updatedDate: 2026-10-26
 category: "Mining"
 tags: ["dwarf scrolls", "dwarvish", "museum"]
 ---
@@ -56,5 +57,11 @@ Keep a duplicate only if it has a named use for your save. Do not count extra co
 If you have accumulated a large number of one color, use that as a prompt to review the search rather than a reason to repeat it indefinitely. The missing type may need a different source, or simply more independent attempts on the correct route.
 
 There is no reliable “find it on the next visit” promise in this plan. You can combine attempts with ore or [geode collection](/guides/geode-processing-guide/) so a session still contributes even when the scroll does not appear.
+
+## If only Scroll IV is missing
+
+Keep the Hoe in the loadout and use accessible dirt on ordinary floors numbered **80+**. Match that search with a Gold Ore outing only if you can handle those floors safely. Blue Scroll III, by contrast, is a monster-drop search rather than the same dirt-tilling plan.
+
+After a find, read the numeral before leaving the floor. At home, separate the missing color from duplicate scrolls. Donate the new type on the next useful town visit and check Gunther's available reward once all four have been accepted. Opening the Dwarf passage alone will not complete translation.
 
 **References:** passage and language restrictions checked against the linked Dwarf page; scroll routes and reward location against Dwarvish Translation Guide, on 24 October 2026. Applies to unmodded 1.6 and uses broad sources rather than exact drop-rate forecasts.

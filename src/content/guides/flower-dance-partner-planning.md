@@ -2,8 +2,9 @@
 title: "Flower Dance: Check Four Hearts Before Asking"
 description: "Plan a dance invitation for Spring 24, understand the friendship threshold, and leave room for festival shopping."
 pubDate: "2026-10-25"
+updatedDate: 2026-10-26
 category: "Community"
-tags: ["community", "stardew valley 1.6"]
+tags: ["flower dance partner", "friends & festivals", "community"]
 ---
 
 If your invitation is refused at the Flower Dance, try checking friendship rather than repeatedly asking. An eligible dance partner normally needs at least four hearts. A friendly conversation that morning does not replace the missing relationship progress.
@@ -29,3 +30,9 @@ Leave spending room if you collect Rarecrows. The festival sells Rarecrow number
 Do essential farm care before attending because of the late return. Pack the intended shopping money into your budget without consuming the gold reserved for the next planting. The [Spring crop plan](/guides/spring-crop-guide/) helps identify what spending is already committed.
 
 After the event, resume ordinary friendship habits. Dancing is a useful increase, but a relationship still grows through the rest of the season. A plan that fits your normal town route is easier to maintain than a schedule built entirely around one festival date.
+
+## Check progress before the final festival week
+
+Use the Social tab before Spring 24 to confirm the intended partner is actually at four hearts. If the relationship is below the threshold, count suitable remaining conversations and gifts without treating every interaction as a guaranteed full heart.
+
+A birthday before the dance can make focused preparation useful, but the item still needs to match the recipient and ordinary gift rules. Keep the dance plan limited to the person you want to befriend. Repeatedly buying gifts for several candidates on the final day will not replace weeks of missing relationship progress.

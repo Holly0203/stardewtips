@@ -2,7 +2,7 @@
 title: "Energy Management: Watering, Food, and Recovery"
 description: "Understand energy costs, exhaustion, food, and sleep, then adjust watering and outing plans so there is enough stamina for the work you choose."
 pubDate: 2026-10-21
-updatedDate: 2026-10-24
+updatedDate: 2026-10-26
 category: "Getting Started"
 tags: ["energy", "beginner", "tips", "survival"]
 ---
@@ -53,4 +53,10 @@ A [watering-can upgrade](/guides/tool-upgrades-guide/) can help when the charged
 
 For food choices, the [cooking guide](/guides/cooking-and-food-buffs-guide/) explains recovery stacks and buffs. Start with available food, a manageable field, and a return time you can keep.
 
-**References:** tool costs, exhaustion, and spa access checked against the linked Wiki pages on 24 October 2026. This revision corrects the earlier claims that walking drains stamina, the spa opens in Spring, and eating alone removes the exhaustion penalty.
+## Compare portable food with a trip to the spa
+
+A normal Salad restores **113 energy and 50 health** and costs **220g at the Saloon**. A normal Cheese restores **125 energy and 56 health**, but giving it up also gives up a saleable dairy product. These are specific portable options, not requirements to buy food or build a Barn.
+
+If food is already available, carry a modest stack rather than walking to the spa in the middle of a distant outing. If your plan passes the Railroad and the spa is open, a recovery stop can fit naturally. Check both clock time and the remaining job; restoring energy after the useful fishing or shop window has ended solves less.
+
+**References:** tool costs, exhaustion, and spa access checked against the linked Wiki pages on 24 October 2026.

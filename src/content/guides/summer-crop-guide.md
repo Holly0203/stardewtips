@@ -2,7 +2,7 @@
 title: "Summer Crop Planning: Blueberries, Melons, and Starfruit"
 description: "Compare regrowing and single-harvest Summer crops, match planting to your watering capacity, and budget for processing."
 pubDate: 2026-10-20
-updatedDate: 2026-10-24
+updatedDate: 2026-10-26
 category: "Farming"
 tags: ["crops", "summer", "money", "beginner"]
 ---
@@ -41,8 +41,6 @@ The Oasis sells Starfruit Seeds, which makes bus access part of the plan. At 400
 
 Wine processing adds another wait and another equipment requirement. If you need cash soon, selling some fruit directly can be reasonable even when a bottle would eventually sell for more.
 
-Use the [Year 1 income guide](/guides/make-money-year-one/) to plan the interval between paying for seeds and receiving money back.
-
 ## Add variety for a reason
 
 A few Tomatoes and Hot Peppers can support bundles or cooking; Corn continues into Fall; Hops can supply a Pale Ale project. Trellises need a layout that leaves the plants reachable. Our [field layout guide](/guides/farm-layout-tips/) covers that access problem.
@@ -59,4 +57,10 @@ Before planting another batch near the deadline, compare it with keeping money f
 
 For the next planting, use the [Fall crop guide](/guides/fall-crop-guide/).
 
-**References:** crop values, growth periods, and seasonal availability checked against the linked Wiki Crops reference on 24 October 2026. Blueberry totals and latest-planting dates are calculations without growth bonuses, quality, or crop losses. This revision removes the earlier gift claims and incorrect references to real-world months.
+## A ten-Melon planting and a second seed bill
+
+Ten Melon Seeds cost **800g**. Planted Summer 1 with no growth bonus and uninterrupted watering, they harvest on **Summer 13** for **2,500g** at normal base prices. Replanting ten the same day uses another 800g and finishes Summer 25.
+
+Across those two plantings, gross sales are **5,000g** against **1,600g** of seeds, before quality, bonuses, crop loss, and processing. Keep the second seed bill available rather than spending the whole first harvest. A delayed replanting needs its own final-harvest check; the calendar above is not the return for any arbitrary Summer planting date.
+
+**References:** crop values, growth periods, and seasonal availability checked against the linked Wiki Crops reference on 24 October 2026. Blueberry totals and latest-planting dates are calculations without growth bonuses, quality, or crop losses.

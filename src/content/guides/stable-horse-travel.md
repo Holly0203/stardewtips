@@ -2,6 +2,7 @@
 title: "Stable and Horse: Is Riding the Next Useful Farm Upgrade?"
 description: "Budget the Stable and its hardwood, leave a usable riding route, and compare a horse with fixed-stop travel before paying Robin."
 pubDate: "2026-10-24"
+updatedDate: 2026-10-26
 category: "Getting Started"
 tags: ["stable", "horse", "travel", "hardwood"]
 ---
@@ -21,8 +22,6 @@ Before ordering, separate the hardwood from materials reserved for another proje
 Choose a position you can reach from the house without weaving through machines. Leave space to mount, leave the Stable, and turn toward the exits you use. A building can fit on the placement grid while still being awkward to approach.
 
 Walk the route before ordering. If the Stable location forces a detour around the animal pen or blocks a crop access lane, move the plan rather than adding more path corners to compensate.
-
-Our [farm layout guide](/guides/farm-layout-tips/) starts from repeated routes. A Stable placed for appearance alone may save less attention than a plain location near the exit.
 
 ## Compare riding with minecart travel
 
@@ -46,12 +45,10 @@ Suppose you have 12,000g and the Stable's materials. Paying 10,000g leaves 2,000
 
 That subtraction is more relevant to the immediate purchase than assigning a hypothetical gold value to every saved minute. The horse does not directly sell a product, so it should fit a farm that can still operate afterward.
 
-The [Year 1 spending guide](/guides/make-money-year-one/) explains keeping that working reserve. If hardwood is the scarce component instead, choose which project the hundred pieces belong to before paying for either.
+## Use the horse for the part of the route it can cover
 
-## When the upgrade is working
+Ride through outdoor travel, then leave an obvious dismount space near a door or counter. A narrow passage that works on foot can interrupt the mounted route, so test access before fixing fences and machines permanently around it.
 
-After a few days, notice whether you are actually mounting near the start of trips and whether the return route is easy. If you repeatedly leave the horse behind to navigate a cluttered farm, adjust access before assuming another travel purchase is needed.
-
-If journeys are now comfortable but the pack fills too early, the next improvement may be [storage and capacity](/guides/backpack-storage-guide/). If time is still lost waiting for a shop, change the order of errands. Faster travel supports a sensible schedule; it does not replace one.
+For a minecart trip, the horse does not replace the fixed-stop network. Use the mount for the remaining outdoor leg if that is convenient, rather than expecting one purchase to erase every walk. If the main delay is a closed shop or a full backpack, improve the schedule or loadout before spending more on travel.
 
 **Reference:** cost, footprint, construction, included horse, and daily return behavior checked against the linked Stable entry on 24 October 2026. Purchase and layout examples are suggestions for unmodded 1.6, not a universal upgrade order.

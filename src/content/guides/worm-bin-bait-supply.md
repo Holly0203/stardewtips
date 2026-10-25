@@ -2,8 +2,9 @@
 title: "Worm Bins: Match Daily Bait Output to Your Route"
 description: "Calculate whether a Worm Bin covers your pots, understand the Deluxe upgrade, and choose a convenient collection point."
 pubDate: "2026-10-25"
+updatedDate: 2026-10-26
 category: "Fishing"
-tags: ["fishing", "stardew valley 1.6"]
+tags: ["worm bin bait supply", "fishing & water", "fishing"]
 ---
 
 One Worm Bin does not supply an unlimited crab-pot route. Count the bait you use each day before deciding how many bins you need, and keep a reserve for days when you forget collection.
@@ -29,3 +30,9 @@ Place bins somewhere you already visit. A machine far from your ordinary route m
 Keep the setup small until you know you will maintain the [crab-pot route](/guides/crab-pot-route-guide/). If you only collect occasionally, tying up Hardwood and bars in many bins may solve a shortage you do not actually have.
 
 For rod fishing, choose bait by purpose. Deluxe Bait can be useful, but it does not replace the species targeting of a [Bait Maker](/guides/bait-maker-targeted-fishing/). Decide whether you need a steady general supply or help catching one particular fish. They are different reasons to build equipment, even when both machines sit beside the same chest.
+
+## Compare one bin with ordinary purchased bait
+
+Ordinary Bait costs **5g each** at Willy. A standard bin's four to five daily Bait replaces about **20–25g of purchases per collected day**, before valuing its building materials. Missed collection delays the supply available for the next fishing trip.
+
+For eight daily pots, two standard bins cover eight uses at their combined minimum output, assuming the pots require bait under your profession. Rod fishing consumes additional bait. The Deluxe upgrade changes bait type rather than increasing the four-to-five item count, so it does not solve an eight-pot supply shortage with a single bin.

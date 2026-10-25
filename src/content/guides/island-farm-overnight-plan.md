@@ -2,8 +2,9 @@
 title: "Island Farm and Farmhouse: Prepare Before Staying Overnight"
 description: "Budget walnuts for the farmhouse, plant for return visits, and keep the mainland farm running while you stay on Ginger Island."
 pubDate: "2026-10-25"
+updatedDate: 2026-10-26
 category: "Farming"
-tags: ["farming", "stardew valley 1.6"]
+tags: ["island farm overnight", "ginger island", "farming"]
 ---
 
 The Island Farmhouse makes an island overnight possible; it does not take care of the animals you left behind. Before spending several days on Ginger Island, arrange both farms around how often you will actually visit.
@@ -31,3 +32,9 @@ An [Auto-Grabber or Auto-Petter](/guides/auto-grabber-auto-petter-difference/) c
 For a first overnight, finish mainland chores, travel, and use the island evening for preparation rather than beginning an ambitious dungeon run late. Starting the next morning nearby gives you more usable time for the [Volcano route](/guides/volcano-dungeon-first-forge-route/).
 
 After returning home, check what accumulated. A full collector, missed harvest, or shortage tells you which part of the arrangement needs changing before a longer stay. Expand the island operation only as quickly as your two-farm schedule remains manageable.
+
+## Pack a first overnight deliberately
+
+Before boarding, cover mainland feeding, check watering coverage, and collect any harvest that would delay regrowth while you are away. Take the supplies for the island job and one usable return option. Leave unrelated gifts and construction stacks at home.
+
+On arrival, verify the repaired house and bed before the evening becomes a dungeon trip. Store spare seed and recovery supplies there so the next visit starts from a prepared base. If returning early is necessary, do it before spending the last daylight on another unlock; the mainland animals do not receive food simply because the island house has been repaired.

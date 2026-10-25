@@ -2,7 +2,7 @@
 title: "Winter Planning: Feed, Fishing, Upgrades, and Spring Preparation"
 description: "Keep animals fed, choose Winter crops and projects, and make time for fishing, festivals, and preparation for Spring."
 pubDate: 2026-10-21
-updatedDate: 2026-10-24
+updatedDate: 2026-10-26
 category: "Farming"
 tags: ["winter", "season", "fishing", "planning"]
 ---
@@ -35,7 +35,7 @@ For buildings, keep room for future routes and grazing. The [farm layout guide](
 
 ## Fish or mine between farm chores
 
-Pick a fishing target with Winter availability, or use a session for ordinary sale catches. A collection goal may require a particular time or location. It should not be planned around real-world months such as January: the game's Winter has twenty-eight days of its own.
+Pick a fishing target with Winter availability, or use a session for ordinary sale catches. A collection goal may require a particular time or location. Winter has twenty-eight in-game days.
 
 For mining, choose the next checkpoint or a material batch. The [beginner mining guide](/guides/mining-guide-beginners/) explains a manageable outing. Finishing the regular mines does not mean every later cavern is equally safe.
 
@@ -54,10 +54,13 @@ The [Night Market guide](/guides/night-market-guide/) covers the different boat 
 
 For the gift exchange, prepare something suitable for your assigned recipient rather than bringing an undirected pile of gifts.
 
-## Leave money and access for Spring 1
+## Two useful Winter weeks
 
-Before the season ends, decide the size of the next field, keep seed money available, and clear the routes you will use on planting day. Check equipment and supplies before buying another decorative or optional item.
+| Current situation | Choose one main project | Keep doing daily |
+|---|---|---|
+| Ordinary mines unfinished | Reach the next safe checkpoints; schedule a Pickaxe upgrade when materials are ready | Feeding and any active watering |
+| Greenhouse operating, routes crowded | Check coverage and reorganize one collection area | Harvesting, feeding, and processing the chosen queue |
 
-The [Spring crop guide](/guides/spring-crop-guide/) gives a starting point. If the farm is still small, a modest field with time left for town and fishing is a reasonable plan for the new year too.
+Leave the activity events on the calendar before choosing a multi-day task. SquidFest and the Night Market use ordinary passing time, so they compete with that day's errands. Near Winter 28, stop optional spending long enough to count Spring seed money and verify that the intended field is actually ready.
 
-**References:** seasonal growth rules and event dates checked against the linked Winter page on 24 October 2026; Powdermelon timing comes from its item entry. This revision corrects the claim that Winter has no outdoor crops and removes the rainy-Winter squid advice.
+**References:** seasonal growth rules and event dates checked against the linked Winter page on 24 October 2026; Powdermelon timing comes from its item entry.

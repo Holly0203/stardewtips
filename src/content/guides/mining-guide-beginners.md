@@ -2,7 +2,7 @@
 title: "Mining for Beginners: Checkpoints, Ore, and Safe Trips"
 description: "Use mine elevator checkpoints, pack food and equipment, and make short trips for the materials your next project needs."
 pubDate: 2026-10-21
-updatedDate: 2026-10-25
+updatedDate: 2026-10-26
 category: "Mining"
 tags: ["mining", "beginner", "combat", "ores"]
 ---
@@ -58,5 +58,11 @@ If Winter reduces your watering chores, use some of the spare time for ore or ch
 ## Unpack before the next trip
 
 Put ore into the smelting queue, separate [Museum donations](/guides/museum-donation-guide/), and restock food. For the next outing, choose either a resource target or another checkpoint. That makes it easier to decide when to leave.
+
+## Choose a floor band for one finished project
+
+For five Iron Bars, the direct material target is **25 Iron Ore plus five Coal**. Use the ordinary frozen floor band once it is safely accessible, and combine ore collection with the Dust Sprites you encounter there. A minecart unlock improves travel but does not supply those materials itself.
+
+If progression is the goal instead, start at the deepest comfortable elevator checkpoint and aim at the next multiple of five. Keep this separate from a request to collect a precise ore batch. You can return with one goal complete even when there was not enough time to finish both.
 
 **References:** [Mines](https://wiki.stardewvalley.net/The_Mines), [Skeleton](https://wiki.stardewvalley.net/Skeleton), and [Pickaxe grades](https://wiki.stardewvalley.net/Pickaxes), checked 25 October 2026. Floor guidance describes the ordinary mines, not the later dangerous variant.

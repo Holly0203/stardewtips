@@ -2,6 +2,7 @@
 title: "Shipping Bin or Shop? Choose the Sale Route by When You Need Gold"
 description: "Understand overnight payment, merchant restrictions, shipping collection credit, and the limit on retrieving items from the shipping bin."
 pubDate: "2026-10-24"
+updatedDate: 2026-10-26
 category: "Getting Started"
 tags: ["shipping", "shops", "selling", "money"]
 ---
@@ -48,10 +49,10 @@ The [keg and jar guide](/guides/keg-vs-preserves-jar/) explains added value and 
 
 Use money actually available when making a purchase plan. “The machine will finish tonight” and “the item is already sold at a counter” are not the same cash position.
 
-## Keep a small sale policy
+## Pack only what the intended merchant accepts
 
-A workable unpacking order is: put away needed items, set aside any required shipping example, choose today's direct-sale stack, then ship the rest. You can vary the order, but give every stack a destination before it reaches a sale interface.
+Pierre is a useful destination for eligible crops and farm products, Willy for eligible fish, and Clint for accepted minerals and materials. Weapons use the Adventurer's Guild instead of the ordinary shipping route. Check the actual counter interface before treating a mixed bag as one guaranteed immediate sale.
 
-The [Year 1 spending plan](/guides/make-money-year-one/) helps identify when immediate money is worth a town trip. As reserves grow, the convenience of overnight shipping may matter more than receiving every payment on the same day.
+For an urgent seed purchase, carry the sale portion to the merchant you will use and keep bundle copies at home. For a shipping collection entry, retain a separate example for the bin. An immediate payment and an entry recorded as shipped are different goals even when the ordinary sale value matches.
 
 **Reference:** payment timing, equal ordinary sale value, merchant limits, shipping credit, and last-item recovery checked against the linked Shipping page on 24 October 2026. Examples assume normal accepted sales without special quest payment rules.

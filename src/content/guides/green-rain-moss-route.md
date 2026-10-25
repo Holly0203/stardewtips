@@ -2,6 +2,7 @@
 title: "Green Rain: Collect Moss Without Clearing the Whole Valley"
 description: "Recognize the Summer event, pack for the materials you need, and understand temporary growth and first-year changes to town interactions."
 pubDate: "2026-10-24"
+updatedDate: 2026-10-26
 category: "Farming"
 tags: ["green rain", "moss", "summer", "foraging"]
 ---
@@ -19,8 +20,6 @@ If the next-day forecast signals the unusual weather, make space in the backpack
 ## Pack for a collection trip
 
 Bring the scythe for the relevant growth and Moss collection. Add an axe only if cutting trees is part of your plan. Keep food and free slots, and leave unrelated building and gift reserves at home.
-
-The [backpack guide](/guides/backpack-storage-guide/) helps distinguish a useful loadout from the habit of carrying every tool. More free slots mean fewer decisions about which ordinary finds to discard halfway through the route.
 
 Before leaving, name the material target. For example, three [Mushroom Logs](/guides/mushroom-log-tree-placement/) need thirty Moss and thirty Hardwood under their standard recipe. Gathering thirty Moss does not also provide the required hardwood; keep both parts visible in the plan.
 
@@ -48,10 +47,15 @@ You can still explore the changed conversations and atmosphere. Keep that separa
 
 If you have a timed request, check what actions remain possible rather than assuming every usual interaction works unchanged.
 
-## Turn the materials into one finished project
+## Turn a Moss target into a finished recipe list
 
-After the event, count the actual Moss and place it with the recipe it is meant to fund. Complete that batch if the other ingredients are ready. Keep a small surplus if upcoming recipes need it, but do not expand the equipment plan solely because one material is abundant.
+| Planned equipment | Moss | Other immediate materials |
+|---|---:|---|
+| Three Mushroom Logs | 30 | 30 Hardwood |
+| One Deluxe Worm Bin | 30 | One existing Worm Bin |
 
-The [crafting guide](/guides/crafting-guide-beginners/) can help choose what belongs next. If Moss is plentiful but other inputs are missing, work on those inputs rather than crafting unnecessary copies of whatever happens to be affordable.
+This makes the shared constraint visible. Spending all thirty Moss on the bin means the same thirty are no longer available for the logs. Gather against the combined list only if both projects are genuinely planned.
+
+Begin on the farm, continue to an adjacent familiar area, and return once the chosen Moss target is met. Tree cutting is optional for this route: carrying an axe and clearing every unusual tree adds a different job to a collection plan that can stay compact.
 
 **Reference:** event frequency, temporary growth, first-year interactions, and electronic-device changes checked against the linked Weather page on 24 October 2026. Material targets use ordinary Mushroom Log recipes and do not assume a guaranteed collection yield.

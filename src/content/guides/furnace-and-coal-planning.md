@@ -2,6 +2,7 @@
 title: "Furnace Planning: Count the Coal Before Adding More Machines"
 description: "Budget ore, bars, and furnace fuel together, plan useful batch sizes, and decide whether the next furnace actually shortens the wait."
 pubDate: "2026-10-24"
+updatedDate: 2026-10-26
 category: "Mining"
 tags: ["furnace", "coal", "bars", "smelting"]
 ---
@@ -54,10 +55,10 @@ Check whether a new mineral is reserved for donation or another recipe before sm
 
 Do not group all purple-looking or crystal-like items into a generic “quartz” stack. The recipe needs the actual supported input.
 
-## When another furnace earns its place
+## Protect the fuel for a five-bar upgrade
 
-Add capacity if the full next batch is funded and the delay is preventing a project you want to do soon. Before crafting, check where you will collect it and whether you can access every unit from the route.
+A five-bar tool batch requires **25 matching ore and five Coal**. Four more Coal spent smoking low-value fish leaves the batch short even when every ore is present. Keep a small finished-bar or fuel reserve until the hand-in is funded.
 
-If bars are already accumulating faster than you use them, finish the planned equipment rather than expanding the workshop. If the queue remains short, one or two well-used furnaces can be enough for the current stage.
+Choose the next furnace load before leaving the farm. A two-hour Iron batch can finish during a short errand; Gold takes longer. If the next collection is tomorrow morning regardless, placing extra furnaces only helps when you have full input sets ready to load in parallel. Empty equipment is not extra processing throughput.
 
 **Reference:** inputs, recipe, metal durations, and quartz conversions checked against the linked Furnace Wiki entry on 24 October 2026. Batch lists use ordinary furnaces; Heavy Furnace rules are different and are not included.

@@ -2,6 +2,7 @@
 title: "Crystalarium: Choose Jade for Supplies or Diamonds for Sales"
 description: "Compare gem copying by its purpose, plan Sunday staircase trades, and avoid confusing a high-value copy with a fast production cycle."
 pubDate: "2026-10-24"
+updatedDate: 2026-10-26
 category: "Mining"
 tags: ["crystalarium", "jade", "diamonds", "staircases"]
 ---
@@ -53,5 +54,11 @@ For a sale setup, move ready gems into a clearly marked sale stack so they do no
 A quest, gift routine, or crafting project can justify copying something other than the default money or staircase choices. Check that the item is accepted and that the expected cycle fits the deadline.
 
 Do not sacrifice a unique or needed first find on the assumption that the machine accepts everything. Read the item description and compatibility list before inserting it. For a new donation, decide whether Museum progress or repeated access matters first.
+
+## Work backward from Sunday
+
+Jade's listed copy time is about **one day and sixteen hours**, rather than the roughly five-day Diamond cycle. Collection timing still matters: a ready copy waiting in the machine is not another cycle already underway. See the [Crystalarium output table](https://wiki.stardewvalley.net/Crystalarium).
+
+For a Sunday trade target, count Jade already stored first, then copies you can collect before leaving. If you need ten and already own eight, two available machines may close the gap without building a permanent new row. Keep the resulting Staircases with the cavern supplies so next week's trade calculation does not count them as missing again.
 
 **References:** crafting, rewards, compatibility, and Diamond timing checked against the Crystalarium page; Sunday Jade trading against the Desert Trader page, on 24 October 2026. Income arithmetic excludes professions and collection delays.

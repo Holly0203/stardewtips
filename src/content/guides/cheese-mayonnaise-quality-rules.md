@@ -2,8 +2,9 @@
 title: "Cheese and Mayonnaise: Size Matters More Than Stars"
 description: "Understand ordinary milk and chicken egg processing, reserve useful quality items, and size your machine area."
 pubDate: "2026-10-25"
+updatedDate: 2026-10-26
 category: "Farming"
-tags: ["farming", "stardew valley 1.6"]
+tags: ["cheese mayonnaise quality rules", "animals & care", "farming"]
 ---
 
 A gold-star small egg does not become gold Mayonnaise. For ordinary chicken eggs and milk, the size of the ingredient determines the usual processed quality. Sort by “Large” before using the stars as a processing rule.
@@ -38,3 +39,9 @@ For example, four daily eggs and one machine create a queue if you only load onc
 Keep a separate food stack if you use Cheese underground. Shipping all of it may increase today's balance while forcing you to buy replacement healing for tomorrow's trip. The [food and buff guide](/guides/cooking-and-food-buffs-guide/) covers that distinction.
 
 Once the routine works, consider an [Auto-Grabber](/guides/auto-grabber-auto-petter-difference/). It makes collection easier, while your reservation and processing decisions still need a clear place in the morning route.
+
+## A four-machine loading round
+
+Four ordinary Chicken Eggs produce four normal Mayonnaise; four Large Chicken Eggs produce four gold Mayonnaise. At base prices, that is **760g versus 1,140g of finished goods**. Those totals are not the machine's added profit because the eggs themselves could also have been sold.
+
+For a once-a-morning collection habit, four machines handle that four-egg round without a midday visit. With one machine, you need additional loading rounds or accept a backlog. Keep input size visible in the collector and reserve bundle eggs before choosing either schedule.

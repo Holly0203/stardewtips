@@ -2,7 +2,7 @@
 title: "Scarecrows and Rarecrows: Check the Corners Before Expanding"
 description: "Understand ordinary scarecrow range, collect the eight rarecrows for the Deluxe recipe, and distinguish decoration from extra crop protection."
 pubDate: "2026-10-24"
-updatedDate: 2026-10-25
+updatedDate: 2026-10-26
 category: "Farming"
 tags: ["scarecrow", "rarecrow", "crows", "layout"]
 ---
@@ -73,5 +73,11 @@ If the goal is decoration, place a Rarecrow because you like it. Just keep that 
 Count the missing collection types, then examine the current field's uncovered tiles. These are different reasons to acquire a scarecrow. A duplicate might be useful for a second field but will not fill a missing type in the eight-piece collection.
 
 When expanding, plant the boundary you intend to use and recheck the range diagram. That small inspection is easier than discovering several harvests later that the prettiest corner of the field was outside protection.
+
+## Recheck the field after an expansion
+
+A new three-by-three crop block can put a far corner outside the original scarecrow's shape even when most of the block is protected. Align the center of the diagram with the actual equipment tile, then inspect the new outermost planted positions.
+
+Keep the eight-type collection separate from this range check. Buying a second copy of a Rarecrow can help another field but does not advance the collection toward a missing number. If you want only decoration, choose a reachable display location without removing the protection still needed by the working crop plot.
 
 **References:** ordinary shape, Rarecrow behavior, and exemptions checked against Scarecrow; recipe and unlock timing against Deluxe Scarecrow, on 25 October 2026. Coverage advice uses unmodified range and separate equipment tiles.

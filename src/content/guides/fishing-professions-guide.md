@@ -2,7 +2,7 @@
 title: "Fisher or Trapper? Choose Fishing Professions for Your Routine"
 description: "Compare Fisher, Trapper, Angler, Pirate, Mariner, and Luremaster by the kind of fishing you enjoy and the reward you want."
 pubDate: 2026-10-24
-updatedDate: 2026-10-25
+updatedDate: 2026-10-26
 category: "Fishing"
 tags: ["professions", "fisher", "trapper", "angler"]
 ---
@@ -33,8 +33,6 @@ If you take regular fishing trips and sell most catches, a sale bonus fits an ac
 For a simplified example, fish worth a total of **1,000g before profession bonuses** become **1,250g with Fisher** or **1,500g with Angler**, ignoring item-by-item rounding and other modifiers. This is an arithmetic illustration, not an income forecast for a fishing day.
 
 The size of the benefit still depends on how much you catch and sell. If you spend the following month focused entirely on crops, a theoretical strong bonus is not producing the same practical return as it did during your first Spring.
-
-Our [Year 1 income guide](/guides/make-money-year-one/) can help place fishing in the larger farm budget rather than treating it as the only source of gold.
 
 ## Compare Angler with Pirate by the reward you want
 
@@ -75,5 +73,11 @@ At base prices, Angler adds 25 percentage points of fish value compared with Fis
 That calculation applies to that particular bonus comparison. Switching from Pirate also gives up treasure benefits; switching pot branches changes chores rather than simply adding sale percentage. Do not treat the forty-thousand figure as a universal respec payback rule.
 
 A player who moved from daily fishing to a permanent pot route can reasonably pay for convenience without expecting the fee to appear as direct revenue. Someone who dislikes the minigame should first address [control and equipment](/guides/bait-and-tackle-guide/) instead of paying for a profession they still will not use.
+
+## Compare convenience over a week you actually play
+
+If you maintain eight pots daily, Luremaster removes **56 rebaiting actions across seven days**. It does not remove fifty-six collection actions or the route to the water. Mariner changes the output instead; the same eight pots still need their normal input handling without another applicable exception.
+
+Use your real route count when choosing. If you collect only three times in a week, calculate three rounds rather than seven. For rod-focused play, compare fish sales and treasure goals separately before paying the respec fee; a convenience benefit and a sale bonus do not share the same payback calculation.
 
 **Review:** 25 October 2026. Profession branches follow the [Fishing reference](https://wiki.stardewvalley.net/Fishing); changeover timing follows the linked Sewers entry. Calculations omit rounding and other sale modifiers.

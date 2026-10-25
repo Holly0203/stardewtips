@@ -2,7 +2,7 @@
 title: "Fruit Tree Guide: Plant Early and Troubleshoot Missed Growth"
 description: "Plan a small orchard, leave room for saplings to grow, and distinguish seasonal fruit production from ordinary tree tapping."
 pubDate: 2026-10-24
-updatedDate: 2026-10-24
+updatedDate: 2026-10-26
 category: "Farming"
 tags: ["fruit trees", "orchard", "saplings", "planting"]
 ---
@@ -66,5 +66,11 @@ Fruit trees can produce year-round in the Greenhouse after maturity. However, th
 Our [Greenhouse guide](/guides/greenhouse-guide/) covers the wider layout. If your current goal is syrup, resin, or tar, use the [tapper guide](/guides/tapper-tree-products-guide/) instead; a fruit orchard will not provide those common tapped-tree products.
 
 For the rest of the farm, the [layout guide](/guides/farm-layout-tips/) can help you reserve an orchard without blocking future buildings or daily routes.
+
+## A first fruit season starts before the season itself
+
+If you want a normal-quality Apple sapling mature for Fall, buy and plant it early enough in Summer to complete twenty-eight unobstructed growth nights. A few extra days of margin let you fix a weed or placed object without losing the start of fruit production.
+
+Inspect all eight neighboring tiles after a missed-growth message. Watering again does not repair an obstruction. Once mature, the tree's interaction with nearby objects changes, but the original planting still needed its growth space. Collect at least every three production days if you want to avoid losing output to the tree's three-fruit holding limit.
 
 **References:** growth duration, space requirements, watering, harvest accumulation, and Greenhouse behavior checked against the [Fruit Trees Wiki entry](https://stardewvalleywiki.com/Fruit_Trees) on 24 October 2026. Advice assumes normal-quality saplings in unmodded 1.6; higher-quality saplings have different maturation behavior.

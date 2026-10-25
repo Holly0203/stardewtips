@@ -2,8 +2,9 @@
 title: "Luau Soup: Reserve One Reliable Ingredient Before Summer 11"
 description: "Choose a verified soup contribution, distinguish item size from quality, and avoid sacrificing a valuable ingredient unnecessarily."
 pubDate: "2026-10-25"
+updatedDate: 2026-10-26
 category: "Community"
-tags: ["community", "stardew valley 1.6"]
+tags: ["luau soup ingredient", "friends & festivals", "community"]
 ---
 
 Put your Luau ingredient in a separate chest before Summer 11. The easiest way to spoil the plan is to sell or process the reserved item the night before the festival.
@@ -31,3 +32,9 @@ Every player's contribution affects the multiplayer soup. A carefully chosen ite
 Once everyone is ready, speak to Lewis to proceed with the tasting. Finish any festival conversations you want beforehand. Returning home late also makes it worth completing ordinary animal and crop care before attending.
 
 For friendship over the rest of the year, use [regular conversations and gifts](/guides/friendship-guide/) rather than treating one festival as the whole plan. The [villager gift guide](/guides/best-gifts-villagers/) covers individual preferences; a good personal gift and a good communal soup ingredient are separate questions.
+
+## Check three words before leaving the farm
+
+Read the contribution's **name, size, and quality**. “Large Milk” describes a different input from “Milk,” and a gold star describes quality rather than size. For a Cheese plan, inspect the finished Cheese instead of inferring its stars from the milk you loaded.
+
+Keep one verified contribution in a small event reserve, then process or sell the rest normally. In multiplayer, agree on each player's item before anyone adds it; the soup does not average away an unsuitable contribution. Finish conversations you want before asking Lewis to proceed with the tasting.

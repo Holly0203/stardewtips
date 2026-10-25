@@ -2,8 +2,9 @@
 title: "Calico Desert Errands: Pack Trades Before Buying a Bus Ticket"
 description: "Combine a desert visit with useful exchanges, account for the fare, and check the trader calendar before traveling."
 pubDate: "2026-10-25"
+updatedDate: 2026-10-26
 category: "Getting Started"
-tags: ["getting started", "stardew valley 1.6"]
+tags: ["calico desert bus errands", "farm layout & travel", "getting started"]
 ---
 
 A desert shopping trip starts at your storage chest. The Desert Trader accepts items rather than gold, so carrying a full wallet without the trade materials can turn a paid bus journey into a wasted errand.
@@ -29,3 +30,15 @@ Do timed shop errands before entering a long dungeon run. A few forgotten conver
 The [Crystalarium guide](/guides/crystalarium-jade-or-diamond/) helps when you need a continuing supply of trade gems. Start that production to meet a specific consumption rate, rather than duplicating gems simply because you have a machine.
 
 Festival days need their own schedule and currency plan. Check the [Desert Festival guide](/guides/desert-festival-first-plan/) before applying this ordinary errand route to Spring 15–17. On the return journey, replenish your trade chest so the next trip begins with packed materials rather than another search through every container.
+
+## A compact trade packing list
+
+| Planned exchange | Pack before leaving | Calendar check |
+|---|---|---|
+| Spicy Eel | One Ruby per dish | Regular trader stock |
+| Desert Warp Totem | Three Omni Geodes each | Regular trader stock |
+| Staircase | One Jade each | Sunday trade |
+
+For an ordinary Sunday supply run, gather the exact Jade stack, add the bus fare, then decide whether the trip includes Sandy or the cavern. A bag filled for shopping is not also a prepared combat loadout.
+
+The desert trader stall is closed during the Winter Night Market. Do not spend a bus fare on a tightly timed trade without checking whether the event changes that location's availability.

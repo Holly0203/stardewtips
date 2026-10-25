@@ -2,7 +2,7 @@
 title: "Egg Festival Guide: Budget Strawberries and Plan the Evening Planting"
 description: "Prepare for Spring 13, buy before starting the Egg Hunt, and calculate a simple no-speed-bonus strawberry plan for your first Spring."
 pubDate: 2026-10-24
-updatedDate: 2026-10-24
+updatedDate: 2026-10-26
 category: "Community"
 tags: ["egg festival", "strawberries", "spring", "festival"]
 ---
@@ -57,8 +57,6 @@ Normal-quality Strawberries have a **120g** base price. Under the two-harvest, o
 
 That is not a total labor or opportunity-cost calculation. It excludes professions, quality, possible extra fruit, processing, growth bonuses, and what you could have done with the same time or tiles. Use it as a clear baseline rather than a guaranteed final shipping total.
 
-The [Year 1 income guide](/guides/make-money-year-one/) explains why a good investment still needs to fit the farm's cash flow.
-
 ## Save future packets deliberately
 
 You may decide to reserve some seeds for a later planting opportunity instead of using every packet now. Keep that reserve separate from the batch you mean to plant immediately.
@@ -66,5 +64,11 @@ You may decide to reserve some seeds for a later planting opportunity instead of
 Do not accidentally count stored future seeds as part of this Spring's income forecast. A packet in a chest and a watered plant in the field are different stages of the plan.
 
 After the festival, return to the normal routine: maintain the field, harvest on time, and leave room for fishing or exploring. Our [energy guide](/guides/energy-management-tips/) can help keep the extra watering from consuming the whole day.
+
+## A twenty-plant cash comparison
+
+Twenty packets cost **2,000g**. In the plain two-harvest model, twenty plants produce forty normal Strawberries worth **4,800g**, or **2,800g above seed cost**. That is a season total, not money available on the festival evening.
+
+If twenty additional plants make watering impractical, ten can be the better working purchase even when you can afford all twenty. Check the prepared field and the energy left after the ordinary chores. A packet reserved in storage contributes no harvest to this calculation until planted and watered.
 
 **References:** event details checked against the linked Egg Festival page, and growth and price against the Strawberry page, on 24 October 2026. Dates and returns are our calculations for an unmodded game without growth bonuses, assuming daily watering and no losses.

@@ -1,36 +1,16 @@
 ---
-import { getCollection } from 'astro:content';
+import {getCollection} from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import PostCard from '../../components/PostCard.astro';
-import { CATEGORIES } from '../../utils/categories';
-
-export function getStaticPaths() {
-  return CATEGORIES.map((c) => ({ params: { category: c.slug }, props: c }));
-}
-
-const { name, slug, blurb } = Astro.props;
-const guides = (await getCollection('guides', ({ data }) => !data.draft))
-  .filter((g) => g.data.category.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') === slug)
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-
-const canonicalURL = new URL(`/categories/${slug}/`, Astro.site);
-const description =
-  blurb && `${name} guides for Stardew Valley — ${blurb.toLowerCase()}`;
+import {CATEGORIES} from '../../utils/categories';
+import index from '../../data/guideIndex.json';
+export function getStaticPaths(){return CATEGORIES.map(c=>({params:{category:c.slug},props:c}));}
+const {name,slug,blurb}=Astro.props;
+const guides=(await getCollection('guides',({data})=>!data.draft)).filter(g=>g.data.category===name).sort((a,b)=>a.data.title.localeCompare(b.data.title));
+const topics=[...new Set(guides.map(g=>index[g.id as keyof typeof index].topic))];
 ---
-
-<Base
-  title={`${name} Guides`}
-  description={description}
-  canonicalURL={canonicalURL}
->
-	<section class="hero container">
-		<h1>{name} Guides</h1>
-		<p class="lede">{blurb}</p>
-	</section>
-
-	<section class="section container">
-		<div class="card-grid">
-			{guides.map((guide) => <PostCard guide={guide} />)}
-		</div>
-	</section>
+<Base title={`${name} Guides`} description={`${name} guides for Stardew Valley: ${blurb}`}>
+<nav class="breadcrumbs container" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span><a href="/guides/">Guides</a><span aria-hidden="true">/</span><span>{name}</span></nav>
+<section class="page-intro container"><p class="eyebrow">{guides.length} GUIDES / {name.toUpperCase()}</p><h1>{name}</h1><p class="lede">{blurb}</p><a class="text-link" href={`/guides/?category=${slug}`}>Search within {name.toLowerCase()} →</a><nav class="jump-links" aria-label="Topics in this category">{topics.map((topic,i)=><a href={`#topic-${i}`}>{topic} ↓</a>)}</nav></section>
+{topics.map((topic,i)=><section class="section container" id={`topic-${i}`}><div class="section-heading"><h2>{topic}</h2></div><div class="card-grid">{guides.filter(g=>index[g.id as keyof typeof index].topic===topic).map(guide=><PostCard guide={guide}/>)}</div></section>)}
 </Base>

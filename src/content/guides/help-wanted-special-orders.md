@@ -2,6 +2,7 @@
 title: "Help Wanted and Special Orders: Read the Collection Rule First"
 description: "Choose realistic requests, distinguish delivering old stock from collecting new items, and understand why accepting a weekly order late reduces the deadline."
 pubDate: "2026-10-24"
+updatedDate: 2026-10-26
 category: "Community"
 tags: ["quests", "help wanted", "special orders"]
 ---
@@ -44,8 +45,6 @@ The [crop planning guides](/guides/summer-crop-guide/) and [mine trip guide](/gu
 
 Make a small reserve once the job is accepted. A requested fish should not become smoked stock unless the order explicitly accepts that product. A crop needed in a particular quality should not disappear into a recipe.
 
-Use the [storage guide](/guides/backpack-storage-guide/) to separate the reserve from current machine inputs. After completion or failure, return leftover materials to their normal categories so the quest chest does not keep collecting unrelated items.
-
 If the job requires shipping, follow that instruction instead of selling to a counter for immediate money. The [shipping guide](/guides/shipping-bin-or-shop/) explains why ordinary sales and shipping credit are separate records.
 
 ## Declining a bad fit is reasonable
@@ -53,5 +52,11 @@ If the job requires shipping, follow that instruction instead of selling to a co
 Short Help Wanted requests have no penalty simply for being accepted and not completed. That does not mean repeatedly buying expensive ingredients to rescue unsuitable tasks is necessary.
 
 Take requests that add something useful to a day you wanted to play. If an order would require a week of an activity you dislike, let it wait for another appearance or choose a different project. The board can support the farm without setting the entire schedule.
+
+## Read both counters on a fresh-collection order
+
+For an order with a gather requirement and a deposit requirement, make one small valid collection after accepting and inspect progress. An older stored stack may help the deposit step without raising the fresh-collection counter.
+
+Before delivering the whole reserve, check the requested item and the displayed deadline. If the source is a crop, count harvests remaining, not seeds you could theoretically plant after the order expires. When the job ends, return leftover items to their normal storage destination so a temporary request pile does not keep attracting materials for an inactive task.
 
 **Reference:** board timing, ordinary deadlines, collection/deposit distinctions, and completion rules checked against the linked Quests page on 24 October 2026. Examples are planning calculations; individual order text and the live Journal counters take precedence.

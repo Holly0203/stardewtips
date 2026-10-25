@@ -2,7 +2,7 @@
 title: "Your First Fish Pond: Choose a Species and Plan the Upgrade Requests"
 description: "Build a useful first fish pond, understand population limits and requests, and decide whether its output fits your farm before adding more ponds."
 pubDate: 2026-10-24
-updatedDate: 2026-10-25
+updatedDate: 2026-10-26
 category: "Fishing"
 tags: ["fish pond", "roe", "fishing", "buildings"]
 ---
@@ -52,5 +52,11 @@ Put in one chosen fish and watch the sign for requests. Completing a request rai
 Collect output into a small queue beside available [Preserves Jars](/guides/keg-vs-preserves-jar/). Keep Sturgeon Roe identifiable so it is not confused with other Roe products.
 
 If changing species, fish out residents you want to keep before using the pond's empty command, then reset it for the new species. Retrieved pond fish are normal quality and do not fill missing catch-collection entries. Use ordinary [fishing trips](/guides/fishing-guide-beginners/) for those entries.
+
+## Reserve request materials outside the processing queue
+
+A Fire Quartz held for a Lava Eel request should not be smelted simply because the furnace is empty. Likewise, a Nautilus Shell reserved for Sturgeon is a different item from the Nautilus Fossil you may be sorting for the Museum.
+
+Keep only the next known request materials in a pond reserve. After the request is complete, read the next sign and update the list. Stockpiling every hypothetical future ingredient can consume more storage and attention than a single working pond needs. Additional matching fish can fill available capacity; they do not bypass the request that raises that capacity.
 
 **Review:** 25 October 2026. Species timings, requests, and prices follow the linked pond tables. Comparisons are planning advice, not guaranteed daily income.

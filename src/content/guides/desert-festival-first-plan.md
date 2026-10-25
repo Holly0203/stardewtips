@@ -2,7 +2,7 @@
 title: "Desert Festival: A Three-Day Plan for Your First Visit"
 description: "Prepare for Spring 15\u201317, manage temporary Calico Eggs, and choose between festival shopping and cavern challenges."
 pubDate: "2026-10-25"
-updatedDate: 2026-10-25
+updatedDate: 2026-10-26
 category: "Community"
 tags: ["desert festival", "calico eggs", "spring", "festival"]
 ---
@@ -49,5 +49,11 @@ A later Strawberry purchase also needs a planting decision. Seeds bought on the 
 Keep an exit margin rather than spending the last useful minutes inside the cavern. Claim any eligible challenge rewards before shopping, and separate temporary currency from the ordinary shipping pile.
 
 For non-festival desert trips, use the [bus and trader errand plan](/guides/calico-desert-bus-errands/); its shop and travel assumptions are different.
+
+## Separate earning from the final shopping pass
+
+Choose a return-to-stalls point before entering the cavern. A stack of eggs earned during a descent does not buy anything until you return to the merchant, and a completed task still needs its reward handling.
+
+On the last day, stop against the purchase you still intend to make. If the goal costs fifty more eggs, inspect the offered tasks and remaining time before beginning another run. A task with a larger printed reward can be the worse choice when its required monsters or materials do not fit your equipment. Buy the item, then use leftover time as optional exploration rather than automatically restarting the same grind.
 
 **Review:** 25 October 2026, unmodded 1.6. Prices and event mechanics are referenced; the itinerary and fifty-egg comparison are our planning examples.

@@ -2,8 +2,9 @@
 title: "SquidFest: Two Days, Two Separate Catch Targets"
 description: "Read the daily SquidFest thresholds, choose a realistic reward tier, and avoid losing time to inventory or bait shortages."
 pubDate: "2026-10-25"
+updatedDate: 2026-10-26
 category: "Fishing"
-tags: ["fishing", "stardew valley 1.6"]
+tags: ["squidfest daily targets", "fishing & water", "fishing"]
 ---
 
 Eight squid reach the top SquidFest tier on Winter 12. The same total does not reach the top tier on Winter 13. Read the daily sign and claim each day's rewards before assuming yesterday's result carries forward.
@@ -36,3 +37,9 @@ Prepare bait and any replacement tackle before heading to the Beach. For players
 If you own a [Bait Maker](/guides/bait-maker-targeted-fishing/), converting an early squid can help target subsequent catches. Keep enough space to collect both the bait and your event prizes.
 
 Claim rewards with room in your bag: overflow can drop on the ground. Before going home on the first day, restock for the second and choose its target separately. This is a short fishing event within your [Winter schedule](/guides/winter-guide/), so leave yourself time for the upgrades you planned before the festival arrived.
+
+## Choose a reward tier you can name
+
+On Winter 12, the gold threshold of five Squid includes a Pearl and Coffee; on Winter 13, the gold threshold of seven includes a Treasure Chest and Triple Shot Espresso. Iridium thresholds are eight and ten respectively, with their own special rewards. The [SquidFest prize table](https://stardewvalleywiki.com/SquidFest) lists the full bundles and repeat-reward cases.
+
+Pick the desired tier for that day before the first cast. If you finish the target, claim it with inventory room, restock, and decide whether the next tier is worth the remaining session. Yesterday's surplus catches do not become tomorrow's event counter.

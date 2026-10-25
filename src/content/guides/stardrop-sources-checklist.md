@@ -2,6 +2,7 @@
 title: "Stardrop Checklist: Pick the Next Energy Upgrade You Can Reach"
 description: "Track the seven Stardrop sources, compare their prerequisites, and separate permanent maximum energy from ordinary meals and temporary buffs."
 pubDate: "2026-10-24"
+updatedDate: 2026-10-26
 category: "Getting Started"
 tags: ["stardrop", "energy", "collections", "progression"]
 ---
@@ -65,5 +66,11 @@ The [friendship guide](/guides/friendship-guide/) explains the normal heart prog
 A larger bar supports more tool use, but health, inventory space, and the clock remain separate limits. If combat ends trips, prepare healing. If watering occupies the morning, consider field size and sprinklers. If the bag fills, unload or upgrade it.
 
 The [energy guide](/guides/energy-management-tips/) helps diagnose that recurring cost. A Stardrop is useful progress; it is not a reason to keep a routine that already feels too crowded.
+
+## Choose a reachable source from the actual save
+
+If the mine elevator is at floor 95, the floor-100 Stardrop is one checkpoint away. If the Museum has sixty donations, the complete-collection Stardrop still needs thirty-five distinct items. Those two “nearly there” descriptions mean very different amounts of remaining work.
+
+Use the source table as a direction finder, then inspect the missing prerequisite. Count the Fair price in Star Tokens rather than gold, keep Cannoli's berry out of sales, and check actual relationship progress for the spouse or roommate source. A source only increases energy after the Stardrop has been obtained.
 
 **Reference:** sources, quantities, permanent increase, and consumption behavior checked against the linked Stardrop page on 24 October 2026. Checklist assumes ordinary unmodded progression; multiplayer relationship details have additional rules.

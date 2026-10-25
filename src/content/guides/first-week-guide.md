@@ -2,7 +2,7 @@
 title: "Your First Week: A Spring 1–7 Plan"
 description: "A day-by-day plan for a new Standard Farm: plant Parsnips, get a fishing rod, visit the mines, and leave money for later purchases."
 pubDate: 2026-10-21
-updatedDate: 2026-10-25
+updatedDate: 2026-10-26
 category: "Getting Started"
 tags: ["first week", "beginner", "spring", "walkthrough"]
 ---
@@ -19,7 +19,7 @@ On the Standard Farm, start with the 15 Parsnip Seeds and a small cleared patch.
 
 ## Day 1 (Spring 1): plant and introduce yourself
 
-- **Clear a small patch near your house.** Cut weeds with your scythe to make space and collect any Fiber they drop, then till about 15–20 tiles with the ![Hoe](/images/items/wood.png) hoe — enough space for your starter seeds plus a few you'll buy.
+- **Clear a small patch near your house.** Cut weeds with your scythe to make space and collect any Fiber they drop, then till about 15–20 tiles with the hoe — enough space for your starter seeds plus a few you'll buy.
 - **Plant and water your 15 Parsnip seeds.** Parsnips take just 4 days to grow and sell for 35g each. This is your seed money, so water every single day.
 - **Walk around town and talk to everyone.** First conversations give friendship points for free, and you'll learn where the shops, the beach, and the forest are.
 - **Go to bed early.** Your energy bar is small at the start and you have no good food yet — don't burn out by 4pm on day one.
@@ -84,3 +84,9 @@ Keep watering what is planted, try a few fishing sessions, and make a short mine
 ## References and scope
 
 This route assumes the Standard Farm, standard bundles, and an unmodded 1.6 game. Other farm types can have different starting gifts. See the [Wiki weather reference](https://stardewvalleywiki.com/Weather), [Community Center entry conditions](https://stardewvalleywiki.com/Community_Center), and [Spring Onions](https://stardewvalleywiki.com/Spring_Onion). The spending and harvest examples assume daily watering, normal-quality base sales, and no growth bonuses. Reviewed 25 October 2026.
+
+## What to carry on the first mine visit
+
+Take the Pickaxe, your available weapon, a food stack, and empty slots. Leave the watering can after finishing the field; take the Hoe only if a dirt-search task is part of this visit. The first useful objective can be floor 5 rather than an ore total and several checkpoints at once.
+
+When you return, keep Copper Ore for the Furnace and next bars, reserve new donations, and ship only the chosen sale stack. This first unloading pass establishes the difference between income and progression materials before the backpack starts collecting several days of unrelated objects.

@@ -1,0 +1,11 @@
+---
+import Base from '../layouts/Base.astro';
+import {PLANS} from '../data/plans';
+import {getCollection} from 'astro:content';
+const guides=await getCollection('guides',({data})=>!data.draft);
+const title=(id:string)=>guides.find(g=>g.id===id)?.data.title??id;
+---
+<Base title="Six Reading Plans for Your Next Farm Goal" description="Choose a Stardew Valley reading route for a fresh save, farm automation, income, collections, deeper mines, or Ginger Island.">
+<section class="page-intro container"><p class="eyebrow">MAKE A PLAN</p><h1>One goal.<br/><em>A useful next step.</em></h1><p class="lede">Follow the steps that fit your save. Each plan connects the setup, the decision, and the guide that explains it.</p><nav class="jump-links" aria-label="Reading plans">{PLANS.map(p=><a href={`#${p.id}`}>{p.label} ↓</a>)}</nav></section>
+<div class="container plans-layout">{PLANS.map((p,i)=><section class="reading-plan" id={p.id}><div class="plan-intro"><p class="eyebrow">PLAN 0{i+1} / {p.label}</p><h2>{p.title}</h2><p>{p.intro}</p><p class="plan-outcome"><strong>Work toward</strong>{p.outcome}</p></div><ol class="plan-steps">{p.steps.map(([id,step,why])=><li><h3><a href={`/guides/${id}/`}>{step} ↗</a></h3><p>{why}</p><small>{title(id)}</small></li>)}</ol></section>)}</div>
+</Base>

@@ -2,7 +2,7 @@
 title: "Museum Donation Guide: Organize Finds Without Losing Useful Reserves"
 description: "Track new museum donations, manage duplicates, plan collection trips, and keep a small reserve for crafting and later projects."
 pubDate: 2026-10-24
-updatedDate: 2026-10-25
+updatedDate: 2026-10-26
 category: "Community"
 tags: ["museum", "artifacts", "minerals", "collections"]
 ---
@@ -32,8 +32,6 @@ If the item is ambiguous, inspect it again before selling. A short pause in stor
 Only one copy of a particular artifact or mineral can be donated. After the first donation, decide what another copy is for. It might be a sale, a gift, a recipe ingredient, or a reserve for a project you can name.
 
 “Already donated” therefore does not automatically mean “safe to discard.” Equally, an item does not need an unlimited stack merely because it was once useful. A small purposeful reserve avoids both extremes.
-
-Our [backpack and storage guide](/guides/backpack-storage-guide/) explains how to separate current-trip items from longer-term supplies. The Museum reserve should reduce travel, not become a reason to carry the entire collection on every outing.
 
 ## Make a town loop around discoveries
 
@@ -90,5 +88,11 @@ You can rearrange donated items through the Museum interface. Grouping minerals 
 If you are close to completion, use the collection reference to check specific missing items rather than relying only on empty-looking display spaces. Not every available space represents a missing donation.
 
 For steady new discoveries, return to a manageable [mining routine](/guides/mining-guide-beginners/) and bring the results home safely. Collection progress tends to be easier to maintain when it fits around activities you already enjoy.
+
+## Use item descriptions, not empty display spaces
+
+The Museum has more available display positions than donatable items. An empty-looking spot is therefore not a reliable missing-item checklist. Read the collection and individual item's donation status before repeating a search.
+
+Once a new item is identified, move one copy to the town reserve and separate the rest. At the Museum, donate, collect any available reward, and inspect seasonal seed packets before planting them. If a particular reward depends on artifacts rather than total donations, use that subset's count; a new mineral cannot stand in for the missing artifact.
 
 **References:** donation rules, description behavior, rearranging, and milestone totals checked against the [Museum Wiki entry](https://wiki.stardewvalley.net/Museum) on 25 October 2026. Trip planning assumes an unmodded 1.6 game.

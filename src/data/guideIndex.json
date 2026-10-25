@@ -1,0 +1,749 @@
+{
+  "animals-guide": {
+    "topic": "Animals & care",
+    "stage": "Building the farm",
+    "related": [
+      "silo-hay-winter-feeding-guide",
+      "cheese-mayonnaise-quality-rules",
+      "auto-grabber-auto-petter-difference"
+    ]
+  },
+  "auto-grabber-auto-petter-difference": {
+    "topic": "Animals & care",
+    "stage": "Building the farm",
+    "related": [
+      "animals-guide",
+      "silo-hay-winter-feeding-guide",
+      "cheese-mayonnaise-quality-rules"
+    ]
+  },
+  "backpack-storage-guide": {
+    "topic": "First steps",
+    "stage": "Starting out",
+    "related": [
+      "big-chest-upgrade-planning",
+      "workbench-crafting-corner",
+      "shipping-bin-or-shop"
+    ]
+  },
+  "bait-and-tackle-guide": {
+    "topic": "Fishing & water",
+    "stage": "Building the farm",
+    "related": [
+      "fishing-guide-beginners",
+      "fishing-professions-guide",
+      "legendary-fish-guide"
+    ]
+  },
+  "bait-maker-targeted-fishing": {
+    "topic": "Fishing & water",
+    "stage": "Building the farm",
+    "related": [
+      "squidfest-daily-targets",
+      "trout-derby-tags-plan",
+      "bait-and-tackle-guide"
+    ]
+  },
+  "bee-house-flower-honey-guide": {
+    "topic": "Machines & materials",
+    "stage": "Building the farm",
+    "related": [
+      "tapper-tree-products-guide",
+      "lightning-rods-battery-packs-guide",
+      "farm-layout-tips"
+    ]
+  },
+  "best-gifts-villagers": {
+    "topic": "Friends & festivals",
+    "stage": "Starting out",
+    "related": [
+      "friendship-guide",
+      "flower-dance-partner-planning",
+      "tea-saplings-growing-or-selling"
+    ]
+  },
+  "big-chest-upgrade-planning": {
+    "topic": "Farm layout & travel",
+    "stage": "Building the farm",
+    "related": [
+      "workbench-crafting-corner",
+      "backpack-storage-guide",
+      "farm-layout-tips"
+    ]
+  },
+  "calico-desert-bus-errands": {
+    "topic": "Farm layout & travel",
+    "stage": "Building the farm",
+    "related": [
+      "crystalarium-jade-or-diamond",
+      "skull-cavern-guide",
+      "desert-festival-first-plan"
+    ]
+  },
+  "cask-aging-cellar-guide": {
+    "topic": "Machines & materials",
+    "stage": "Later game",
+    "related": [
+      "keg-vs-preserves-jar",
+      "cheese-mayonnaise-quality-rules",
+      "truffle-oil-or-raw-sale"
+    ]
+  },
+  "cheese-mayonnaise-quality-rules": {
+    "topic": "Animals & care",
+    "stage": "Building the farm",
+    "related": [
+      "animals-guide",
+      "auto-grabber-auto-petter-difference",
+      "cask-aging-cellar-guide"
+    ]
+  },
+  "combat-survival-guide": {
+    "topic": "Mines & combat",
+    "stage": "Building the farm",
+    "related": [
+      "cooking-and-food-buffs-guide",
+      "marlon-item-recovery",
+      "skull-cavern-guide"
+    ]
+  },
+  "community-center-guide": {
+    "topic": "Collections & unlocks",
+    "stage": "Starting out",
+    "related": [
+      "greenhouse-guide",
+      "minecart-unlock-daily-routes",
+      "museum-donation-guide"
+    ]
+  },
+  "cooking-and-food-buffs-guide": {
+    "topic": "First steps",
+    "stage": "Starting out",
+    "related": [
+      "energy-management-tips",
+      "combat-survival-guide",
+      "fishing-guide-beginners"
+    ]
+  },
+  "crab-pot-route-guide": {
+    "topic": "Fishing & water",
+    "stage": "Building the farm",
+    "related": [
+      "fishing-professions-guide",
+      "recycling-machine-guide",
+      "community-center-guide"
+    ]
+  },
+  "crafting-guide-beginners": {
+    "topic": "First steps",
+    "stage": "Starting out",
+    "related": [
+      "furnace-and-coal-planning",
+      "sprinkler-guide",
+      "tapper-tree-products-guide"
+    ]
+  },
+  "crystalarium-jade-or-diamond": {
+    "topic": "Mines & combat",
+    "stage": "Building the farm",
+    "related": [
+      "calico-desert-bus-errands",
+      "skull-cavern-guide",
+      "geode-processing-guide"
+    ]
+  },
+  "dehydrator-five-item-batches": {
+    "topic": "Machines & materials",
+    "stage": "Building the farm",
+    "related": [
+      "keg-vs-preserves-jar",
+      "mushroom-log-tree-placement",
+      "shipping-bin-or-shop"
+    ]
+  },
+  "desert-festival-first-plan": {
+    "topic": "Friends & festivals",
+    "stage": "Building the farm",
+    "related": [
+      "calico-desert-bus-errands",
+      "skull-cavern-guide",
+      "monster-goals-reward-planning"
+    ]
+  },
+  "dwarf-scrolls-translation-guide": {
+    "topic": "Mines & combat",
+    "stage": "Building the farm",
+    "related": [
+      "museum-donation-guide",
+      "mining-guide-beginners",
+      "combat-survival-guide"
+    ]
+  },
+  "egg-festival-strawberry-plan": {
+    "topic": "Crops & seasons",
+    "stage": "Starting out",
+    "related": [
+      "spring-crop-guide",
+      "energy-management-tips",
+      "fertilizer-quality-or-speed"
+    ]
+  },
+  "energy-management-tips": {
+    "topic": "First steps",
+    "stage": "Starting out",
+    "related": [
+      "cooking-and-food-buffs-guide",
+      "sprinkler-guide",
+      "tool-upgrades-guide"
+    ]
+  },
+  "fall-crop-guide": {
+    "topic": "Crops & seasons",
+    "stage": "Building the farm",
+    "related": [
+      "stardew-valley-fair-grange-guide",
+      "winter-guide",
+      "greenhouse-guide"
+    ]
+  },
+  "farm-cave-mushrooms-or-bats-guide": {
+    "topic": "Animals & care",
+    "stage": "Building the farm",
+    "related": [
+      "community-center-guide",
+      "mushroom-log-tree-placement",
+      "dehydrator-five-item-batches"
+    ]
+  },
+  "farm-layout-tips": {
+    "topic": "Farm layout & travel",
+    "stage": "Building the farm",
+    "related": [
+      "sprinkler-guide",
+      "scarecrow-range-rarecrow-checklist",
+      "workbench-crafting-corner"
+    ]
+  },
+  "fertilizer-quality-or-speed": {
+    "topic": "Crops & seasons",
+    "stage": "Building the farm",
+    "related": [
+      "spring-crop-guide",
+      "summer-crop-guide",
+      "seed-maker-guide"
+    ]
+  },
+  "first-week-guide": {
+    "topic": "First steps",
+    "stage": "Starting out",
+    "related": [
+      "energy-management-tips",
+      "spring-crop-guide",
+      "fishing-guide-beginners"
+    ]
+  },
+  "fish-pond-first-pond-guide": {
+    "topic": "Fishing & water",
+    "stage": "Building the farm",
+    "related": [
+      "crab-pot-route-guide",
+      "geode-processing-guide",
+      "fishing-professions-guide"
+    ]
+  },
+  "fish-smoker-coal-profit": {
+    "topic": "Fishing & water",
+    "stage": "Building the farm",
+    "related": [
+      "furnace-and-coal-planning",
+      "fishing-professions-guide",
+      "shipping-bin-or-shop"
+    ]
+  },
+  "fishing-guide-beginners": {
+    "topic": "Fishing & water",
+    "stage": "Starting out",
+    "related": [
+      "bait-and-tackle-guide",
+      "fishing-professions-guide",
+      "crab-pot-route-guide"
+    ]
+  },
+  "fishing-professions-guide": {
+    "topic": "Fishing & water",
+    "stage": "Building the farm",
+    "related": [
+      "fish-smoker-coal-profit",
+      "crab-pot-route-guide",
+      "bait-and-tackle-guide"
+    ]
+  },
+  "flower-dance-partner-planning": {
+    "topic": "Friends & festivals",
+    "stage": "Building the farm",
+    "related": [
+      "friendship-guide",
+      "best-gifts-villagers",
+      "egg-festival-strawberry-plan"
+    ]
+  },
+  "forge-upgrades-enchantments": {
+    "topic": "Ginger Island",
+    "stage": "Later game",
+    "related": [
+      "volcano-dungeon-first-forge-route",
+      "skull-cavern-guide",
+      "combat-survival-guide"
+    ]
+  },
+  "friendship-guide": {
+    "topic": "Friends & festivals",
+    "stage": "Starting out",
+    "related": [
+      "best-gifts-villagers",
+      "flower-dance-partner-planning",
+      "tea-saplings-growing-or-selling"
+    ]
+  },
+  "fruit-tree-planting-guide": {
+    "topic": "Crops & seasons",
+    "stage": "Building the farm",
+    "related": [
+      "greenhouse-guide",
+      "farm-layout-tips",
+      "garden-pot-indoor-growing"
+    ]
+  },
+  "furnace-and-coal-planning": {
+    "topic": "Mines & combat",
+    "stage": "Building the farm",
+    "related": [
+      "mining-guide-beginners",
+      "tool-upgrades-guide",
+      "crafting-guide-beginners"
+    ]
+  },
+  "garden-pot-indoor-growing": {
+    "topic": "Crops & seasons",
+    "stage": "Building the farm",
+    "related": [
+      "greenhouse-guide",
+      "ginger-island-first-visit",
+      "tea-saplings-growing-or-selling"
+    ]
+  },
+  "geode-processing-guide": {
+    "topic": "Mines & combat",
+    "stage": "Building the farm",
+    "related": [
+      "museum-donation-guide",
+      "fish-pond-first-pond-guide",
+      "dwarf-scrolls-translation-guide"
+    ]
+  },
+  "ginger-island-first-visit": {
+    "topic": "Ginger Island",
+    "stage": "Later game",
+    "related": [
+      "island-farm-overnight-plan",
+      "volcano-dungeon-first-forge-route",
+      "forge-upgrades-enchantments"
+    ]
+  },
+  "green-rain-moss-route": {
+    "topic": "Machines & materials",
+    "stage": "Building the farm",
+    "related": [
+      "mushroom-log-tree-placement",
+      "worm-bin-bait-supply",
+      "mahogany-hardwood-renewal"
+    ]
+  },
+  "greenhouse-guide": {
+    "topic": "Crops & seasons",
+    "stage": "Building the farm",
+    "related": [
+      "fruit-tree-planting-guide",
+      "garden-pot-indoor-growing",
+      "keg-vs-preserves-jar"
+    ]
+  },
+  "help-wanted-special-orders": {
+    "topic": "Friends & festivals",
+    "stage": "Building the farm",
+    "related": [
+      "friendship-guide",
+      "shipping-bin-or-shop",
+      "minecart-unlock-daily-routes"
+    ]
+  },
+  "island-farm-overnight-plan": {
+    "topic": "Ginger Island",
+    "stage": "Later game",
+    "related": [
+      "ginger-island-first-visit",
+      "garden-pot-indoor-growing",
+      "volcano-dungeon-first-forge-route"
+    ]
+  },
+  "junimo-hut-harvest-layout": {
+    "topic": "Farm layout & travel",
+    "stage": "Later game",
+    "related": [
+      "sprinkler-guide",
+      "farm-layout-tips",
+      "scarecrow-range-rarecrow-checklist"
+    ]
+  },
+  "keg-vs-preserves-jar": {
+    "topic": "Machines & materials",
+    "stage": "Building the farm",
+    "related": [
+      "tapper-tree-products-guide",
+      "cask-aging-cellar-guide",
+      "dehydrator-five-item-batches"
+    ]
+  },
+  "legendary-fish-guide": {
+    "topic": "Fishing & water",
+    "stage": "Later game",
+    "related": [
+      "bait-and-tackle-guide",
+      "cooking-and-food-buffs-guide",
+      "fishing-professions-guide"
+    ]
+  },
+  "lightning-rods-battery-packs-guide": {
+    "topic": "Machines & materials",
+    "stage": "Building the farm",
+    "related": [
+      "sprinkler-guide",
+      "ginger-island-first-visit",
+      "farm-layout-tips"
+    ]
+  },
+  "luau-soup-ingredient-plan": {
+    "topic": "Friends & festivals",
+    "stage": "Building the farm",
+    "related": [
+      "friendship-guide",
+      "summer-crop-guide",
+      "stardew-valley-fair-grange-guide"
+    ]
+  },
+  "mahogany-hardwood-renewal": {
+    "topic": "Machines & materials",
+    "stage": "Building the farm",
+    "related": [
+      "secret-woods-hardwood-guide",
+      "tool-upgrades-guide",
+      "mushroom-log-tree-placement"
+    ]
+  },
+  "make-money-year-one": {
+    "topic": "First steps",
+    "stage": "Starting out",
+    "related": [
+      "shipping-bin-or-shop",
+      "spring-crop-guide",
+      "keg-vs-preserves-jar"
+    ]
+  },
+  "marlon-item-recovery": {
+    "topic": "Mines & combat",
+    "stage": "Building the farm",
+    "related": [
+      "combat-survival-guide",
+      "monster-goals-reward-planning",
+      "skull-cavern-guide"
+    ]
+  },
+  "minecart-unlock-daily-routes": {
+    "topic": "Farm layout & travel",
+    "stage": "Building the farm",
+    "related": [
+      "community-center-guide",
+      "furnace-and-coal-planning",
+      "tool-upgrades-guide"
+    ]
+  },
+  "mining-guide-beginners": {
+    "topic": "Mines & combat",
+    "stage": "Starting out",
+    "related": [
+      "furnace-and-coal-planning",
+      "combat-survival-guide",
+      "tool-upgrades-guide"
+    ]
+  },
+  "monster-goals-reward-planning": {
+    "topic": "Mines & combat",
+    "stage": "Building the farm",
+    "related": [
+      "mining-guide-beginners",
+      "combat-survival-guide",
+      "marlon-item-recovery"
+    ]
+  },
+  "museum-donation-guide": {
+    "topic": "Collections & unlocks",
+    "stage": "Building the farm",
+    "related": [
+      "geode-processing-guide",
+      "dwarf-scrolls-translation-guide",
+      "seed-maker-guide"
+    ]
+  },
+  "mushroom-log-tree-placement": {
+    "topic": "Machines & materials",
+    "stage": "Building the farm",
+    "related": [
+      "green-rain-moss-route",
+      "dehydrator-five-item-batches",
+      "mahogany-hardwood-renewal"
+    ]
+  },
+  "night-market-guide": {
+    "topic": "Friends & festivals",
+    "stage": "Building the farm",
+    "related": [
+      "squidfest-daily-targets",
+      "legendary-fish-guide",
+      "winter-guide"
+    ]
+  },
+  "rain-totem-weather-planning": {
+    "topic": "Machines & materials",
+    "stage": "Later game",
+    "related": [
+      "tool-upgrades-guide",
+      "legendary-fish-guide",
+      "lightning-rods-battery-packs-guide"
+    ]
+  },
+  "recycling-machine-guide": {
+    "topic": "Fishing & water",
+    "stage": "Building the farm",
+    "related": [
+      "crab-pot-route-guide",
+      "crafting-guide-beginners",
+      "furnace-and-coal-planning"
+    ]
+  },
+  "scarecrow-range-rarecrow-checklist": {
+    "topic": "Farm layout & travel",
+    "stage": "Building the farm",
+    "related": [
+      "farm-layout-tips",
+      "sprinkler-guide",
+      "junimo-hut-harvest-layout"
+    ]
+  },
+  "seasonal-seed-spot-crops": {
+    "topic": "Crops & seasons",
+    "stage": "Building the farm",
+    "related": [
+      "spring-crop-guide",
+      "summer-crop-guide",
+      "winter-guide"
+    ]
+  },
+  "secret-woods-hardwood-guide": {
+    "topic": "Mines & combat",
+    "stage": "Building the farm",
+    "related": [
+      "mahogany-hardwood-renewal",
+      "tool-upgrades-guide",
+      "stardrop-sources-checklist"
+    ]
+  },
+  "seed-maker-guide": {
+    "topic": "Crops & seasons",
+    "stage": "Building the farm",
+    "related": [
+      "greenhouse-guide",
+      "fertilizer-quality-or-speed",
+      "seasonal-seed-spot-crops"
+    ]
+  },
+  "shipping-bin-or-shop": {
+    "topic": "Machines & materials",
+    "stage": "Starting out",
+    "related": [
+      "make-money-year-one",
+      "fish-smoker-coal-profit",
+      "keg-vs-preserves-jar"
+    ]
+  },
+  "silo-hay-winter-feeding-guide": {
+    "topic": "Animals & care",
+    "stage": "Building the farm",
+    "related": [
+      "animals-guide",
+      "winter-guide",
+      "auto-grabber-auto-petter-difference"
+    ]
+  },
+  "skull-cavern-guide": {
+    "topic": "Mines & combat",
+    "stage": "Later game",
+    "related": [
+      "crystalarium-jade-or-diamond",
+      "combat-survival-guide",
+      "marlon-item-recovery"
+    ]
+  },
+  "spring-crop-guide": {
+    "topic": "Crops & seasons",
+    "stage": "Starting out",
+    "related": [
+      "egg-festival-strawberry-plan",
+      "fertilizer-quality-or-speed",
+      "summer-crop-guide"
+    ]
+  },
+  "sprinkler-guide": {
+    "topic": "Farm layout & travel",
+    "stage": "Building the farm",
+    "related": [
+      "farm-layout-tips",
+      "greenhouse-guide",
+      "lightning-rods-battery-packs-guide"
+    ]
+  },
+  "squidfest-daily-targets": {
+    "topic": "Fishing & water",
+    "stage": "Building the farm",
+    "related": [
+      "bait-maker-targeted-fishing",
+      "bait-and-tackle-guide",
+      "night-market-guide"
+    ]
+  },
+  "stable-horse-travel": {
+    "topic": "Farm layout & travel",
+    "stage": "Building the farm",
+    "related": [
+      "farm-layout-tips",
+      "minecart-unlock-daily-routes",
+      "mahogany-hardwood-renewal"
+    ]
+  },
+  "stardew-valley-fair-grange-guide": {
+    "topic": "Friends & festivals",
+    "stage": "Building the farm",
+    "related": [
+      "stardrop-sources-checklist",
+      "fall-crop-guide",
+      "museum-donation-guide"
+    ]
+  },
+  "stardrop-sources-checklist": {
+    "topic": "Collections & unlocks",
+    "stage": "Building the farm",
+    "related": [
+      "stardew-valley-fair-grange-guide",
+      "secret-woods-hardwood-guide",
+      "museum-donation-guide"
+    ]
+  },
+  "summer-crop-guide": {
+    "topic": "Crops & seasons",
+    "stage": "Building the farm",
+    "related": [
+      "luau-soup-ingredient-plan",
+      "fall-crop-guide",
+      "keg-vs-preserves-jar"
+    ]
+  },
+  "tapper-tree-products-guide": {
+    "topic": "Machines & materials",
+    "stage": "Building the farm",
+    "related": [
+      "keg-vs-preserves-jar",
+      "mahogany-hardwood-renewal",
+      "workbench-crafting-corner"
+    ]
+  },
+  "tea-saplings-growing-or-selling": {
+    "topic": "Machines & materials",
+    "stage": "Building the farm",
+    "related": [
+      "friendship-guide",
+      "garden-pot-indoor-growing",
+      "shipping-bin-or-shop"
+    ]
+  },
+  "tips-and-tricks": {
+    "topic": "First steps",
+    "stage": "Starting out",
+    "related": [
+      "first-week-guide",
+      "backpack-storage-guide",
+      "make-money-year-one"
+    ]
+  },
+  "tool-upgrades-guide": {
+    "topic": "Mines & combat",
+    "stage": "Starting out",
+    "related": [
+      "rain-totem-weather-planning",
+      "furnace-and-coal-planning",
+      "secret-woods-hardwood-guide"
+    ]
+  },
+  "trout-derby-tags-plan": {
+    "topic": "Fishing & water",
+    "stage": "Building the farm",
+    "related": [
+      "bait-maker-targeted-fishing",
+      "bait-and-tackle-guide",
+      "fishing-professions-guide"
+    ]
+  },
+  "truffle-oil-or-raw-sale": {
+    "topic": "Animals & care",
+    "stage": "Later game",
+    "related": [
+      "animals-guide",
+      "auto-grabber-auto-petter-difference",
+      "cask-aging-cellar-guide"
+    ]
+  },
+  "volcano-dungeon-first-forge-route": {
+    "topic": "Ginger Island",
+    "stage": "Later game",
+    "related": [
+      "forge-upgrades-enchantments",
+      "island-farm-overnight-plan",
+      "combat-survival-guide"
+    ]
+  },
+  "winter-guide": {
+    "topic": "Crops & seasons",
+    "stage": "Building the farm",
+    "related": [
+      "silo-hay-winter-feeding-guide",
+      "night-market-guide",
+      "spring-crop-guide"
+    ]
+  },
+  "workbench-crafting-corner": {
+    "topic": "Farm layout & travel",
+    "stage": "Building the farm",
+    "related": [
+      "big-chest-upgrade-planning",
+      "crafting-guide-beginners",
+      "farm-layout-tips"
+    ]
+  },
+  "worm-bin-bait-supply": {
+    "topic": "Fishing & water",
+    "stage": "Building the farm",
+    "related": [
+      "crab-pot-route-guide",
+      "bait-maker-targeted-fishing",
+      "green-rain-moss-route"
+    ]
+  }
+}

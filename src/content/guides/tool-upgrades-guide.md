@@ -2,7 +2,7 @@
 title: "Tool Upgrades: Costs, Priorities, and Collection Timing"
 description: "Choose a tool upgrade for your next farm project and plan the hand-in so watering, mining, or woodcutting can wait."
 pubDate: 2026-10-21
-updatedDate: 2026-10-24
+updatedDate: 2026-10-26
 category: "Getting Started"
 tags: ["tools", "upgrades", "beginner", "mining"]
 ---
@@ -56,4 +56,10 @@ Do not save five gold bars for a scythe hand-in or assume both improved versions
 
 Before handing over a tool, check the forecast, the next two days' work, Clint's access, and the money left afterward. Put a reminder in your own routine to collect it. If a trip is already planned for geodes or [Museum donations](/guides/museum-donation-guide/), combine the errands when shop hours allow.
 
-**References:** upgrade behavior, shop access, and scythe progression checked against the linked Wiki entries on 24 October 2026. This revision removes the incorrect meteorite/Stardrop claim and the description of a Dwarf obstruction as a Skull Cavern shortcut.
+## A rainy day does not cover indoor crops
+
+Before handing in the watering can, check the Greenhouse and Garden Pots as well as the outdoor field. Mainland rain can cover the outdoor day without the tool; it does not water plants indoors. A smaller temporary arrangement or a later hand-in may be needed.
+
+For the Pickaxe, compare the next ore trip with the lost workday. If you already have the complete bar batch for a machine and no immediate mine task, that pause may fit naturally. Check Clint's collection access before treating the stated upgrade duration as the time you will actually have the tool back.
+
+**References:** upgrade behavior, shop access, and scythe progression checked against the linked Wiki entries on 24 October 2026.

@@ -2,7 +2,7 @@
 title: "Mahogany Trees: Build a Hardwood Supply You Can Replant"
 description: "Reserve Mahogany Seeds, use Tree Fertilizer without promising a fixed harvest date, and balance plantation space with daily hardwood trips."
 pubDate: "2026-10-25"
-updatedDate: 2026-10-25
+updatedDate: 2026-10-26
 category: "Farming"
 tags: ["mahogany", "hardwood", "tree fertilizer", "tree layout"]
 ---
@@ -44,5 +44,11 @@ A simple staggered plan is to plant three positions first and the other three wh
 Put the building or machine requirement aside before spending the remainder. Six immature trees should not be counted as finished boat-repair materials. Keep gathering from established sources while the new patch develops.
 
 Tapping Mahogany produces Sap, not Hardwood. If Hardwood is the goal, do not install tappers expecting a recurring Hardwood output. Use a separate [tapper grove](/guides/tapper-tree-products-guide/) for Resin, Syrup, and Tar, and the [farm layout guide](/guides/farm-layout-tips/) for keeping these production areas out of daily travel paths.
+
+## Keep growth fertilizer separate from crop treatment
+
+Tree Fertilizer goes on a planted wild-tree seed or sapling. It does not replace the quality or speed fertilizer used in tilled crop soil, and it does not accelerate fruit trees or Tea Bushes. Its recipe unlocks at Foraging 7 and uses five Fiber plus five Stone per application.
+
+For the six-tree example, six applications therefore cost **30 Fiber and 30 Stone**. Check whether that shared Fiber is already assigned to another recipe before fertilizing the full patch. The [Tree Fertilizer reference](https://wiki.stardewvalley.net/Tree_Fertilizer) also explains Mahogany's probabilistic growth exception, so do not assign the exact timing of an ordinary fertilized oak to this grove.
 
 **Review:** 25 October 2026. Sources above describe unmodded 1.6; the Raccoon exchange specifically needs 1.6.6 or later. The six-tree totals use the documented yield range.

@@ -2,7 +2,7 @@
 title: "Seed Maker Guide: When Saving Crops for Seeds Makes Sense"
 description: "Compare crop value with replacement seeds, understand variable Seed Maker outputs, and plan a small seed reserve without sacrificing your whole harvest."
 pubDate: 2026-10-24
-updatedDate: 2026-10-24
+updatedDate: 2026-10-26
 category: "Farming"
 tags: ["seed maker", "seeds", "farming"]
 ---
@@ -57,14 +57,10 @@ Other input exceptions also exist. When an item will not load, check the source'
 
 Keep this distinction visible in storage: one stack for produce you intentionally plan to convert, another for ordinary selling and processing. Accidentally feeding a valuable reserved item into a machine is easier when every harvest shares one unlabeled pile.
 
-## A small replanting workflow
+## Compare a purchased crop with a rare expansion
 
-1. Decide how many new plants you actually want.
-2. Count seeds already stored before choosing input crops.
-3. Compare conversion with accessible shop purchases and other uses.
-4. Process small batches and count useful results.
-5. Move finished seed stock out of the general sale chest.
+For ordinary Parsnips, a 35g normal crop exchanged for one matching seed replaces a packet costing 20g; that particular result loses 15g of sale opportunity before machine cost. Two matching packets replace 40g of purchases. Output varies, so neither outcome is a promise for the next run.
 
-Do this before spending all available gold on the next project. Our [Year 1 income guide](/guides/make-money-year-one/) explains why keeping enough operating money matters even when equipment can replace part of your seed bill.
+For Ancient Fruit expansion, an easily purchased matching packet may not be available. Converting a small reserve can therefore serve access rather than shop savings. Keep enough fruit for the chosen expansion, process early, then count actual usable packets. Once the planted field is large enough, regrowth does not require another packet for every harvest.
 
 **References:** basic recipe, supported input limitations, and output variability checked against the [Seed Maker Wiki entry](https://stardewvalleywiki.com/Seed_Maker) on 24 October 2026. The 120g comparison is hypothetical arithmetic, and the workflow is our recommendation for unmodded 1.6.

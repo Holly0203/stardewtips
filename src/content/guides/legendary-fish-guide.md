@@ -2,7 +2,7 @@
 title: "Legendary Fish: Locations, Conditions, and Preparation"
 description: "Check where and when the five original legendary fish can appear, then prepare a rod, tackle, and food for repeated attempts."
 pubDate: 2026-10-21
-updatedDate: 2026-10-25
+updatedDate: 2026-10-26
 category: "Fishing"
 tags: ["legendary fish", "fishing", "endgame"]
 ---
@@ -66,5 +66,11 @@ Use the [beginner fishing guide](/guides/fishing-guide-beginners/) for bar contr
 The related fish appear during Mr. Qi's Extended Family quest. Their season and weather requirements are removed, and they can be caught more than once while that quest is active. They are not an annual set unlocked by Leo's relationship storyline.
 
 Keep that quest separate from the original-five checklist. If a later variant appears where you expected an original, check the active quest before changing the whole location plan.
+
+## If the special fish never appears
+
+Check eligibility in this order: current season and weather, effective Fishing level, standing position, then the bobber's distance from every nearby land edge. A long cast can still land close to an island or the opposite bank.
+
+If a food buff supplied the required level, check whether it expired or was replaced. If the original fish was already caught by this player, ordinary repeated casts do not create another original catch. Once those checks pass, ordinary fish in the same pool remain possible; another common bite alone is not evidence that the conditions failed.
 
 **References:** individual fish entries linked above, reviewed 25 October 2026. Covers ordinary catches in unmodded 1.6 without Magic Bait; later quest variants and special multi-catch effects follow separate rules.

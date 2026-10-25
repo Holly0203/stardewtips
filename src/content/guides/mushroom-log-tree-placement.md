@@ -2,6 +2,7 @@
 title: "Mushroom Logs: Choose Nearby Trees Without Blocking Collection"
 description: "Place Mushroom Logs near wild trees, understand why quantity and mushroom type differ, and build a small grove you can still walk through."
 pubDate: "2026-10-24"
+updatedDate: 2026-10-26
 category: "Farming"
 tags: ["mushroom log", "moss", "trees"]
 ---
@@ -48,10 +49,10 @@ A [Dehydrator](/guides/dehydrator-five-item-batches/) can clear matching edible 
 
 Avoid designing the whole grove around a hypothetical output price. The money you receive depends on the actual mix, the use you choose, and how consistently the setup is collected.
 
-## When hardwood is the constraint
+## Count trunks inside the actual seven-by-seven area
 
-Three logs require thirty Hardwood and thirty Moss. If the same hardwood is meant for a building, choose which project comes first. The [Secret Woods route](/guides/secret-woods-hardwood-guide/) can help you plan a replenishment batch.
+Use the log as the center and count three tiles out in each direction. A tree trunk just outside that square contributes nothing even when its canopy makes the grove look dense. Immature wild trees count toward quantity; fruit trees do not.
 
-Add logs when the supply and collection route support them. Moving from one neglected log to six neglected logs mainly increases the materials waiting outdoors.
+Ten contributing trees guarantee the documented five-mushroom quantity, but the species is still selected from the relevant pool. Plan a path to the log before planting the final trunks. If moving logs closer together, recheck each log's own square instead of assuming one nearby forest supplies every machine equally.
 
 **Reference:** recipe, tree range, quantity rule, species influence, and production cycle checked against the linked Mushroom Log Wiki entry on 24 October 2026. Grove layout suggestions assume unmodded 1.6 and do not guarantee a particular mushroom species.

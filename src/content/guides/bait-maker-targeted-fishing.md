@@ -2,8 +2,9 @@
 title: "Bait Maker: Sacrifice One Fish Only When More Catches Matter"
 description: "Use targeted bait for repeat catches, check fish conditions, and avoid processing an irreplaceable specimen."
 pubDate: "2026-10-25"
+updatedDate: 2026-10-26
 category: "Fishing"
-tags: ["fishing", "stardew valley 1.6"]
+tags: ["bait maker targeted fishing", "fishing & water", "fishing"]
 ---
 
 Targeted bait helps you find more of a fish you have already caught. It does not make an out-of-season fish available, and sacrificing a unique catch is a poor way to discover that limitation.
@@ -29,3 +30,9 @@ Suppose you catch an ordinary target early in its availability window. Convertin
 Try one batch first. A better hook chance does not guarantee every cast will produce the target, and lost fish still cost time. If the minigame is the bottleneck, improve control with the [tackle guide](/guides/bait-and-tackle-guide/).
 
 Use the machine alongside the [Trout Derby](/guides/trout-derby-tags-plan/) or [SquidFest](/guides/squidfest-daily-targets/) plans when repeat catches matter. Keep ordinary bait available too, so running out of targeted bait does not end a useful fishing trip.
+
+## Use the first event fish as a small trial
+
+At SquidFest, catch a Squid before converting one into Squid Bait. Load a single fish, collect the resulting batch, equip it, and return to the event water. Keep the counter visible: the fish sacrificed was still a catch, but the bait is useful only if you have time for more attempts.
+
+Do not spend the rest of the day processing every Squid. Five to ten bait from one fish is already a small trial. If your problem is losing hooked fish, change control support first. Targeting affects what you hook; it does not finish the minigame for you.

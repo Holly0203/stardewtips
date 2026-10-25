@@ -2,7 +2,7 @@
 title: "Volcano Dungeon: Reach the Forge With a Way Home"
 description: "Pack the watering can, manage a ten-floor expedition, and open the Forge shortcut before treating the trip as finished."
 pubDate: "2026-10-25"
-updatedDate: 2026-10-25
+updatedDate: 2026-10-26
 category: "Mining"
 tags: ["volcano dungeon", "ginger island", "forge", "exploration"]
 ---
@@ -49,5 +49,11 @@ Stop at the gate and count its remaining red indicators. Scan connected islands 
 Fight flying threats before standing still to mine. If finding pads has already consumed much of your healing, the route objective can wait. A floor you survive and understand is better preparation than rushing ahead without recovery.
 
 After opening the shortcut, read the [Forge spending guide](/guides/forge-upgrades-enchantments/) before consuming rare materials. For a longer island stay, arrange [Farmhouse access and mainland care](/guides/island-farm-overnight-plan/) first.
+
+## Use floor five as a return decision
+
+Refill the can, count the remaining healing, and look at the clock before continuing beyond floor five. If the first half has already consumed most of the stack, choosing an exit preserves the collected materials and gives the next attempt a clear preparation change.
+
+If a locked gate is delaying progress, count its red indicators and search for the missing pads rather than repeatedly walking into the doorway. A pad on a small lava island may need a short watered crossing. Keep the route back recognizable; the dungeon does not supply an ordinary Mines ladder for immediate escape.
 
 **Review:** 25 October 2026, unmodded 1.6. The route describes mechanics and fixed milestones; packing quantities and retreat advice are starting suggestions to adjust to your equipment and food.

@@ -2,7 +2,7 @@
 title: "Stardew Valley Fair Guide: Build a Better Nine-Item Grange Display"
 description: "Prepare a varied grange display, understand where the score comes from, and keep a practical checklist for collecting rewards and taking your items home."
 pubDate: 2026-10-24
-updatedDate: 2026-10-24
+updatedDate: 2026-10-26
 category: "Community"
 tags: ["fair", "grange display", "fall", "festival"]
 ---
@@ -24,8 +24,6 @@ You do not need the theoretical maximum score to have a good Fair. A deliberate 
 When you harvest or find something promising, put one suitable item aside. A small Fair reserve lets you compare options later instead of discovering on Fall 16 that every strong candidate was already sold or processed.
 
 Keep the reserve distinct from items you must not lose for bundles or another project. Displayed items can be collected afterward, but packing and retrieving them still require attention.
-
-Our [storage guide](/guides/backpack-storage-guide/) explains how to prepare a temporary event chest without disrupting ordinary resource storage. You do not need to carry the candidates during every outing before the event.
 
 ## Fill every slot before fine-tuning
 
@@ -68,5 +66,25 @@ Before leaving, return to the display and retrieve every item. The Lost and Foun
 If your display did not win, identify whether the shortfall came from empty slots, variety, or individual items. That gives next year's reserve a purpose instead of a vague instruction to bring “better stuff.”
 
 Our [Fall crop guide](/guides/fall-crop-guide/) can help you plan seasonal candidates without letting the Fair crowd out the final outdoor harvests of the year.
+
+## A calculated 102-point display
+
+Here is one specific nine-item example at the standard 100% profit margin, without sale professions or other modifiers. Item values follow the [Fair scoring bands](https://wiki.stardewvalley.net/Stardew_Valley_Fair#Sell_Price_.26_Quality).
+
+| Item | Quality | Sale value | Item points |
+|---|---|---:|---:|
+| Pumpkin | Gold | 480g | 6 |
+| Melon | Gold | 375g | 6 |
+| Cauliflower | Gold | 262g | 6 |
+| Cheese | Gold | 345g | 6 |
+| Mayonnaise | Gold | 285g | 6 |
+| Diamond | Normal | 750g | 6 |
+| Largemouth Bass | Gold | 150g | 5 |
+| Chanterelle | Gold | 240g | 6 |
+| Fried Egg | Normal | 35g | 2 |
+
+The items contribute **49 points**. Nine slots contribute nine, the base gives fourteen, and at least six represented categories give thirty: **49 + 9 + 14 + 30 = 102**. This is a calculation from the scoring rules; the exact quality entries matter.
+
+You do not need to reproduce every item. Treat the weak two-point Fried Egg as an obvious replacement opportunity, and recalculate any substitute's item points and category. Keep the original items after judging rather than treating their sale values as an event entry cost.
 
 **References:** event details and scoring checked against the [Stardew Valley Fair Wiki entry](https://wiki.stardewvalley.net/Stardew_Valley_Fair) on 24 October 2026. Score budgets are our arithmetic, not a tested item-specific winning display. Advice assumes unmodded 1.6; verify individual classifications and save modifiers.

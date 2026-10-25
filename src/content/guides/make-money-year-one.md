@@ -2,7 +2,7 @@
 title: "Year 1 Income: Fishing, Crops, and Processing"
 description: "A worked 1,000g Spring planting budget, exact harvest and payment dates, and practical choices between fishing, raw sales, and processing."
 pubDate: 2026-10-21
-updatedDate: 2026-10-25
+updatedDate: 2026-10-26
 category: "Getting Started"
 tags: ["money", "beginner", "farming", "fishing", "mining"]
 ---
@@ -58,5 +58,11 @@ Keep ore intended for the next bars instead of selling it and buying replacement
 Set the recipe target first, then gather its missing ore and fuel. Rare drops can be welcome extra value, but should not be the source you depend on for a payment due tomorrow.
 
 At the season change, compare the cash already available with the next planting and feed bills. Use the [Summer crop calendar](/guides/summer-crop-guide/) for the next field rather than blindly copying a Spring budget into a different seed market.
+
+## Keep the next seed purchase out of a long machine queue
+
+At the moment of a purchase, only available gold and a sale you can complete in time can cover the bill. A ready jar still needs collection; shipped produce still needs the overnight payment. Check the seller's hours when immediate selling is part of the plan.
+
+For the worked Spring budget, spending the retained 300g lowers every later cash balance by that amount unless another sale replaces it. Record the actual expense rather than quietly keeping the original forecast. Small updates keep the useful budget intact as the farm changes.
 
 **Review:** 25 October 2026, unmodded 1.6. Balances use the seed bills, harvest dates, and base prices shown above. Quality, professions, missed watering, extra Potato yields, and additional purchases change the result.

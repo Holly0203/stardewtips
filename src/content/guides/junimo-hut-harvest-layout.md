@@ -2,8 +2,9 @@
 title: "Junimo Hut Layout: Range, Rain, and Missed Harvests"
 description: "Place a Junimo Hut around its doorway, preserve access, and diagnose crops that remain unharvested."
 pubDate: "2026-10-25"
+updatedDate: 2026-10-26
 category: "Farming"
-tags: ["farming", "stardew valley 1.6"]
+tags: ["junimo hut harvest layout", "farm layout & travel", "farming"]
 ---
 
 A Junimo Hut saves harvest clicks, but a field designed around its roof can leave the edges outside its range. Measure from the doorway and keep a manual route through the crops for days when the helpers stay inside.
@@ -29,3 +30,9 @@ Check range first, then weather, the harvesting toggle, and storage. The hut's b
 Keep a small replanting chest near the field entrance. A Junimo harvest does not put the next seed in the ground. Reserve seed money before shipping everything, especially when planting [expensive seasonal crops](/guides/summer-crop-guide/).
 
 Build one working block before copying it across the farm. Watch one harvest, walk the rainy-day route yourself, and only then repeat the pattern. [Sprinkler coverage](/guides/sprinkler-guide/) and harvesting coverage are separate checks.
+
+## Measure from the door, then overlay watering
+
+Use the doorway tile as the center when checking the seventeen-by-seventeen area. Mark the eight-tile extension in each cardinal direction before counting crop positions. A field can fall within Junimo reach yet contain dry tiles if the sprinklers use a different center.
+
+Check one outer corner for watering and one rainy harvest by hand before repeating the block. For trellises, keep your own reachable route even though the Junimos can pass through them. The hut's normal operation does not remove replanting, storage emptying, or the manual access needed when helpers do not work.

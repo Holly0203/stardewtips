@@ -2,7 +2,7 @@
 title: "Community Center Guide: Standard Bundles and Room Rewards"
 description: "Plan standard Community Center bundles, keep seasonal items, and choose which room rewards to work toward first."
 pubDate: 2026-10-21
-updatedDate: 2026-10-25
+updatedDate: 2026-10-26
 category: "Community"
 tags: ["community center", "bundles", "beginner", "progression"]
 ---
@@ -71,5 +71,11 @@ Do not join merely because an ordinary item is missing this week. Equally, you d
 ## Before the next town trip
 
 Check the bundle screen, count the exact items in your reserve, and leave space for rewards. If the next missing item needs a crop to mature or an animal to develop, make that a future task instead of packing unrelated supplies.
+
+## Count a bundle reserve before a bulk sale
+
+Use two separate stacks when one crop serves different requirements. One normal Melon can fill the Summer Crops slot, while the Quality Crops choice needs five qualifying Melons. Owning five gold Melons does not mean you can donate all five to both places.
+
+Before the shipping pass, inspect the live scroll, remove the exact reserve into storage, then sell the remainder. A bundle icon pulsing over an item is a useful prompt, but the quantity and quality in the scroll are the deciding details. If a remixed save disagrees with this page's list, follow that save's actual slots.
 
 **Reference:** [Standard Bundles](https://stardewvalleywiki.com/Bundles), reviewed 25 October 2026. This page gives seasonal crop and Boiler Room checklists; other rooms still require checking the individual live scroll for quantities and options.

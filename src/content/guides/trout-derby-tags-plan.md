@@ -2,8 +2,9 @@
 title: "Trout Derby: Pack Bait, Collect Tags, and Leave Time to Claim"
 description: "Plan Summer 20\u201321 around Rainbow Trout, Golden Tags, and a fishing route that leaves room for farm care."
 pubDate: "2026-10-25"
+updatedDate: 2026-10-26
 category: "Fishing"
-tags: ["fishing", "stardew valley 1.6"]
+tags: ["trout derby tags", "fishing & water", "fishing"]
 ---
 
 Golden Tags are not guaranteed with every Rainbow Trout. Plan the Trout Derby around repeated catches, then claim what you earn; do not arrive expecting a fixed number of fish to buy a particular reward.
@@ -29,3 +30,9 @@ If trout are easy to land with your current setup, focus on getting more bites. 
 A [Bait Maker](/guides/bait-maker-targeted-fishing/) can turn one trout into targeted bait once you have caught it. That uses a saleable fish, so try a small batch rather than sacrificing every catch in advance. Keep track of whether the targeting solves an actual problem in your chosen spot.
 
 Before leaving, visit the booth with free inventory space and collect earned rewards. Save any remaining tags deliberately. For the rest of Summer, compare this short event with your [ordinary fishing goals](/guides/fishing-guide-beginners/) rather than treating the prize ladder as a mandatory two-day assignment.
+
+## Tags are saved items; prizes follow a sequence
+
+After a session, count Golden Tags and decide whether to exchange them now or keep them deliberately. The booth does not let you select any reward from a shop catalogue. Keeping a tag for the next Derby is valid; leaving a desired earned reward unclaimed by accident is a different decision.
+
+For a short next-day visit, pack enough bait and empty slots before leaving the farm. If targeted Trout Bait is already stored, equip the intended stack rather than consuming another catch automatically. First solve whether bites or lost fish are limiting progress, then choose the equipment change.

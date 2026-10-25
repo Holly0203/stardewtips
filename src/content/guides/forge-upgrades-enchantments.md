@@ -2,7 +2,7 @@
 title: "Forge Upgrades vs Enchantments: Budget Your Cinder Shards"
 description: "Separate gem-based weapon upgrades from random enchantments and reserve enough materials before visiting the Forge."
 pubDate: "2026-10-25"
-updatedDate: 2026-10-25
+updatedDate: 2026-10-26
 category: "Mining"
 tags: ["forge", "enchantments", "cinder shards", "weapons"]
 ---
@@ -50,5 +50,11 @@ Keep the selected weapon or tool clear of unrelated inventory items when loading
 If you arrive with twenty shards and one Ruby, a first gem forge costs ten and leaves ten. You cannot also buy a twenty-shard enchantment from that remainder. Either make the predictable change now or keep the materials until another collection trip supports the other operation.
 
 If combat is failing because healing is inaccessible, solve that before spending another gemstone. The [combat guide](/guides/combat-survival-guide/) and [food guide](/guides/cooking-and-food-buffs-guide/) address problems a weapon stat cannot fix.
+
+## Spend one upgrade before committing to the whole set
+
+If one Ruby addresses the weapon's problem, use the first ten-shard forge and try the result on an ordinary trip before buying the other two levels. A full three-gem plan costs forty-five shards whether you needed the later effects or merely had spare gemstones.
+
+Keep the next enchantment budget physically separate when possible. A Prismatic Shard and twenty Cinder Shards reserved together are easy to recognize; spending some of that twenty on another gem level leaves an incomplete enchantment purchase. Recalculate the remainder in the inventory before returning to the interface.
 
 **Review:** 25 October 2026. Covers ordinary gem forging and Prismatic Shard enchantments in unmodded 1.6; innate Dragon Tooth effects and Galaxy Soul upgrades are separate systems. Worked numbers use the listed costs and omit other weapon modifiers.

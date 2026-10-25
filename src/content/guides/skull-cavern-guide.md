@@ -2,7 +2,7 @@
 title: "Skull Cavern: Entry Requirements and Trip Preparation"
 description: "Prepare for Skull Cavern with food, travel plans, and suitable equipment, then adjust later outings around what limits your progress."
 pubDate: 2026-10-21
-updatedDate: 2026-10-25
+updatedDate: 2026-10-26
 category: "Mining"
 tags: ["skull cavern", "iridium", "mining", "endgame"]
 ---
@@ -45,5 +45,11 @@ A lucky day improves the opportunity, not the contents you want. Do not budget a
 The ladder at each floor's starting point exits the cavern. It does not save depth. Keep a return item available if you have one, and allow time to get home if using normal travel.
 
 After a difficult run, check [Marlon's recovery service](/guides/marlon-item-recovery/) before another health collapse replaces the old loss list. Then change the specific weak point: healing quantity, food access, weapon handling, or arrival time. Bringing more of everything is expensive when only one part of the trip failed.
+
+## A Staircase is an exit from the current floor, not the cavern
+
+Using a Staircase spends it to descend one floor. The starting ladder leaves the cavern entirely; a return item changes travel again. Keep these actions in different mental categories when health or time is short.
+
+For a resource run, descending can expose better iridium opportunities but also consumes time and supplies. If the current haul already meets the planned bar batch, decide whether the next descent serves another goal. There is no checkpoint reward for carrying a completed material target deeper merely because Staircases remain in the pack.
 
 **Sources:** [Skull Cavern mechanics and treasure rooms](https://wiki.stardewvalley.net/Skull_Cavern), [Galaxy Sword](https://stardewvalleywiki.com/Galaxy_Sword), and [Desert Festival access](https://stardewvalleywiki.com/Desert_Festival), reviewed 25 October 2026 for unmodded 1.6. Loadout suggestions are editorial recommendations, not tested yield guarantees.

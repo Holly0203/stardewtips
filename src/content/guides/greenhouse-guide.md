@@ -2,7 +2,7 @@
 title: "Greenhouse Guide: Unlocks, Watering, and Crop Choices"
 description: "Unlock the Greenhouse, plan sprinkler coverage, and compare crops that can keep growing through seasonal changes."
 pubDate: 2026-10-21
-updatedDate: 2026-10-25
+updatedDate: 2026-10-26
 category: "Farming"
 tags: ["greenhouse", "crops", "money", "mid-game"]
 ---
@@ -71,5 +71,11 @@ For a first orchard, add one sapling in a valid border position and keep its nei
 ## Before planting the whole plot
 
 Place the sprinklers, inspect their coverage, and leave access to every crop. Start with the seeds available rather than leaving useful tiles empty while waiting for a preferred crop. Check the [fruit tree guide](/guides/fruit-tree-planting-guide/) before fitting saplings around the edge.
+
+## Four inside units do not mean four units total
+
+The right-border units are doing real work even though they do not occupy crop soil. Removing those two from the illustrated plan leaves columns 11 and 12 outside the remaining units' reach. Keep all six when using these coordinates.
+
+If you replace the design with Pressure Nozzles or a retaining-soil setup, calculate the field again from that system's actual range and rules. Do not keep the 116-plant count while silently changing equipment footprints. For a mixed crop room, reserve only the reachable positions when trellises or storage reduce access.
 
 **Reference:** [Greenhouse layout and growth rules](https://stardewvalleywiki.com/Greenhouse), reviewed 25 October 2026. Coverage counts are calculated for six unattached Iridium Sprinklers; tree planting uses its own space requirements.

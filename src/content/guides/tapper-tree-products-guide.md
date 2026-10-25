@@ -2,7 +2,7 @@
 title: "Tapper Guide: Build a Reliable Supply of Resin, Syrup, and Tar"
 description: "Choose trees for your first tappers, budget crafting materials, and organize resin, syrup, and tar around the machines you want to build."
 pubDate: 2026-10-24
-updatedDate: 2026-10-24
+updatedDate: 2026-10-26
 category: "Farming"
 tags: ["tapper", "trees", "oak resin", "crafting"]
 ---
@@ -49,16 +49,16 @@ Use a designated area for woodcutting so a routine clearing session does not rem
 
 For a very small farm, a short accessible row can be easier to maintain than a dense grid.
 
-## What to keep and what to sell
-
-Give stored products a purpose. You might label a reserve mentally as “the next few kegs” or “the next Bee House batch.” Keep enough for that plan, then reconsider what a growing surplus is doing for you.
-
-Selling every collection can leave your next expansion waiting. Keeping every collection forever can leave useful income idle.
-
 ## Troubleshooting the first grove
 
 If the output seems wrong, check the tree type. If it seems slow, compare the correct product's schedule rather than another tree's timer. If the grove is difficult to use, fix access before doubling its size. These checks are cheaper than building replacements on the assumption that more equipment solves every delay.
 
 Tappers cannot be used on fruit trees. For an orchard, read the [fruit tree planting guide](/guides/fruit-tree-planting-guide/) instead.
+
+## Resin for ten Kegs is a separate supply target
+
+Ten Kegs require **ten Oak Resin**, as well as 300 Wood, ten Copper Bars, and ten Iron Bars. If five oaks are tapped and each completes two collected cycles, they provide that ten-Resin component. They do not provide the bars or Wood already consumed elsewhere.
+
+At the ordinary seven-night Resin cycle, allow enough time before the planned expansion and collect completed output. A sixth oak increases eventual quantity; it does not accelerate the first five individual timers. Mark the Resin reserve for this recipe so a sale or another craft does not silently restart the supply gap.
 
 **References:** common-tree mechanics and crafting checked against the [Stardew Valley Wiki Tapper entry](https://wiki.stardewvalley.net/Tapper) on 24 October 2026. Resource totals and layout suggestions are planning examples. This guide covers basic tappers in an unmodded 1.6 game, not every special tree or late-game upgrade.

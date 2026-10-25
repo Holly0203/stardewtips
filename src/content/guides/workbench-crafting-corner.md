@@ -2,8 +2,9 @@
 title: "Workbench Layout: Keep Materials Adjacent and an Aisle Open"
 description: "Build a usable crafting corner, understand adjacent chest access, and diagnose missing ingredients without adding unnecessary storage."
 pubDate: "2026-10-25"
+updatedDate: 2026-10-26
 category: "Getting Started"
-tags: ["getting started", "stardew valley 1.6"]
+tags: ["workbench crafting corner", "farm layout & travel", "getting started"]
 ---
 
 Leave a place to stand beside your Workbench. Surrounding all eight neighboring tiles with chests maximizes theoretical storage while blocking the player from using the bench.
@@ -33,3 +34,15 @@ Quality and item identity can also matter for some crafting requirements. Read t
 If the layout works but storage is full, a [Big Chest upgrade](/guides/big-chest-upgrade-planning/) can add slots without changing the bench's footprint. Buying more capacity is useful only when the contents belong there, so remove obsolete sale stock first.
 
 Check the [crafting priorities guide](/guides/crafting-guide-beginners/) before producing a large batch. Easy ingredient access makes it convenient to overspend shared materials. Reserve bars for the next tool or machine you actually need, then craft against the remaining supply.
+
+## A reachable three-by-three corner
+
+```text
+C C C
+C W C
+. P .
+```
+
+Here **W** is the Workbench, **C** an adjacent Chest, **P** the approach position, and dots open ground. Diagonal chests count; a chest beyond this three-by-three neighborhood does not become reachable through another chest.
+
+This five-chest example leaves the front open rather than surrounding all eight neighbors. Stand on P and try one small craft before moving the rest of the materials. If the recipe is learned and the needed item still appears missing, open the containers and check their actual placement instead of adding another row of storage.

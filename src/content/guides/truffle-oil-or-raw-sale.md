@@ -2,8 +2,9 @@
 title: "Sell Truffles or Make Oil? Check Artisan First"
 description: "Compare raw and processed truffle prices, calculate the margin, and avoid unnecessary Oil Makers."
 pubDate: "2026-10-25"
+updatedDate: 2026-10-26
 category: "Farming"
-tags: ["farming", "stardew valley 1.6"]
+tags: ["truffle oil raw sale", "animals & care", "farming"]
 ---
 
 An iridium Truffle can be worth more than the oil made from it. Before building a row of Oil Makers, check whether the character selling the goods has Artisan and compare the two actual sale prices.
@@ -33,3 +34,9 @@ You may also need oil for a bundle or crafting even when raw sales pay more. Put
 Oil production starts with collecting truffles. Pigs need suitable outdoor conditions, and Winter is not an ordinary production season for them. Uncollected truffles disappear at the season change. An [Auto-Grabber](/guides/auto-grabber-auto-petter-difference/) will not do this outdoor collection for you.
 
 Keep the area around the barn readable and walk it before ending the day. A decorative corner is fine, but make sure you can see and reach items around it. Use the [animal guide](/guides/animals-guide/) when planning expansion, and reserve [Winter feeding supplies](/guides/silo-hay-winter-feeding-guide/) before spending all of the autumn income on more pigs.
+
+## A lower-quality raw stack changes the comparison
+
+A normal Truffle sells for **625g**, while ordinary Truffle Oil sells for **1,065g** before Artisan. For that input, oil adds **440g** before considering the machine and collection schedule. That differs from the iridium-input loss shown earlier.
+
+Sort the actual collected qualities before deciding what to process. If Botanist makes the whole raw stack iridium, use the iridium comparison; if quality varies, the best queue may process some and sell others. Reserve oil needed for crafting or progression before treating the entire output as discretionary sale stock.

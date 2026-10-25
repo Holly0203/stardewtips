@@ -2,8 +2,9 @@
 title: "Carrots, Squash, Broccoli, and Powdermelons: Use Small Seed Finds Well"
 description: "Choose a purpose for the four newer seasonal crops and reserve harvests before converting them into seeds."
 pubDate: "2026-10-25"
+updatedDate: 2026-10-26
 category: "Farming"
-tags: ["farming", "stardew valley 1.6"]
+tags: ["seasonal seed spot crops", "crops & seasons", "farming"]
 ---
 
 Finding a few unusual seeds does not mean you need to redesign the whole field. Give them a small watered patch, check their season, and decide whether the first harvest is food, a sale, or the start of a larger seed supply.
@@ -34,3 +35,16 @@ For a hypothetical six-packet find, plant all six only if the patch fits your av
 Once you have a [Seed Maker](/guides/seed-maker-guide/), separate a small expansion reserve from what you intend to eat or sell. Do not put the entire first harvest into the machine automatically: output varies, and the crop you sacrifice had another use.
 
 Use the [seasonal crop guides](/guides/spring-crop-guide/) to plan the rest of the field. For Winter, compare your new patch with the time you intended to spend on [tools, fishing, and farm improvements](/guides/winter-guide/). A smaller planting may leave room for a more useful upgrade.
+
+## Dig the Seed Spot and check its date window
+
+Use a Hoe on the small green sprouting Seed Spot, rather than assuming it is an ordinary brown Artifact Spot. The [Seed Spot reference](https://wiki.stardewvalley.net/Seed_Spot) gives the following windows for the seeds obtained:
+
+| Date dug | Seeds |
+|---|---|
+| Winter 21–Spring 23 | Carrot |
+| Spring 24–Summer 20 | Summer Squash |
+| Summer 21–Fall 20 | Broccoli |
+| Fall 21–Winter 20 | Powdermelon |
+
+One dig supplies two or three packets. The Backwoods has a guaranteed Seed Spot on the ninth of each season. Keep the Hoe for that specific errand, then store the packets according to their planting season. The late-month window is preparation for the next season, not an exception to crop season rules.

@@ -2,7 +2,7 @@
 title: "Crab Pot Guide: Build a Daily Route You Will Actually Maintain"
 description: "Choose freshwater or ocean crab pots, budget bait, recycle unwanted catches, and decide whether a larger route is worth the travel."
 pubDate: 2026-10-24
-updatedDate: 2026-10-24
+updatedDate: 2026-10-26
 category: "Fishing"
 tags: ["crab pot", "bait", "daily routine"]
 ---
@@ -47,8 +47,6 @@ Trash is a normal possible result, not evidence that the pot is broken. Keep a s
 
 A useful small arrangement is a catch chest near the route's end and recycling at a place you regularly visit. You do not need to carry the entire week's output on every trip. Sort new catches when you return, keeping bundle or recipe reserves separate from the shipping pile.
 
-Our [backpack and storage guide](/guides/backpack-storage-guide/) covers the slot problem that often appears before the pot route itself becomes expensive.
-
 ## Professions change the chore you are accepting
 
 The Trapper branch reduces crafting inputs and leads to two different conveniences: Mariner removes junk from pot catches, while Luremaster removes the bait requirement. Those solve different frustrations.
@@ -57,10 +55,15 @@ Ask which part of the routine you dislike. If refilling is the part you forget, 
 
 Do not choose a whole profession path based on a route you have not yet tried. Run a few pots first and decide whether the activity deserves that much of your fishing strategy.
 
-## Expand only after a complete week of use
+## Choose the water for the missing catch
 
-Track whether you actually collected and refilled the initial group. If you skipped it repeatedly, adding more equipment will usually enlarge the same maintenance problem. Move the route, shorten it, or assign it a specific collection goal instead.
+| Catch you need | Place the pot in | Keep in mind |
+|---|---|---|
+| Lobster, Crab, or Shrimp | Ocean water | A particular catch remains uncertain |
+| Crayfish, Snail, or Periwinkle | Fresh water | These are not ordinary ocean-pot results |
 
-If the route is easy and the output has a purpose, add a modest batch. Check how the extra catches affect inventory space and recycling capacity. The best number is the one that still fits into your day without crowding out activities you prefer.
+Start with a short line where you already pass the water. If the goal is one missing bundle item, label that as a temporary project and reconsider the route when the item arrives. A permanent twelve-pot circuit is a different commitment from three pots used to complete a collection.
+
+Collect and rebait one small group before moving on. This gives every empty-looking pot a clear state instead of relying on memory after an entire shoreline has been harvested.
 
 **References:** standard recipe, buying price, bait requirements, catch locations, and profession effects checked against the [Crab Pot Wiki entry](https://wiki.stardewvalley.net/Crab_Pot) on 24 October 2026. Route sizes and budgeting examples are suggestions for an unmodded 1.6 game; specialized bait has additional effects.

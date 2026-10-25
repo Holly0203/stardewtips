@@ -2,6 +2,7 @@
 title: "Dehydrator Guide: Match Five Items and Clear a Harvest Backlog"
 description: "Use the Dehydrator without mixing qualities, compare its per-item value with jars and kegs, and decide when fast batches are useful."
 pubDate: "2026-10-24"
+updatedDate: 2026-10-26
 category: "Farming"
 tags: ["dehydrator", "dried fruit", "mushrooms"]
 ---
@@ -46,16 +47,14 @@ Imagine you have fifty fruit and only a few spare machines. You are choosing bet
 
 If the harvest is small and your kegs have idle space, there may be less reason to dry it. If you have several chests of berries, faster five-item batches deserve a closer look. Neither situation requires declaring one machine universally better.
 
-## Do not count tomorrow's batches twice
-
-Loading the machine uses five inputs now and delays the sale until collection. Count the actual completed dried stacks when planning a purchase. A backlog of potential batches is not yet spendable money.
-
-Keep a short queue close to the machine. On the next morning, collect the finished product, refill from a matching stack, and move finished goods into the sale reserve. If you forget which leftovers are waiting for a fifth item, reduce the number of different crops stored there.
-
-Our [backpack and storage guide](/guides/backpack-storage-guide/) has a practical way to separate project reserves from processing inputs.
-
 ## Check the item rather than its appearance
 
 The machine accepts suitable fruit and mushrooms, not every edible-looking forage item. Truffles are not treated as mushrooms for this purpose. If loading fails, check item type, count, and quality before crafting another machine.
+
+## A normal Blueberry batch
+
+Five normal Blueberries could sell raw for **250g**. At the 50g base fruit value, the dried batch formula gives **400g**: 7.5 × 50 + 25. The added value is **150g for the whole batch**, before Artisan.
+
+That example uses five matching normal-quality inputs. Five higher-quality berries give the same ordinary dried sale value but surrender a larger raw sale. If your main problem is several chests of berries, the next-morning batch can be useful even though a different machine may earn more per individual berry. Count both the backlog and your free machine slots.
 
 **Reference:** inputs, recipe, next-morning timing, and batch formula checked against the [Wiki Dehydrator page](https://wiki.stardewvalley.net/Dehydrator) on 24 October 2026. The 100g fruit is a hypothetical example without profession bonuses.

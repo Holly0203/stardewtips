@@ -2,7 +2,7 @@
 title: "Combat Survival Guide: Handle the Early Mines Without Rushing"
 description: "Prepare a usable hotbar, separate healing from energy, and practice safer positioning before you push into harder Stardew Valley mine floors."
 pubDate: 2026-10-24
-updatedDate: 2026-10-24
+updatedDate: 2026-10-26
 category: "Mining"
 tags: ["combat", "health", "weapons", "mines"]
 ---
@@ -22,8 +22,6 @@ Put food beside your weapon on the hotbar before entering the mines. When health
 Arrange the weapon, pickaxe, and food so you can select them without searching through rows. Use controls that feel reliable on your platform, then test the sequence somewhere safe.
 
 Do not let auto-sorting turn the hotbar into an arrangement you do not recognize. Consistent placement matters more than an inventory that looks tidy. If you switch tools and eat from the same familiar positions each trip, the routine remains available when a fight becomes hurried.
-
-Use our [backpack guide](/guides/backpack-storage-guide/) to reduce unnecessary items. An extra stack of supplies is not useful if it hides the food you actually need to reach.
 
 ## Food has to address the right meter
 
@@ -64,5 +62,15 @@ After returning, ask what failed first. Was the weapon difficult to control? Did
 Fix that failure before buying unrelated equipment. A stronger weapon may help damage, but it will not rearrange a confusing hotbar. More food may help endurance, but it will not correct a habit of waiting too long to heal.
 
 Once ordinary mine trips feel controlled, read our [Skull Cavern guide](/guides/skull-cavern-guide/) for the different preparation that a more demanding area requires. Do not assume success on familiar floors removes the need to prepare for a new environment.
+
+## Practice a specific encounter
+
+| Enemy | A useful practice action | Why it helps |
+|---|---|---|
+| Slime | Leave room to step aside before its approach | Avoids backing into another obstacle |
+| Bat | Stop mining and turn toward the approach | Keeps the pickaxe from being the accidental response |
+| Skeleton | Interrupt a bone throw with a hit when safely in reach | Reduces time exposed to a ranged attack |
+
+Skeleton practice belongs to ordinary floors 71–79. Do not travel there merely to test a weak loadout: progress on comfortable floors first. On a practice trip, return after a small set of encounters and review whether positioning or food access failed. A larger depth target would make that diagnosis harder.
 
 **References:** Combat progression and profession effects checked against the [Combat Wiki entry](https://wiki.stardewvalley.net/Combat) on 24 October 2026. Positioning, loadout, and retreat suggestions are our beginner recommendations for unmodded 1.6, not guarantees of survival.

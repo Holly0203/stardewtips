@@ -2,6 +2,7 @@
 title: "Lost Items After a Mine Collapse: What Marlon Can Recover"
 description: "Choose one lost item or stack, understand the recovery deadline, and prepare a safer next trip without assuming every loss can be reversed."
 pubDate: "2026-10-24"
+updatedDate: 2026-10-26
 category: "Mining"
 tags: ["marlon", "item recovery", "lost items"]
 ---
@@ -32,8 +33,6 @@ Ask what each loss prevents. A resource stack might be gathered during ordinary 
 
 Choose from those consequences, then compare the fee with buying or gathering a replacement. This is a case where a very low shipping price can conceal substantial practical value.
 
-Our [storage guide](/guides/backpack-storage-guide/) helps avoid carrying a whole long-term reserve into the next trip. If the item had no role in the outing, leaving it at home would have removed that particular risk.
-
 ## Do not overwrite an unresolved choice
 
 You can leave the selection undecided until another qualifying loss replaces it. That is useful if you need time to find the recovery money, but it is not a reason to immediately repeat the same difficult encounter.
@@ -55,5 +54,11 @@ For a mine outing, a small [checkpoint goal](/guides/mining-guide-beginners/) ca
 Take the equipment and recovery stack needed for that destination, leaving gifts, bundle reserves, building materials, and unrelated purchases in storage. Do not make yourself choose between valuable long-term items again simply because they never got unpacked.
 
 A recoverable loss can still be frustrating. The useful next step is a specific change to food access, equipment, or the trip goal, not a promise to play perfectly from now on.
+
+## Make the Guild visit before the next dangerous trip
+
+The Adventurer's Guild normally opens **2pm–10pm**. Check recovery while the previous loss list is still available, read every entry, and choose the item or stack whose absence blocks your next plan. The [Guild entry](https://wiki.stardewvalley.net/Adventurer%27s_Guild) lists access and service details.
+
+After payment, wait for the mailed recovery before packing a trip that requires it. If the list is still undecided, use farm work or a safer outing rather than immediately repeating the encounter that caused the loss. Another qualifying health collapse can replace the list you intended to use.
 
 **References:** eligibility, one-entry limit, list replacement, and fee basis checked against Marlon and the linked Guild service entry on 24 October 2026. Individual book discounts or special item-return rules should be checked separately.

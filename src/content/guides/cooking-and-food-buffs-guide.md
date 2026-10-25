@@ -2,7 +2,7 @@
 title: "Cooking Guide: Learn Recipes and Use Food Buffs Without Replacing Them"
 description: "Unlock a kitchen, organize ingredients, and understand why healing food, buff meals, and drinks belong in different parts of your trip plan."
 pubDate: 2026-10-24
-updatedDate: 2026-10-25
+updatedDate: 2026-10-26
 category: "Getting Started"
 tags: ["cooking", "food", "buffs", "kitchen"]
 ---
@@ -40,8 +40,6 @@ Other recipes come from different progression and relationship sources. Choose a
 Ingredients in your inventory and cooking storage can be used by the interface. A crop or fish saved for a bundle should not sit in a general ingredient pool if a recipe could consume it.
 
 Separate the non-negotiable reserve before cooking. This matters especially for recipes that accept a broad ingredient category rather than one exact item. Inspect what you are making and keep rare ingredients out of reach when an ordinary substitute will do.
-
-Our [backpack and storage guide](/guides/backpack-storage-guide/) explains how to label temporary reserves. The refrigerator should contain things you are willing to cook, not every valuable edible item you own.
 
 ## Separate healing from the buff you want to preserve
 
@@ -85,5 +83,11 @@ Start with a few portions, use them on ordinary outings, then decide whether a l
 Do not assume cooking every ingredient improves its sale value. Choose dishes for their purpose, and compare any selling plan with the ingredients you are giving up. The kitchen is not automatically a replacement for your farm's existing processing strategy.
 
 If your current problem is simply running out of stamina, our [energy guide](/guides/energy-management-tips/) can help reduce waste before you commit more resources to food production.
+
+## Keep the ingredient fish out of generic recipes
+
+Two Sardines reserved for Dish O' The Sea can also be eligible for a recipe that accepts any fish. Move those reserved copies outside the inventory and fridge supplies used for other cooking. Do the same for a valuable catch you intend to display or donate elsewhere.
+
+Prepare the buff meal first, inspect the result, then cook the general recovery food. This order makes a missing specific ingredient visible before a batch of generic recipes consumes the available substitutes. When packing, keep the buff meal and the recovery stack in different slots so an emergency selection does not replace the effect you planned to preserve.
 
 **References:** kitchen cost checked against the Farmhouse page; ingredient access and buff rules against Cooking; television schedule against Queen of Sauce. References reviewed on 25 October 2026. Loadout and storage advice is our recommendation for unmodded 1.6, without assuming late-game seasoning or every recipe is unlocked.

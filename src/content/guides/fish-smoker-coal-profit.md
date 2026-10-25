@@ -2,6 +2,7 @@
 title: "Fish Smoker: Is the Extra Sale Value Worth Your Coal?"
 description: "Calculate the value added by smoking fish, account for coal and recipe costs, and choose which catches to process first."
 pubDate: "2026-10-24"
+updatedDate: 2026-10-26
 category: "Fishing"
 tags: ["fish smoker", "coal", "processing"]
 ---
@@ -57,5 +58,11 @@ A small chest beside the smoker is enough for a chosen queue. Avoid moving every
 Check that a suitable fish and coal are both available. If the inputs are ready but you keep forgetting collections, move the machine onto a route you use. A fifty-minute cycle does not require standing beside it, but it does require noticing when a batch finishes.
 
 If fuel repeatedly runs out, compare the smoker with your [furnace budget](/guides/furnace-and-coal-planning/). Adding another smoker will not fix the same missing coal supply.
+
+## Use the coal price for the actual year
+
+Clint's Coal costs **150g in Year 1 and 250g from Year 2**. At a 200g raw fish value without professions, smoking adds 200g before fuel: a purchased Year 1 coal leaves 50g, while Year 2 coal gives a 50g loss. The same fish is not equally attractive under both purchase assumptions.
+
+Gathered coal has no immediate shop payment, but still competes with bars and crafting. Use the [Blacksmith prices](https://wiki.stardewvalley.net/Blacksmith) if buying, and record which fuel assumption your queue uses. A smoker that is already owned does not make every future fuel purchase worthwhile.
 
 **Reference:** recipe, inputs, timing, and quality retention checked against the linked Wiki entry on 24 October 2026. All break-even figures above are worked examples without professions; substitute your own fuel and sale values.

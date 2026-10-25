@@ -2,8 +2,9 @@
 title: "Auto-Grabber or Auto-Petter? Buy for the Chore You Have"
 description: "Compare animal collection and petting machines, their limits, and which upgrade saves useful time first."
 pubDate: "2026-10-25"
+updatedDate: 2026-10-26
 category: "Farming"
-tags: ["farming", "stardew valley 1.6"]
+tags: ["auto grabber auto petter difference", "animals & care", "farming"]
 ---
 
 If eggs are scattered across the coop, an Auto-Petter will not collect them. If your animals are being neglected, an Auto-Grabber will not improve their care. The names sound like a matched automation set, but each machine replaces a different action.
@@ -34,3 +35,9 @@ Manual petting can still add friendship alongside the Auto-Petter. You can use i
 Truffles appear outdoors and are not gathered by the Auto-Grabber. Leave a walkable collection area and check it yourself. If pigs are your main source of income, buying collectors for every barn may save less time than you expect.
 
 Use the [animal guide](/guides/animals-guide/) to compare the whole building's workload. After collection is under control, check [cheese and mayonnaise processing](/guides/cheese-mayonnaise-quality-rules/) before spending more on machines that do not address the remaining bottleneck.
+
+## One collector does not cover two buildings
+
+A collector works inside the building where it stands. If a Coop and a Barn both need collection, budget two Auto-Grabbers: **50,000g** at Marnie's listed price. Moving one between buildings is another daily job, not a permanent farm-wide installation.
+
+For a Community Center save, the Auto-Petter cannot simply be bought from Marnie. Skull Cavern treasure and other random reward sources are opportunities rather than an assured next purchase. Keep manual petting available while searching. Once a machine is installed, enter that building on the next morning and verify products, feeding, and affection as three separate checks.

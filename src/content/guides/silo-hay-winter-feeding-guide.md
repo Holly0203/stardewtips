@@ -2,7 +2,7 @@
 title: "Silo and Hay Guide: Plan Animal Feed Before Winter"
 description: "Build your first silo, understand hay hoppers and autofeeders, and calculate a safe Winter feed budget for your Stardew Valley animals."
 pubDate: 2026-10-24
-updatedDate: 2026-10-24
+updatedDate: 2026-10-26
 category: "Farming"
 tags: ["silo", "hay", "animals", "winter", "beginner"]
 ---
@@ -84,5 +84,11 @@ If you have feed in a chest, move it into the shared supply and check the bench.
 Count current and expected animals, set a reserve target, inspect storage capacity, and confirm which buildings require manual feeding. Then keep a little spending money available for corrections. You do not need a perfect farm design to maintain a dependable food supply.
 
 For choosing livestock and understanding their products, continue with our [animals guide](/guides/animals-guide/). For a manageable first-year spending plan, read our [Year 1 income guide](/guides/make-money-year-one/).
+
+## Two numbers to check on Winter 1
+
+Count total stored Hay, then count the animals actually housed. Twelve animals against one full 240-Hay silo leave **96 Hay short** of the conservative 336-Hay target. At Marnie's 50g price, buying that gap costs **4,800g**.
+
+If another 96 Hay is already in a chest, the shortage is in active storage rather than total owned feed. Transfer it as silo capacity becomes available and check manual benches each day. A Deluxe autofeeder will not draw directly from the chest. The calculation deliberately leaves margin rather than trying to exploit every festival exception.
 
 **References:** linked Wiki references checked on 24 October 2026. The reserve table is our conservative calculation; it does not attempt to minimize feed using festival exceptions. Building rules and Winter grass behavior assume an unmodded 1.6 game.

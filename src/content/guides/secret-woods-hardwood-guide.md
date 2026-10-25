@@ -2,7 +2,7 @@
 title: "Secret Woods Guide: Unlock Hardwood and Make Each Visit Count"
 description: "Reach the Secret Woods with a Steel Axe, find its daily stumps, and combine hardwood collection with a practical forest route."
 pubDate: 2026-10-24
-updatedDate: 2026-10-24
+updatedDate: 2026-10-26
 category: "Mining"
 tags: ["secret woods", "hardwood", "steel axe", "foraging"]
 ---
@@ -49,8 +49,6 @@ A daily resource does not create a daily obligation. Estimate how much hardwood 
 
 If you already plan to cross the forest, the extra stop may be efficient. If the day is crowded and the hardwood reserve is sufficient, skipping a collection is a reasonable trade. Your farm does not lose long-term potential merely because you chose a different activity that day.
 
-Our [farm layout guide](/guides/farm-layout-tips/) helps reduce repeated travel at home, leaving more of the day for an optional forest loop.
-
 ## Check seasonal forage without expecting a fixed haul
 
 The Woods has seasonal forage possibilities as well as stumps. Summer, for example, can provide Fiddlehead Ferns. Those finds are additional opportunities, not something to budget as a guaranteed number on every visit.
@@ -66,5 +64,11 @@ Old Master Cannoli accepts a **Sweet Gem Berry** and grants a **Stardrop** once.
 If you want that reward, label the berry as a reserve before the harvest joins your sale pile. Do not arrive carrying a different sweet-looking fruit and assume the description is a general category of accepted gifts.
 
 There is no need to delay learning the route until the berry is ready. Work the forest into your routine first, then return for the optional exchange when you have the correct item.
+
+## Find the covered lower paths
+
+After entering, locate the upper stumps, then look slightly southeast of the upper group for a covered passage running south. Another approach is south of the entrance, a few tiles right of the bush; that route bends south, west, then south again. Both lead to the lower pair of stumps.
+
+The [Secret Woods layout description](https://wiki.stardewvalley.net/Secret_Woods) distinguishes the two passages. Walk the route on the first visit before optimizing it into a daily loop. Four upper stumps alone give only eight Hardwood; including the lower two reaches the full twelve. Take a weapon because learning the concealed path can still happen near Slimes.
 
 **References:** entrance, stumps, seasonal example, and statue reward checked against the [Secret Woods Wiki entry](https://wiki.stardewvalley.net/Secret_Woods) on 24 October 2026. Route totals and scheduling are our suggestions for unmodded 1.6, without relying on access exploits.

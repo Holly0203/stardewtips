@@ -1,27 +1,13 @@
 ---
 import type { CollectionEntry } from 'astro:content';
-import { categoryMeta } from '../utils/categories';
-
-interface Props {
-  guide: CollectionEntry<'guides'>;
-  headingLevel?: 'h2' | 'h3';
-}
-
-const { guide, headingLevel = 'h3' } = Astro.props;
-const cat = categoryMeta(guide.data.category);
-const dateStr = guide.data.pubDate.toLocaleDateString('en-US', {
-  year: 'numeric',
-  month: 'short',
-  day: 'numeric',
-});
-const Tag = headingLevel;
+import {categoryMeta} from '../utils/categories';
+import index from '../data/guideIndex.json';
+import {readingTime} from '../utils/readingTime';
+interface Props {guide: CollectionEntry<'guides'>; headingLevel?:'h2'|'h3';}
+const {guide,headingLevel='h3'}=Astro.props;
+const cat=categoryMeta(guide.data.category);const Tag=headingLevel;
+const entry=index[guide.id as keyof typeof index];const minutes=await readingTime(guide);
 ---
-
-<a class={`post-card cat-${cat.slug}`} href={`/guides/${guide.id}/`}>
-  <Tag>{guide.data.title}</Tag>
-  <p class="desc">{guide.data.description}</p>
-  <div class="meta">
-    <span class="cat-chip">{cat.name}</span>
-    <span>{dateStr}</span>
-  </div>
+<a class="post-card" href={`/guides/${guide.id}/`} data-title={guide.data.title} data-category={cat.slug} data-topic={entry.topic} data-stage={entry.stage} data-search={`${guide.data.title} ${guide.data.description} ${guide.data.tags.join(' ')} ${entry.topic} ${guide.id}`.toLowerCase()}>
+<div class="card-kicker"><span>{entry.topic}</span><span>{minutes} min</span></div><Tag>{guide.data.title}</Tag><p>{guide.data.description}</p><div class="card-bottom"><span>{entry.stage}</span><span aria-hidden="true">Read guide ↗</span></div>
 </a>

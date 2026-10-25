@@ -2,7 +2,7 @@
 title: "Recycling Machine Guide: Turn Fishing Trash into Useful Supplies"
 description: "Sort recyclable catches, prioritize refined quartz, and build a recycling routine that supports crafting without taking over your day."
 pubDate: 2026-10-24
-updatedDate: 2026-10-24
+updatedDate: 2026-10-26
 category: "Fishing"
 tags: ["recycling", "refined quartz", "crafting"]
 ---
@@ -64,12 +64,10 @@ For example, if a project needs four Refined Quartz and you have four Broken CDs
 
 After the reserve is complete, decide whether to continue, store a small surplus, or stop collecting a particular input.
 
-Our [storage guide](/guides/backpack-storage-guide/) explains a useful separation: project materials, ordinary processing inputs, and items you plan to sell should not all occupy the same mental category.
+## Run the predictable quartz batch first
 
-## When to move on
+Suppose the next equipment group needs three Refined Quartz. Three Broken CDs or Broken Glasses provide that component with three one-hour operations in an ordinary Recycling Machine. Mixed newspapers do not provide the same certainty.
 
-Recycling is doing its job when it supplies useful materials with little additional travel. It does not need to become your farm's central activity. Once the immediate crafting shortage is solved, return to the work you wanted the materials for.
-
-For a broader recipe-priority plan, continue with our [crafting guide](/guides/crafting-guide-beginners/).
+Load the first before nearby chores and collect on a return pass. If the output will not be needed until tomorrow, one machine and a few visits may be enough. If the deadline is immediate and all inputs are ready, several existing machines can run in parallel. Adding capacity before having three accepted inputs would not finish the batch sooner.
 
 **References:** recipe, timing, accepted items, and outputs checked against the [Recycling Machine Wiki entry](https://wiki.stardewvalley.net/Recycling_Machine) on 24 October 2026. Storage and capacity recommendations are our own for an unmodded 1.6 farm.

@@ -2,8 +2,9 @@
 title: "Big Chests: Upgrade Crowded Storage Without Making More Clutter"
 description: "Compare capacity and material costs, replace existing chests safely, and choose which storage area benefits first."
 pubDate: "2026-10-25"
+updatedDate: 2026-10-26
 category: "Getting Started"
-tags: ["getting started", "stardew valley 1.6"]
+tags: ["big chest upgrade", "farm layout & travel", "getting started"]
 ---
 
 Upgrade the chest that is difficult to sort before upgrading every chest on the farm. A Big Chest helps when many distinct items crowd one location; it does less for a chest holding only a few large stacks.
@@ -29,3 +30,9 @@ Choose a quiet point in the day. Apply the Big Chest to the existing storage, co
 Color the new chest to match its purpose. More slots should not remove the distinction between things you mean to sell and things you mean to keep. Put a small sale chest elsewhere if accidental shipping has become a problem.
 
 A [Workbench](/guides/workbench-crafting-corner/) can draw from adjacent Big Chests, so storage expansion can preserve an existing crafting layout. Use the [backpack and storage guide](/guides/backpack-storage-guide/) for the wider sorting system and [crafting guide](/guides/crafting-guide-beginners/) to decide which ingredients deserve permanent space. Empty slots are useful working room; they do not need to be filled with items you have no reason to retain.
+
+## Pick the chest with the most occupied slots
+
+Count slots, not total item quantity. A chest with one large Wood stack and one large Stone stack is using two slots; a crop chest split across species and qualities may be nearly full with far fewer total items.
+
+Upgrade the busy ingredient chest beside a Workbench before replacing every small processing box. After the replacement, open both the storage and the bench crafting interface. If the materials appear in the chest but not at the bench, check adjacency rather than assuming the larger capacity changed the reach. Capacity and crafting access are independent properties.

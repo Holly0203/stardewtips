@@ -2,7 +2,7 @@
 title: "Crafting for Beginners: Storage, Smelting, and First Machines"
 description: "Choose early crafting projects in Stardew Valley, compare machine materials, and avoid using resources before you have a job for the equipment."
 pubDate: 2026-10-23
-updatedDate: 2026-10-25
+updatedDate: 2026-10-26
 category: "Getting Started"
 tags: ["crafting", "beginner", "guide"]
 ---
@@ -75,8 +75,10 @@ Every mid-tier recipe eventually asks for **bars**, so the pipeline matters: min
 - **Ignoring the Charcoal Kiln.** In 1.6 it unlocks at Foraging 2 — one kiln turns your wood surplus into the coal that every machine wants.
 - **Crafting without checking coverage.** More sprinklers only help if they water planted tiles; more scarecrows only help if some crops are outside the existing protected area.
 
-## What to build after the basics
+## Fund one complete batch instead of half of two
 
-Once storage and smelting are covered, choose the machine for the job you already have: [sprinklers](/guides/sprinkler-guide/) for a field that takes too long to water, a [tapper](/guides/tapper-tree-products-guide/) for planned keg materials, or a [jar](/guides/keg-vs-preserves-jar/) for crops waiting in storage.
+Two Quality Sprinklers need two Iron Bars, two Gold Bars, and two Refined Quartz. Confirm all six finished components before committing the bars to another optional machine. The ore in storage is still waiting on fuel and Furnace time.
+
+Use the recipe menu as the final input check: the unlocked recipe and its full materials must both be available. A bundle reward may supply a finished machine while its recipe remains locked. If a craft is missing from the menu, inspect the unlock source; if it is visible but unavailable, inspect ingredients and the material storage within reach.
 
 **Recipe references:** [Bait](https://wiki.stardewvalley.net/Bait), [Crafting](https://wiki.stardewvalley.net/Crafting), [Charcoal Kiln](https://wiki.stardewvalley.net/Charcoal_Kiln), [Tapper](https://wiki.stardewvalley.net/Tapper), [Keg](https://wiki.stardewvalley.net/Keg), and [Battery Pack sources](https://wiki.stardewvalley.net/Battery_Pack), checked 25 October 2026. Materials above are for unmodded 1.6; ore smelting also consumes fuel.

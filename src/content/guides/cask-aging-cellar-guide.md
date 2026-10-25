@@ -2,6 +2,7 @@
 title: "Cask Aging: What Belongs in the Cellar and What Should Be Sold?"
 description: "Separate making wine from aging it, compare the value added by a cellar slot, and keep saleable goods moving while a batch matures."
 pubDate: "2026-10-24"
+updatedDate: 2026-10-26
 category: "Farming"
 tags: ["cask", "cellar", "wine", "aging"]
 ---
@@ -47,8 +48,6 @@ An accessible layout gives fewer casks than a room packed wall to wall, but redu
 
 Try the supplied room before crafting a large additional batch. Walk to each cask, load it, and check whether your platform's interaction controls reach the corners you planned to use.
 
-Our [storage guide](/guides/backpack-storage-guide/) can help prepare enough backpack space for a cellar collection. Arriving with a nearly full bag turns a quiet periodic job into several unnecessary trips.
-
 ## Can you take a product out early?
 
 Yes. A tool can remove a product before maximum quality, as described in the reference. The star on the cask indicates its current stage. Check that stage before acting so a planned gold collection does not become an early normal-quality retrieval.
@@ -58,5 +57,15 @@ Early collection can be reasonable when cash is needed or you want the slot for 
 ## When the cellar can wait
 
 If seed money is tight or your [Greenhouse](/guides/greenhouse-guide/) and kegs are still being supplied, finish those working systems first. The cellar improves the value of a limited subset of finished goods; it is not the first step in creating a dependable crop-processing routine.
+
+## Compare actual products per cellar slot
+
+| Starting product | Base sale now | Iridium sale | Additional wait | Added value per slot-day |
+|---|---:|---:|---:|---:|
+| Starfruit Wine, normal | 2,250g | 4,500g | 56 days | About 40.2g |
+| Ancient Fruit Wine, normal | 1,650g | 3,300g | 56 days | About 29.5g |
+| Cheese, gold | 345g | 460g | 7 days | About 16.4g |
+
+The [Cask timing table](https://wiki.stardewvalley.net/Cask) supplies the aging periods. Figures exclude Artisan, loading delays, and the cellar purchase. Gold Cheese starts partway through its quality ladder; using the normal-wine wait for it would produce the wrong comparison. Keep saleable excess outside the cellar queue.
 
 **Reference:** accepted products, cellar restriction, and aging stages checked against the linked Cask entry on 24 October 2026. The 1,000g bottle and cask-day calculation are examples without additional modifiers.

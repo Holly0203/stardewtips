@@ -2,6 +2,7 @@
 title: "Rain Totems: Plan Tomorrow’s Weather Without Assuming a Storm"
 description: "Use Rain Totems for a specific fishing or watering day, check region and calendar exceptions, and avoid outdated battery-farming advice."
 pubDate: "2026-10-24"
+updatedDate: 2026-10-26
 category: "Farming"
 tags: ["rain totem", "weather", "fishing"]
 ---
@@ -55,5 +56,15 @@ This distinction is useful beyond the totem: a recipe might depend on weather, a
 Read tomorrow's forecast before consuming a totem when the forecast is available. If it already meets the goal, keep the item. Then check the calendar once more and place the remaining ingredients back in storage rather than carrying them through the outing.
 
 For ordinary farm care, [sprinklers](/guides/sprinkler-guide/) can remove repeated watering work without consuming a weather item every time. The totem is most useful when the particular day matters.
+
+## A three-day watering-can hand-in
+
+| Day | Action | What covers outdoor watering |
+|---|---|---|
+| Today | Water first, use the totem if needed, hand the can to Clint | The can before hand-in |
+| Tomorrow | Do another activity | Valid mainland rain |
+| Following day | Collect the finished can, then water | The returned can |
+
+Check shop access on the collection day before committing. A Greenhouse or indoor pots are not watered by mainland rain, so make another arrangement for those plants. A natural rainy forecast can support the same hand-in without spending a totem. This schedule solves one interrupted tool day, not every future watering chore.
 
 **Reference:** recipe, region behavior, calendar restrictions, and the storm-chain fix checked against the linked Rain Totem page on 24 October 2026. Assumes unmodded 1.6; a successful weather change is not a catch or battery guarantee.

@@ -2,7 +2,7 @@
 title: "Mushrooms or Fruit Bats? Choose a Farm Cave for Your Goals"
 description: "Compare the farm cave options by collection habits, bundle needs, and the role you want the cave to play in your first Stardew Valley years."
 pubDate: 2026-10-24
-updatedDate: 2026-10-24
+updatedDate: 2026-10-26
 category: "Getting Started"
 tags: ["farm cave", "mushrooms", "fruit bats", "demetrius"]
 ---
@@ -65,6 +65,16 @@ If you repeatedly forget to visit, tie the cave check to another farm task. An e
 
 Choosing one option does not remove the rest of the game's ways to obtain fruit or mushrooms. A missing item may call for another source rather than regret about a decision made seasons earlier.
 
- Our [first-year income guide](/guides/make-money-year-one/) can help keep the broader progression in view when a single choice starts to feel more important than it is.
+Our [first-year income guide](/guides/make-money-year-one/) can help keep the broader progression in view when a single choice starts to feel more important than it is.
+
+## A compact choice check
+
+| Your current gap | Cave option to consider | What it cannot guarantee |
+|---|---|---|
+| Several missing fruit types and no orchard | Fruit bats | A particular fruit before a deadline |
+| A mushroom ingredient routine and matching batches | Mushroom boxes | A chosen mushroom variety every collection |
+| Infrequent visits | Compare actual collection habits | Maximum theoretical output while neglected |
+
+Before choosing, look at the next incomplete bundle and the ingredients you actually use. If neither option fills an urgent gap, choose the collection pattern you prefer. Extra potential output is useful only after you collect and allocate it.
 
 **References:** unlock, permanence, fruit behavior, and option descriptions checked against the [Farm Cave Wiki entry](https://wiki.stardewvalley.net/The_Cave) on 24 October 2026. The two-save comparison is hypothetical decision advice for unmodded 1.6, not a claim of personal testing or guaranteed output.

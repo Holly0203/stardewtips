@@ -1,0 +1,583 @@
+[
+  {
+    "id": "animals-guide",
+    "topic": "Animals & care",
+    "section": "A four-chicken starter budget",
+    "beforeWords": 697,
+    "afterWords": 663
+  },
+  {
+    "id": "auto-grabber-auto-petter-difference",
+    "topic": "Animals & care",
+    "section": "One collector does not cover two buildings",
+    "beforeWords": 428,
+    "afterWords": 536
+  },
+  {
+    "id": "backpack-storage-guide",
+    "topic": "First steps",
+    "section": "A twelve-slot fishing pack",
+    "beforeWords": 823,
+    "afterWords": 815
+  },
+  {
+    "id": "bait-and-tackle-guide",
+    "topic": "Fishing & water",
+    "section": "Three setups to try one at a time",
+    "beforeWords": 831,
+    "afterWords": 831
+  },
+  {
+    "id": "bait-maker-targeted-fishing",
+    "topic": "Fishing & water",
+    "section": "Use the first event fish as a small trial",
+    "beforeWords": 405,
+    "afterWords": 512
+  },
+  {
+    "id": "bee-house-flower-honey-guide",
+    "topic": "Machines & materials",
+    "section": "A short seasonal flower list",
+    "beforeWords": 839,
+    "afterWords": 871
+  },
+  {
+    "id": "best-gifts-villagers",
+    "topic": "Friends & festivals",
+    "section": "Pack for one birthday, then finish the errand",
+    "beforeWords": 606,
+    "afterWords": 715
+  },
+  {
+    "id": "big-chest-upgrade-planning",
+    "topic": "Farm layout & travel",
+    "section": "Pick the chest with the most occupied slots",
+    "beforeWords": 417,
+    "afterWords": 520
+  },
+  {
+    "id": "calico-desert-bus-errands",
+    "topic": "Farm layout & travel",
+    "section": "A compact trade packing list",
+    "beforeWords": 414,
+    "afterWords": 520
+  },
+  {
+    "id": "cask-aging-cellar-guide",
+    "topic": "Machines & materials",
+    "section": "Compare actual products per cellar slot",
+    "beforeWords": 700,
+    "afterWords": 771
+  },
+  {
+    "id": "cheese-mayonnaise-quality-rules",
+    "topic": "Animals & care",
+    "section": "A four-machine loading round",
+    "beforeWords": 420,
+    "afterWords": 516
+  },
+  {
+    "id": "combat-survival-guide",
+    "topic": "Mines & combat",
+    "section": "Practice a specific encounter",
+    "beforeWords": 846,
+    "afterWords": 928
+  },
+  {
+    "id": "community-center-guide",
+    "topic": "Collections & unlocks",
+    "section": "Count a bundle reserve before a bulk sale",
+    "beforeWords": 928,
+    "afterWords": 1036
+  },
+  {
+    "id": "cooking-and-food-buffs-guide",
+    "topic": "First steps",
+    "section": "Keep the ingredient fish out of generic recipes",
+    "beforeWords": 1173,
+    "afterWords": 1254
+  },
+  {
+    "id": "crab-pot-route-guide",
+    "topic": "Fishing & water",
+    "section": "Choose the water for the missing catch",
+    "beforeWords": 842,
+    "afterWords": 850
+  },
+  {
+    "id": "crafting-guide-beginners",
+    "topic": "First steps",
+    "section": "Fund one complete batch instead of half of two",
+    "beforeWords": 1129,
+    "afterWords": 1178
+  },
+  {
+    "id": "crystalarium-jade-or-diamond",
+    "topic": "Mines & combat",
+    "section": "Work backward from Sunday",
+    "beforeWords": 728,
+    "afterWords": 838
+  },
+  {
+    "id": "dehydrator-five-item-batches",
+    "topic": "Machines & materials",
+    "section": "A normal Blueberry batch",
+    "beforeWords": 720,
+    "afterWords": 712
+  },
+  {
+    "id": "desert-festival-first-plan",
+    "topic": "Friends & festivals",
+    "section": "Separate earning from the final shopping pass",
+    "beforeWords": 675,
+    "afterWords": 790
+  },
+  {
+    "id": "dwarf-scrolls-translation-guide",
+    "topic": "Mines & combat",
+    "section": "If only Scroll IV is missing",
+    "beforeWords": 660,
+    "afterWords": 764
+  },
+  {
+    "id": "egg-festival-strawberry-plan",
+    "topic": "Crops & seasons",
+    "section": "A twenty-plant cash comparison",
+    "beforeWords": 821,
+    "afterWords": 888
+  },
+  {
+    "id": "energy-management-tips",
+    "topic": "First steps",
+    "section": "Compare portable food with a trip to the spa",
+    "beforeWords": 703,
+    "afterWords": 799
+  },
+  {
+    "id": "fall-crop-guide",
+    "topic": "Crops & seasons",
+    "section": "What a later Cranberry planting changes",
+    "beforeWords": 713,
+    "afterWords": 798
+  },
+  {
+    "id": "farm-cave-mushrooms-or-bats-guide",
+    "topic": "Animals & care",
+    "section": "A compact choice check",
+    "beforeWords": 876,
+    "afterWords": 971
+  },
+  {
+    "id": "farm-layout-tips",
+    "topic": "Farm layout & travel",
+    "section": "Test access using the crop you will grow",
+    "beforeWords": 715,
+    "afterWords": 819
+  },
+  {
+    "id": "fertilizer-quality-or-speed",
+    "topic": "Crops & seasons",
+    "section": "Compare speed on a real repeat crop",
+    "beforeWords": 747,
+    "afterWords": 862
+  },
+  {
+    "id": "first-week-guide",
+    "topic": "First steps",
+    "section": "What to carry on the first mine visit",
+    "beforeWords": 1170,
+    "afterWords": 1269
+  },
+  {
+    "id": "fish-pond-first-pond-guide",
+    "topic": "Fishing & water",
+    "section": "Reserve request materials outside the processing queue",
+    "beforeWords": 708,
+    "afterWords": 814
+  },
+  {
+    "id": "fish-smoker-coal-profit",
+    "topic": "Fishing & water",
+    "section": "Use the coal price for the actual year",
+    "beforeWords": 712,
+    "afterWords": 819
+  },
+  {
+    "id": "fishing-guide-beginners",
+    "topic": "Fishing & water",
+    "section": "Two practice targets with simple locations",
+    "beforeWords": 683,
+    "afterWords": 769
+  },
+  {
+    "id": "fishing-professions-guide",
+    "topic": "Fishing & water",
+    "section": "Compare convenience over a week you actually play",
+    "beforeWords": 1055,
+    "afterWords": 1133
+  },
+  {
+    "id": "flower-dance-partner-planning",
+    "topic": "Friends & festivals",
+    "section": "Check progress before the final festival week",
+    "beforeWords": 406,
+    "afterWords": 505
+  },
+  {
+    "id": "forge-upgrades-enchantments",
+    "topic": "Ginger Island",
+    "section": "Spend one upgrade before committing to the whole set",
+    "beforeWords": 605,
+    "afterWords": 709
+  },
+  {
+    "id": "friendship-guide",
+    "topic": "Friends & festivals",
+    "section": "Check the weekly gift boxes",
+    "beforeWords": 603,
+    "afterWords": 627
+  },
+  {
+    "id": "fruit-tree-planting-guide",
+    "topic": "Crops & seasons",
+    "section": "A first fruit season starts before the season itself",
+    "beforeWords": 865,
+    "afterWords": 979
+  },
+  {
+    "id": "furnace-and-coal-planning",
+    "topic": "Mines & combat",
+    "section": "Protect the fuel for a five-bar upgrade",
+    "beforeWords": 723,
+    "afterWords": 747
+  },
+  {
+    "id": "garden-pot-indoor-growing",
+    "topic": "Crops & seasons",
+    "section": "The retaining-soil recipe is an island unlock",
+    "beforeWords": 410,
+    "afterWords": 522
+  },
+  {
+    "id": "geode-processing-guide",
+    "topic": "Mines & combat",
+    "section": "A missing Basalt needs the right geodes",
+    "beforeWords": 789,
+    "afterWords": 864
+  },
+  {
+    "id": "ginger-island-first-visit",
+    "topic": "Ginger Island",
+    "section": "Give the second trip one unlock target",
+    "beforeWords": 733,
+    "afterWords": 842
+  },
+  {
+    "id": "green-rain-moss-route",
+    "topic": "Machines & materials",
+    "section": "Turn a Moss target into a finished recipe list",
+    "beforeWords": 736,
+    "afterWords": 720
+  },
+  {
+    "id": "greenhouse-guide",
+    "topic": "Crops & seasons",
+    "section": "Four inside units do not mean four units total",
+    "beforeWords": 994,
+    "afterWords": 1096
+  },
+  {
+    "id": "help-wanted-special-orders",
+    "topic": "Friends & festivals",
+    "section": "Read both counters on a fresh-collection order",
+    "beforeWords": 724,
+    "afterWords": 789
+  },
+  {
+    "id": "island-farm-overnight-plan",
+    "topic": "Ginger Island",
+    "section": "Pack a first overnight deliberately",
+    "beforeWords": 421,
+    "afterWords": 527
+  },
+  {
+    "id": "junimo-hut-harvest-layout",
+    "topic": "Farm layout & travel",
+    "section": "Measure from the door, then overlay watering",
+    "beforeWords": 407,
+    "afterWords": 511
+  },
+  {
+    "id": "keg-vs-preserves-jar",
+    "topic": "Machines & materials",
+    "section": "Three actual crops through ordinary machines",
+    "beforeWords": 1081,
+    "afterWords": 1181
+  },
+  {
+    "id": "legendary-fish-guide",
+    "topic": "Fishing & water",
+    "section": "If the special fish never appears",
+    "beforeWords": 976,
+    "afterWords": 1077
+  },
+  {
+    "id": "lightning-rods-battery-packs-guide",
+    "topic": "Machines & materials",
+    "section": "Keep a battery source outside the storm plan",
+    "beforeWords": 819,
+    "afterWords": 865
+  },
+  {
+    "id": "luau-soup-ingredient-plan",
+    "topic": "Friends & festivals",
+    "section": "Check three words before leaving the farm",
+    "beforeWords": 423,
+    "afterWords": 522
+  },
+  {
+    "id": "mahogany-hardwood-renewal",
+    "topic": "Machines & materials",
+    "section": "Keep growth fertilizer separate from crop treatment",
+    "beforeWords": 652,
+    "afterWords": 770
+  },
+  {
+    "id": "make-money-year-one",
+    "topic": "First steps",
+    "section": "Keep the next seed purchase out of a long machine queue",
+    "beforeWords": 834,
+    "afterWords": 936
+  },
+  {
+    "id": "marlon-item-recovery",
+    "topic": "Mines & combat",
+    "section": "Make the Guild visit before the next dangerous trip",
+    "beforeWords": 756,
+    "afterWords": 823
+  },
+  {
+    "id": "minecart-unlock-daily-routes",
+    "topic": "Farm layout & travel",
+    "section": "A timed Blacksmith and Museum loop",
+    "beforeWords": 697,
+    "afterWords": 800
+  },
+  {
+    "id": "mining-guide-beginners",
+    "topic": "Mines & combat",
+    "section": "Choose a floor band for one finished project",
+    "beforeWords": 771,
+    "afterWords": 878
+  },
+  {
+    "id": "monster-goals-reward-planning",
+    "topic": "Mines & combat",
+    "section": "Match the reward to an ordinary floor band",
+    "beforeWords": 698,
+    "afterWords": 759
+  },
+  {
+    "id": "museum-donation-guide",
+    "topic": "Collections & unlocks",
+    "section": "Use item descriptions, not empty display spaces",
+    "beforeWords": 1103,
+    "afterWords": 1166
+  },
+  {
+    "id": "mushroom-log-tree-placement",
+    "topic": "Machines & materials",
+    "section": "Count trunks inside the actual seven-by-seven area",
+    "beforeWords": 732,
+    "afterWords": 766
+  },
+  {
+    "id": "night-market-guide",
+    "topic": "Friends & festivals",
+    "section": "A fishing-first evening with a visible departure margin",
+    "beforeWords": 862,
+    "afterWords": 978
+  },
+  {
+    "id": "rain-totem-weather-planning",
+    "topic": "Machines & materials",
+    "section": "A three-day watering-can hand-in",
+    "beforeWords": 720,
+    "afterWords": 822
+  },
+  {
+    "id": "recycling-machine-guide",
+    "topic": "Fishing & water",
+    "section": "Run the predictable quartz batch first",
+    "beforeWords": 769,
+    "afterWords": 781
+  },
+  {
+    "id": "scarecrow-range-rarecrow-checklist",
+    "topic": "Farm layout & travel",
+    "section": "Recheck the field after an expansion",
+    "beforeWords": 881,
+    "afterWords": 983
+  },
+  {
+    "id": "seasonal-seed-spot-crops",
+    "topic": "Crops & seasons",
+    "section": "Dig the Seed Spot and check its date window",
+    "beforeWords": 411,
+    "afterWords": 534
+  },
+  {
+    "id": "secret-woods-hardwood-guide",
+    "topic": "Mines & combat",
+    "section": "Find the covered lower paths",
+    "beforeWords": 835,
+    "afterWords": 923
+  },
+  {
+    "id": "seed-maker-guide",
+    "topic": "Crops & seasons",
+    "section": "Compare a purchased crop with a rare expansion",
+    "beforeWords": 843,
+    "afterWords": 864
+  },
+  {
+    "id": "shipping-bin-or-shop",
+    "topic": "Machines & materials",
+    "section": "Pack only what the intended merchant accepts",
+    "beforeWords": 744,
+    "afterWords": 766
+  },
+  {
+    "id": "silo-hay-winter-feeding-guide",
+    "topic": "Animals & care",
+    "section": "Two numbers to check on Winter 1",
+    "beforeWords": 1197,
+    "afterWords": 1299
+  },
+  {
+    "id": "skull-cavern-guide",
+    "topic": "Mines & combat",
+    "section": "A Staircase is an exit from the current floor, not the cavern",
+    "beforeWords": 653,
+    "afterWords": 753
+  },
+  {
+    "id": "spring-crop-guide",
+    "topic": "Crops & seasons",
+    "section": "A planting check before spending the next 500g",
+    "beforeWords": 696,
+    "afterWords": 778
+  },
+  {
+    "id": "sprinkler-guide",
+    "topic": "Farm layout & travel",
+    "section": "Count equipment centers when extending a row",
+    "beforeWords": 1057,
+    "afterWords": 1155
+  },
+  {
+    "id": "squidfest-daily-targets",
+    "topic": "Fishing & water",
+    "section": "Choose a reward tier you can name",
+    "beforeWords": 396,
+    "afterWords": 505
+  },
+  {
+    "id": "stable-horse-travel",
+    "topic": "Farm layout & travel",
+    "section": "Use the horse for the part of the route it can cover",
+    "beforeWords": 731,
+    "afterWords": 678
+  },
+  {
+    "id": "stardew-valley-fair-grange-guide",
+    "topic": "Friends & festivals",
+    "section": "A calculated 102-point display",
+    "beforeWords": 855,
+    "afterWords": 988
+  },
+  {
+    "id": "stardrop-sources-checklist",
+    "topic": "Collections & unlocks",
+    "section": "Choose a reachable source from the actual save",
+    "beforeWords": 714,
+    "afterWords": 818
+  },
+  {
+    "id": "summer-crop-guide",
+    "topic": "Crops & seasons",
+    "section": "A ten-Melon planting and a second seed bill",
+    "beforeWords": 718,
+    "afterWords": 785
+  },
+  {
+    "id": "tapper-tree-products-guide",
+    "topic": "Machines & materials",
+    "section": "Resin for ten Kegs is a separate supply target",
+    "beforeWords": 824,
+    "afterWords": 870
+  },
+  {
+    "id": "tea-saplings-growing-or-selling",
+    "topic": "Machines & materials",
+    "section": "Trigger Caroline’s event before waiting for mail",
+    "beforeWords": 728,
+    "afterWords": 782
+  },
+  {
+    "id": "tips-and-tricks",
+    "topic": "First steps",
+    "section": "Choose the tip that fixes today’s interruption",
+    "beforeWords": 1073,
+    "afterWords": 1127
+  },
+  {
+    "id": "tool-upgrades-guide",
+    "topic": "Mines & combat",
+    "section": "A rainy day does not cover indoor crops",
+    "beforeWords": 695,
+    "afterWords": 783
+  },
+  {
+    "id": "trout-derby-tags-plan",
+    "topic": "Fishing & water",
+    "section": "Tags are saved items; prizes follow a sequence",
+    "beforeWords": 412,
+    "afterWords": 519
+  },
+  {
+    "id": "truffle-oil-or-raw-sale",
+    "topic": "Animals & care",
+    "section": "A lower-quality raw stack changes the comparison",
+    "beforeWords": 389,
+    "afterWords": 485
+  },
+  {
+    "id": "volcano-dungeon-first-forge-route",
+    "topic": "Ginger Island",
+    "section": "Use floor five as a return decision",
+    "beforeWords": 653,
+    "afterWords": 758
+  },
+  {
+    "id": "winter-guide",
+    "topic": "Crops & seasons",
+    "section": "Two useful Winter weeks",
+    "beforeWords": 704,
+    "afterWords": 694
+  },
+  {
+    "id": "workbench-crafting-corner",
+    "topic": "Farm layout & travel",
+    "section": "A reachable three-by-three corner",
+    "beforeWords": 433,
+    "afterWords": 538
+  },
+  {
+    "id": "worm-bin-bait-supply",
+    "topic": "Fishing & water",
+    "section": "Compare one bin with ordinary purchased bait",
+    "beforeWords": 410,
+    "afterWords": 515
+  }
+]

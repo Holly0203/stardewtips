@@ -2,6 +2,7 @@
 title: "First Trip to Ginger Island: Repair the Boat and Pack for Exploration"
 description: "Budget Willy’s repairs, leave room for island finds, follow the first access route, and decide whether your visit is for exploring or entering the Volcano."
 pubDate: "2026-10-24"
+updatedDate: 2026-10-26
 category: "Community"
 tags: ["ginger island", "willy", "boat", "exploration"]
 ---
@@ -55,5 +56,11 @@ The [Rain Totem guide](/guides/rain-totem-weather-planning/) explains the same r
 Before returning, note what blocked the next step: walnuts, an access request, equipment, or simply time. Keep newly found items separate until you know whether they belong to a donation, recipe, or ordinary sale.
 
 Then prepare the next trip around one of those gaps. That gives a second visit a purpose without requiring you to carry every possible item the first time.
+
+## Give the second trip one unlock target
+
+Before leaving the first visit, write down the next blocked route and the parrot's displayed price. Keep that requirement separate from the walnuts already spent. Total walnuts found over the save and the walnuts still available to buy an unlock are different counts.
+
+If the next trip is for the western farm, pack for clearing and growing. If it is for the Volcano, pack the watering can and recovery supplies. If you want to stay overnight, check the Farmhouse unlock before assuming the dock trip includes accommodation. Choosing one target makes the return bag and travel budget much easier to prepare.
 
 **References:** repair materials and boat access checked against Fish Shop; ticket, initial routes, regional weather, and Volcano can use against Ginger Island, on 24 October 2026. This is a first-visit plan for unmodded 1.6, not a complete walnut or dungeon walkthrough.

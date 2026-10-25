@@ -2,7 +2,7 @@
 title: "Sprinkler Guide: Coverage, Materials, and Field Spacing"
 description: "Compare basic, Quality, and Iridium Sprinklers and lay out a field around the tiles they can water each morning."
 pubDate: 2026-10-21
-updatedDate: 2026-10-25
+updatedDate: 2026-10-26
 category: "Farming"
 tags: ["sprinklers", "farming", "efficiency", "beginner"]
 ---
@@ -70,5 +70,11 @@ A Pressure Nozzle expands range; an Enricher applies fertilizer. They are differ
 ## Check the first morning
 
 After placing a new row, inspect the soil before expanding around it. Water any missed tiles by hand and fix the spacing. The [Greenhouse guide](/guides/greenhouse-guide/) explains why indoor border layouts need a separate plan.
+
+## Count equipment centers when extending a row
+
+Centers three tiles apart for Quality Sprinklers means, for example, columns **2, 5, and 8**. It does not mean three empty columns between units. Leaving three empty columns would produce four-tile spacing and a dry gap.
+
+For Iridium centers, a five-tile sequence such as **3, 8, and 13** gives adjoining five-column coverage bands. An outer center may sit on a valid border while still watering soil, as in the Greenhouse diagram. Recount from the actual first soil tile when moving a plan into another room or farm map.
 
 **References:** [sprinkler coverage and recipes](https://wiki.stardewvalley.net/Sprinkler), [Greenhouse layouts](https://wiki.stardewvalley.net/Greenhouse), and [Krobus stock](https://wiki.stardewvalley.net/Krobus), reviewed on 25 October 2026. Krobus sells one Iridium Sprinkler on Fridays for 10,000g once his shop is accessible.

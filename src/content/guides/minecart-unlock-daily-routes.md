@@ -2,6 +2,7 @@
 title: "Minecarts: Unlock the Network and Put Its Stops to Use"
 description: "Compare the minecart unlock routes, understand the separate Quarry requirement, and plan short trips for mining, donations, and tool collection."
 pubDate: "2026-10-24"
+updatedDate: 2026-10-26
 category: "Getting Started"
 tags: ["minecarts", "travel", "boiler room"]
 ---
@@ -56,5 +57,11 @@ For wider outdoor travel rather than fixed stops, compare the [Stable and horse]
 ## Keep the return load simple
 
 A completed ride is a good moment to unpack. Put ore into the next smelting batch, move new artifacts to donations, and return unused food to the next-trip reserve. That keeps the transport upgrade from simply letting you bring a full, unsorted pack home faster.
+
+## A timed Blacksmith and Museum loop
+
+Clint's ordinary counter hours are **9am–4pm**, while the Museum is ordinarily open **8am–6pm**. If opening geodes and donating the results, use the Town stop and visit Clint first. Going to the Museum before processing leaves the new finds for another donation trip.
+
+After Community Center restoration, check Clint's Friday closure before planning a tool pickup. Festival access can also differ. The ride shortens the walk but does not extend the counter's hours. Assemble the paid geode batch, intended donations, and upgrade materials before leaving the farm instead of transporting every stored mineral.
 
 **Reference:** unlock routes, activation timing, stops, and Quarry restriction checked against the linked Minecart entry on 24 October 2026. Route examples assume ordinary unmodded access and do not bypass shop schedules.

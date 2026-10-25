@@ -2,7 +2,7 @@
 title: "Keg vs Preserves Jar: What to Process and When to Sell"
 description: "Compare Stardew Valley kegs and preserves jars with price formulas, worked examples, and a practical plan for a farm with limited machines."
 pubDate: 2026-10-24
-updatedDate: 2026-10-24
+updatedDate: 2026-10-26
 category: "Farming"
 tags: ["artisan goods", "keg", "preserves jar", "profit"]
 ---
@@ -74,5 +74,17 @@ Try a small expansion first. If the ingredient chest keeps growing after several
 ## Your next practical decision
 
 Choose one available machine, one suitable input, and one realistic collection routine. Expand after that routine works. For a broader view of how processing fits alongside fishing, crops, and upgrades, continue with our [Year 1 income guide](/guides/make-money-year-one/).
+
+## Three actual crops through ordinary machines
+
+| Normal crop | Raw base value | Jar result | Keg result |
+|---|---:|---:|---:|
+| Blueberry | 50g | 150g Jelly | 150g Wine |
+| Melon | 250g | 550g Jelly | 750g Wine |
+| Potato | 80g | 210g Pickles | 180g Juice |
+
+At the Blueberry price crossover, the finished prices match while the waiting times differ. For Melon, Wine adds more per fruit; whether it clears the backlog is a separate capacity question. Potato favors the jar even before comparing time.
+
+These figures exclude professions and aging. Use normal-quality input opportunity cost for this table; a starred raw crop sells for more without increasing those ordinary output prices.
 
 **Scope:** ordinary unaged crop products in an unmodded 1.6 game. Profession bonuses, special recipes, and later-game equipment require their own comparisons. Formulas and crafting facts were checked against the linked Wiki references on 24 October 2026; the hypothetical examples and sorting workflow are our own explanation.

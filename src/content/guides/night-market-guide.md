@@ -2,7 +2,7 @@
 title: "Night Market Guide: Plan Submarine Fishing Without Missing the Last Boat"
 description: "Use the three Winter market nights well, separate shopping from fishing, and leave enough time and money to get home safely."
 pubDate: 2026-10-24
-updatedDate: 2026-10-24
+updatedDate: 2026-10-26
 category: "Community"
 tags: ["night market", "winter", "submarine", "festival"]
 ---
@@ -72,5 +72,11 @@ Set a spending limit that includes the ride and anything needed afterward. An in
 Finish feeding, choose tonight's priority, pack the appropriate equipment, check space, and decide how you will get home.
 
 If one goal remains unfinished, use another night when available rather than cramming everything into the final minutes. A missed catch is not a reason to ignore the clock.
+
+## A fishing-first evening with a visible departure margin
+
+A sample visit can arrive near **5pm**, pay the 1,000g ride, spend about thirty in-game minutes descending, then fish until a preselected return time. Starting the ascent at 11:30pm leaves the half-hour return plus the trip home; it does not leave you at the farm at 11:30.
+
+The **11pm submarine closing time is the entry deadline**. The Mermaid Boat closes at **12:30am**, earlier than the whole market. Check the [Night Market schedules](https://wiki.stardewvalley.net/Night_Market) before pairing attractions. If both experiences matter, using separate nights preserves fishing time and prevents an evening of chasing doors that are already closed.
 
 **References:** dates, hours, ride price, travel duration, and rod restriction checked against the [Night Market Wiki entry](https://wiki.stardewvalley.net/Night_Market) on 24 October 2026. The three-night itinerary is our recommendation for unmodded 1.6, not a guaranteed collection route.

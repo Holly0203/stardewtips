@@ -2,7 +2,7 @@
 title: "Bee House Guide: Keep Flowers Growing and Harvest Better Honey"
 description: "Set up a small Stardew Valley apiary, avoid accidentally harvesting its flowers, and decide when honey deserves more farm space."
 pubDate: 2026-10-24
-updatedDate: 2026-10-24
+updatedDate: 2026-10-26
 category: "Farming"
 tags: ["bee house", "honey", "flowers"]
 ---
@@ -55,10 +55,16 @@ Bee Houses do not produce honey inside the Greenhouse. A visually pleasing indoo
 
 Winter downtime is not necessarily a reason to dismantle everything. If the layout is convenient and you intend to reuse it, leaving space reserved may save work next Spring. If the farm needs a major redesign, the quiet season is a useful time to reconsider it.
 
-## When to add more houses
+## A short seasonal flower list
 
-Expand after you have collected a successful flower batch and can reach every house comfortably. Check whether the limiting resource is syrup, iron, coal, planting space, or your collection routine. Add capacity to address a specific limit.
+| Plant near the houses | Season | Flower-honey base value |
+|---|---|---:|
+| Blue Jazz | Spring | 200g |
+| Poppy | Summer | 380g |
+| Fairy Rose | Fall | 680g |
 
-For another processing route that competes for crafting resources, read our [keg versus preserves jar guide](/guides/keg-vs-preserves-jar/). A mixed farm can be easier to manage than committing every resource to one system at once.
+These are [Honey values](https://wiki.stardewvalley.net/Honey) before Artisan. The flower must finish growing before it influences collection. A seed planted late in the season offers fewer improved harvests than a mature bloom already in range.
+
+Put the flower just one or two tiles from the first Bee House while learning the setup. Keep a separate approach to the house so collecting does not pick the bloom. That is easier to maintain than beginning with a maximum-density layout whose range you have not checked.
 
 **References:** mechanics and listed prices checked against the [Bee House Wiki entry](https://wiki.stardewvalley.net/Bee_House) on 24 October 2026. Layout advice is our recommendation for an outdoor main-farm setup in unmodded 1.6; later island layouts have different seasonal opportunities.

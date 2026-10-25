@@ -2,7 +2,7 @@
 title: "Fishing for Beginners: Bar Control, Rods, and First Catches"
 description: "Practice the Stardew Valley fishing minigame, choose a suitable rod, and plan early outings around the season, weather, and time."
 pubDate: 2026-10-21
-updatedDate: 2026-10-24
+updatedDate: 2026-10-26
 category: "Fishing"
 tags: ["fishing", "beginner", "money"]
 ---
@@ -60,4 +60,10 @@ Spend a few sessions noticing what ends attempts: poor control, missing conditio
 
 The [legendary fish guide](/guides/legendary-fish-guide/) covers later targets. There is no need to measure an early fishing session by whether you can land the most difficult fish yet.
 
-**References:** rod prices and level requirements checked against the linked Fishing page on 24 October 2026; the Fish list provides species-specific conditions. This revision removes the incorrect fish-time table, weed-based Bug Meat source, and claim that bad-luck days should be avoided for ordinary bites.
+## Two practice targets with simple locations
+
+Carp in the Mountain Lake are a useful early control target during Spring, Summer, and Fall. Keep the bar steady rather than chasing every movement to its limit. A Training Rod can support early practice but restricts the catches and quality you can obtain.
+
+For a separate ocean session, Sardines appear in Spring, Fall, and Winter from **6am to 7pm** in any weather. The [Carp](https://stardewvalleywiki.com/Carp) and [Sardine](https://stardewvalleywiki.com/Sardine) references give their source conditions. Reserve two Sardines if Dish O' The Sea is part of a future cooking plan instead of turning every catch into a generic fish dish.
+
+**References:** rod prices and level requirements checked against the linked Fishing page on 24 October 2026; the Fish list provides species-specific conditions.

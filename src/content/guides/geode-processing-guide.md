@@ -2,7 +2,7 @@
 title: "Geode Guide: Budget Cracking Costs and Sort What You Find"
 description: "Plan a geode-opening trip, understand what luck does not change, and route new finds into donations, materials, and useful reserves."
 pubDate: 2026-10-24
-updatedDate: 2026-10-24
+updatedDate: 2026-10-26
 category: "Mining"
 tags: ["geodes", "minerals", "museum", "blacksmith"]
 ---
@@ -31,15 +31,11 @@ Luck is relevant to many Stardew activities, but the reference explicitly states
 
 Choose the opening day for access and convenience. A trip can be useful when you also need to visit the Museum or buy something nearby, provided those services are available.
 
-
-
 ## Make room for several kinds of result
 
 A single stack can become multiple minerals, resources, and other finds. Entering with a nearly full backpack makes it harder to sort the output or collect rewards afterward.
 
 Leave ordinary farm tools and unrelated reserves at home when they have no role in this trip. Keep the remaining loadout predictable so you do not accidentally sell or discard something important while reorganizing at a counter.
-
-Our [backpack guide](/guides/backpack-storage-guide/) explains how to decide whether the real problem is capacity or carrying unnecessary categories. A larger pack helps, but unloading before the trip still matters.
 
 ## Route results into three destinations
 
@@ -70,5 +66,11 @@ If you need one specific missing collection item, check its actual sources befor
 Do not respond to an unlucky-feeling batch by automatically doubling the next spend. Return to the budget and the source list. A collection project is easier to sustain when ordinary farm expenses remain covered.
 
 For timing an actual tool hand-in around town access, continue with our [upgrade guide](/guides/tool-upgrades-guide/).
+
+## A missing Basalt needs the right geodes
+
+[Basalt](https://wiki.stardewvalley.net/Basalt) comes from Magma or Omni Geodes. Opening a chest of ordinary Geodes will not supply it. This matters when a Lava Eel pond has requested a Basalt: the pond's need does not change the ordinary geode pool.
+
+Choose a paid batch from an eligible stack and keep the 25g-per-opening cost visible. Twenty valid attempts cost 500g; they still do not guarantee the mineral. If the material is already donated, keep the next copy for the pond before selling duplicates. Daily luck does not upgrade the predetermined contents of the stored pile.
 
 **References:** cracking fee, luck limitation, and ordinary Geode behavior checked against the [Wiki Geode entry](https://wiki.stardewvalley.net/Geode) on 24 October 2026. Cost totals and sorting workflow are our arithmetic and recommendations for unmodded 1.6, not a predictor or profit guarantee.

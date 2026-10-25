@@ -2,6 +2,7 @@
 title: "Tea Saplings in 1.6: Grow a Hedge or Sell the Batch?"
 description: "Unlock Caroline’s tea recipe, distinguish the sapling from its leaves, and compare growing tea with selling saplings at the current base price."
 pubDate: "2026-10-24"
+updatedDate: 2026-10-26
 category: "Farming"
 tags: ["tea sapling", "caroline", "tea leaves"]
 ---
@@ -43,8 +44,6 @@ A short row can be attractive when you want a low-watering permanent feature. Pl
 
 Tea bushes can serve as a barrier. That is useful only if there is a route through or around it where you need one. Leave room for a gate or an open passage before enclosing machines or an animal entrance.
 
-Our [farm layout guide](/guides/farm-layout-tips/) starts with the daily walk. Apply the same test here: reach the shipping bin, equipment, and building doors before deciding that every gap should become another bush.
-
 If tea is mainly decorative, a few plants are enough to establish the look without committing every available crafting material.
 
 ## Keep leaves separate from the sapling decision
@@ -59,6 +58,10 @@ Store any leaves you actually want for a recipe or another use before moving the
 
 Sell a modest crafted batch when cash is the priority and ingredients are genuinely spare. Plant a few when you want continuing leaf production or a useful hedge and can wait through the calendar. Keep the ingredients when they are already assigned to a more urgent job.
 
-The [Year 1 spending framework](/guides/make-money-year-one/) can help distinguish an immediate seed payment from a longer-term farm feature.
+## Trigger Caroline’s event before waiting for mail
+
+At two hearts with Caroline, enter her sunroom through the kitchen door in Pierre's home between **9am and 5pm on a non-rainy day**. The recipe arrives after the event; merely reaching two hearts does not create it in the crafting menu. See [Caroline's event conditions](https://stardewvalleywiki.com/Caroline#Two_Hearts).
+
+When the mail arrives, inspect Wild Seed stock before crafting. Seasonal forage packets qualify; Mixed Seeds and ordinary vegetable packets do not. If the batch is for sale, use the current 250g base price instead of an older 500g calculation. If planting, count maturity and the final-week harvest window separately.
 
 **Reference:** recipe, event requirement, 250g base sale price, and harvest window checked against the linked Tea Sapling entry on 24 October 2026. Batch totals are arithmetic at unmodified prices; they do not include ingredient opportunity cost.

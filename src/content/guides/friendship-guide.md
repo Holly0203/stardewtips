@@ -2,7 +2,7 @@
 title: "Friendship Guide: Conversations, Gifts, and Birthdays"
 description: "Understand friendship points and gift timing, then build a town routine around villagers you want to get to know."
 pubDate: 2026-10-21
-updatedDate: 2026-10-24
+updatedDate: 2026-10-26
 category: "Community"
 tags: ["friendship", "villagers", "gifts", "beginner"]
 ---
@@ -17,7 +17,7 @@ Those values come from the [Friendship reference](https://wiki.stardewvalley.net
 
 ## Check the weekly gift boxes
 
-Normally, you can give one gift per day and two per week. Birthdays have an exception to the ordinary weekly limit. The Social tab's gift checkboxes help you see what has already been given.
+Normally, you can give one gift per day and two per week. The gift week resets on **Sunday**, rather than seven days after your last present. Check the Social tab's gift boxes before making the next delivery. Birthdays have an exception to the ordinary weekly limit, while the one-gift-per-day rule still applies to normal items.
 
 An ordinary birthday gift has eight times its usual effect. That makes a suitable gift worth reserving, but an unsuitable one can also have a stronger negative effect. Special items such as Stardrop Tea have additional rules, so do not apply the ordinary arithmetic to every possible gift.
 
@@ -46,5 +46,6 @@ A missed visit therefore needs context. Do not abandon a useful farm day because
 A kitchen can widen the options, but learned recipes and ingredients still matter. Keep intended gifts outside the general cooking pool so a dish does not consume a reserved crop or fish.
 
 The [cooking guide](/guides/cooking-and-food-buffs-guide/) covers that storage rule. If cooking is not yet available, choose a suitable crop, forage item, or mineral rather than building a kitchen solely to make one gift.
+
 
 **Reference:** points, ordinary gift limits, birthday behavior, and relationship caps checked against the [Friendship Wiki entry](https://wiki.stardewvalley.net/Friendship) on 24 October 2026. Examples describe ordinary gifts without special tea, quality, or book modifiers.

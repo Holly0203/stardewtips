@@ -2,7 +2,7 @@
 title: "Easy Loved Gifts: Seven Villagers to Start With"
 description: "Seven checked loved-gift examples with birthdays, seasonal reserves, and a practical way to choose gifts for your first town visits."
 pubDate: 2026-10-21
-updatedDate: 2026-10-25
+updatedDate: 2026-10-26
 category: "Community"
 tags: ["gifts", "friendship", "villagers", "beginner"]
 ---
@@ -50,5 +50,11 @@ A mining habit can support some relationships, but do not sell the tool-upgrade 
 Choose a few villagers on a route you already use, take the intended items, and talk when you find them. If someone is unavailable, return the gift to storage instead of carrying it through every unrelated outing.
 
 For someone outside this table, use the [full gift reference](https://stardewvalleywiki.com/List_of_Best_Gifts_by_Villager) or the in-game log. Check exceptions before spending a rare item. This page deliberately keeps the starter list short enough to use without a large storage or travel routine.
+
+## Pack for one birthday, then finish the errand
+
+If George's Fall birthday is the next goal, keep one Leek from Spring in a gift reserve. Take that Leek on the intended town visit rather than carrying it through the Summer mines. Check the calendar outside Pierre's before making the delivery.
+
+If the reserved item has disappeared, look for another verified preference rather than substituting a visually similar forage item. The Social tab and the linked individual references are more useful than a generic rule about “all vegetables” or “all gems.” For a person outside the seven examples above, use their own entry before spending a rare gift.
 
 **References:** linked character and item entries support the seven examples. Scope and metadata reviewed 25 October 2026; this is a starter selection, not a complete villager directory.

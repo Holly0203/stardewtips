@@ -2,7 +2,7 @@
 title: "Farm Layout: Shorter Routes and Room to Expand"
 description: "Practical Stardew Valley farm layout advice — zones, sprinkler-first fields, scarecrow math, animal pens, and the beginner mistakes that cost the most time."
 pubDate: 2026-10-21
-updatedDate: 2026-10-25
+updatedDate: 2026-10-26
 category: "Farming"
 tags: ["farm layout", "farming", "efficiency", "beginner"]
 ---
@@ -44,5 +44,11 @@ Keep saplings away from planned machine rows. Fruit trees need a clear growth ar
 Try the module through one harvest. If watering is covered but collection is awkward, fix the route before copying it. If every machine input chest is already backed up, decide what to sell before adding more planted blocks.
 
 The [sprinkler guide](/guides/sprinkler-guide/) shows other coverage sizes. The [Greenhouse plan](/guides/greenhouse-guide/) has its own twelve-by-ten coordinates; this outdoor cross-aisle pattern is not intended to fill that room.
+
+## Test access using the crop you will grow
+
+Walk the planned harvest route before planting trellises. The empty aisle in the diagram gives access between blocks, but a solid interior filled with impassable crops still needs reachable interaction positions. Regular walkable crops and trellis crops should not inherit the same seed count automatically.
+
+For a new block, place empty equipment first, walk from the house through both exits, then buy the calculated number of packets. If a chest or scarecrow has taken a planted position, subtract that tile before purchasing. The useful count is the crop positions remaining in the layout you actually built.
 
 **Sources and scope:** [Quality Sprinkler](https://wiki.stardewvalley.net/Quality_Sprinkler), [Scarecrow](https://wiki.stardewvalley.net/Scarecrow), and linked care guides. Revised 25 October 2026 for unmodded 1.6. Diagram capacity is calculated; building positions depend on your map.

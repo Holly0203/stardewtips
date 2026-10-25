@@ -2,7 +2,7 @@
 title: "Fall Crop Planning: Cranberries, Pumpkins, and Rare Seeds"
 description: "Compare Fall planting costs and harvest dates, save bundle crops, and decide whether a Rare Seed fits the remaining season."
 pubDate: 2026-10-20
-updatedDate: 2026-10-24
+updatedDate: 2026-10-26
 category: "Farming"
 tags: ["crops", "fall", "money", "beginner"]
 ---
@@ -55,4 +55,10 @@ Near the end of Fall, keep enough cash for hay, animal care, and projects you ac
 
 The [Winter guide](/guides/winter-guide/) covers the change in routine. In 1.6 there are outdoor Winter-growing options, so the next season does not require abandoning growing altogether.
 
-**References:** crop figures checked against the linked Crops reference on 24 October 2026. Dates and returns are calculations without speed bonuses, crop loss, or sale modifiers. This revision corrects the Mill claim and removes the claim that a Pumpkin is necessary to win the Fair.
+## What a later Cranberry planting changes
+
+Without growth bonuses, a Fall 6 Cranberry planting first harvests on **Fall 13**, then **18, 23, and 28**. Four minimum two-berry picks give **600g gross** per plant and **360g above the 240g seed cost**. That is one pick less than the Fall 1 model.
+
+For ten packets, the seed bill remains **2,400g** whether planted on the first or sixth. The growing calendar changes the return, not the purchase price. Use the actual planting day when deciding whether a late expansion fits the remaining season, and keep Pumpkin or other bundle reserves separate from that income field.
+
+**References:** crop figures checked against the linked Crops reference on 24 October 2026. Dates and returns are calculations without speed bonuses, crop loss, or sale modifiers.

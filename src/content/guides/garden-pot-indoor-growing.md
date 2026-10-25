@@ -2,8 +2,9 @@
 title: "Garden Pots: Grow Indoors Without a Sprinkler"
 description: "Plan accessible indoor pots, choose a watering method, and avoid losing crops when rearranging a growing room."
 pubDate: "2026-10-25"
+updatedDate: 2026-10-26
 category: "Farming"
-tags: ["farming", "stardew valley 1.6"]
+tags: ["garden pot indoor growing", "crops & seasons", "farming"]
 ---
 
 A row of Garden Pots can keep a cooking ingredient close to the kitchen. A room packed with them can also become another watering chore. Decide how you will reach and water the back row before planting anything valuable.
@@ -29,3 +30,9 @@ Do not move a planted pot as a way to rescue the crop. Removing the pot destroys
 Suppose your problem is a missing ingredient for a meal. A few dependable plants may solve it; a large production room adds more seed handling and harvest sorting without improving dinner. If your goal is bulk sales, compare the pot materials and access space with the [Greenhouse](/guides/greenhouse-guide/) you already own.
 
 Keep spare seeds beside the room, but leave selling stock elsewhere. That makes replanting straightforward and reduces the chance of processing the last replacement crop. For outdoor automation, use the separate [sprinkler guide](/guides/sprinkler-guide/); the watering rules are different here.
+
+## The retaining-soil recipe is an island unlock
+
+The Island Trader sells the **Deluxe Retaining Soil recipe for fifty Cinder Shards**. Each application uses five Stone, three Fiber, and one Clay. Recipe ownership and enough crafted soil are separate costs; buying the recipe does not automatically treat every pot.
+
+With [Deluxe Retaining Soil](https://wiki.stardewvalley.net/Deluxe_Retaining_Soil), water the planted pot once if it is dry. The soil can then retain moisture through repeated harvests. Keep an aisle reachable from the room entrance and trial a small group before filling the shed. If you do not yet have island access, compare a few hand-watered pots with postponing the larger installation.

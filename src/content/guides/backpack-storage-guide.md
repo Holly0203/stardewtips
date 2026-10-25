@@ -2,7 +2,7 @@
 title: "Backpack and Storage Guide: Carry Less, Keep What Matters"
 description: "Choose when to buy backpack upgrades, build useful chest categories, and prepare distinct fishing, mining, and town-trip loadouts."
 pubDate: 2026-10-24
-updatedDate: 2026-10-24
+updatedDate: 2026-10-26
 category: "Getting Started"
 tags: ["backpack", "inventory", "chests", "beginner"]
 ---
@@ -59,12 +59,10 @@ The [Museum guide](/guides/museum-donation-guide/) explains how a small donation
 
 Shop interfaces can turn a click into a sale rather than an inventory rearrangement. Slow down when moving something valuable at a counter. Sort beforehand whenever possible so a rushed interface interaction is not carrying the whole plan.
 
-## When the upgrade is worth buying
+## A twelve-slot fishing pack
 
-The first upgrade is attractive when full inventory repeatedly ends otherwise useful outings. Compare that benefit with the 2,000g expense and the money you still need for seeds or food.
+For a simple rod session, use one slot for the rod and one for a chosen food stack. If the rod accepts bait, attach it before leaving; equipped bait does not need a separate carried stack. Keep the other ten slots for catches unless the route has another specific task.
 
-The second upgrade is a larger payment. Buying it should not leave a growing farm unable to operate, but delaying it forever can also cost repeated trips and abandoned finds. Make the choice from recent outings: what useful items are you leaving behind, and how often?
-
-An extra row is permanent capacity, while seed money is a near-term requirement. The [Year 1 income guide](/guides/make-money-year-one/) can help you keep both in the budget rather than treating every spare coin as immediately available.
+Fish species and qualities occupy different stacks. Ten empty slots can therefore fill without ten different species. When the pack fills, first sell at a suitable open shop or return to your nearby storage; do not throw away the only Seaweed or Green Algae reserved for a Fish Pond. At home, unload before deciding that the next backpack upgrade is unavoidable.
 
 **References:** capacities, upgrade prices, and inventory-interface behavior checked against the [Inventory Wiki entry](https://stardewvalleywiki.com/Inventory) on 24 October 2026. Loadouts and storage categories are our suggestions for unmodded 1.6; exact controls depend on platform and settings.
