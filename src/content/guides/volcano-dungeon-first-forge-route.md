@@ -2,32 +2,52 @@
 title: "Volcano Dungeon: Reach the Forge With a Way Home"
 description: "Pack the watering can, manage a ten-floor expedition, and open the Forge shortcut before treating the trip as finished."
 pubDate: "2026-10-25"
+updatedDate: 2026-10-25
 category: "Mining"
-tags: ["mining", "stardew valley 1.6"]
+tags: ["volcano dungeon", "ginger island", "forge", "exploration"]
 ---
 
-Bring your watering can to the Volcano Dungeon. It makes paths across lava, so leaving it at home to save an inventory slot can prevent the trip from getting properly started.
+Pack the watering can before taking the boat. The Volcano needs water to create lava crossings, and a first ascent is long enough that you should also bring healing and a clear way out. The route below follows permanent milestones; the rooms between them vary.
 
-## Pack for reaching the top
+## A concrete first-ascent pack
 
-The dungeon has ten floors. Water poured onto lava creates temporary paths; an upgraded can can make crossings more convenient, but a basic can works. The [Volcano Dungeon reference](https://stardewvalleywiki.com/Volcano_Dungeon) describes the floor structure, exits, and permanent shortcut.
+| Bring | Check before leaving |
+|---|---|
+| Watering can | Filled; a basic can works, while charged upgrades simplify crossings |
+| Pickaxe and familiar weapon | Both available and in predictable hotbar slots |
+| Healing stack | Food you will actually use; enough for unfamiliar fights |
+| Optional buff meal | Recovery food will not replace the desired buff |
+| Return item, if available | Correct destination and reachable slot |
+| Free bag space | Leave farm sale stock and building reserves at home |
 
-Take a weapon you can use comfortably, substantial healing, and a way to leave safely. Put healing and the emergency exit in predictable toolbar positions. Empty unrelated tools and sale stock before traveling so picking up dungeon materials does not require repeated sorting.
+As a suggested first attempt, take ten portions of a recovery food you normally use and reassess at floor five. Ten is a starting allowance, not a guarantee: restoration values and incoming damage vary. If the stack is already nearly gone at that point, leave rather than treating the halfway mark as permission to continue.
 
-Finish essential mainland work first. If you spend the morning watering and then reach the island late, the available exploration time is already shorter. The [first island visit guide](/guides/ginger-island-first-visit/) covers the travel preparation that comes before the dungeon entrance.
+## Follow the milestone route
 
-## Clear a route rather than every resource
+[![Volcano ascent milestones and the floor-ten return route to the entrance gate button](/images/guides/volcano-forge-route.svg)](/images/guides/volcano-forge-route.svg)
 
-For a first ascent, reaching the Forge is a different objective from collecting every ore node. Check the next passage, cross lava deliberately, and avoid moving into a new room with low health. You can return for additional materials after the route is established.
+1. **Entrance:** refill at the pool on the west side. Pour water onto the lava river to form a walkable crossing, then continue north through the doorway.
+2. **Floors 1–4:** look for doors to the next floor, not ladders. A gate with red indicators requires its pressure pads; find and step on every required pad until the indicators are green.
+3. **Floor 5:** refill water and review health, food, and the clock. A Dwarf shop is here, but trading needs the translation unlock. Do not depend on buying emergency supplies if you cannot understand Dwarvish.
+4. **Floors 6–9:** continue through doors. Floor nine contains a chest; make room before opening it rather than discarding something hurriedly while enemies are nearby.
+5. **Floor 10:** reach the Forge, then use the southwest doorway back toward the entrance's locked gate. Step on its button to open the shortcut.
 
-The layout remains consistent within the same day; leaving and re-entering does not reroll an easier dungeon. There is no ordinary Mines elevator to rescue a late attempt. Walking back costs time, which makes your carried exit important.
+These milestones follow the [Volcano Dungeon mechanics](https://wiki.stardewvalley.net/Volcano_Dungeon). Use the diagram to track milestones; each day's interior rooms still need exploration.
 
-The optional fifth-floor parrot exit is not an elevator to arbitrary floors. Do not spend walnuts expecting it to preserve your ascent progress. Treat it as another exit option and decide whether that convenience is worth the cost at this stage.
+## Three exits that should not be confused
 
-## The shortcut is part of the objective
+Walking back means retracing rooms; there is no ordinary Mines elevator or starting ladder for instant exit. A usable warp item is another option. The floor-five parrot can create an exit for five walnuts once available, but it takes you outside rather than creating a checkpoint you can re-enter there.
 
-On floor ten, use the southwest passage and press the button that opens future direct access to the Forge. Check that you have completed this before leaving. Reaching the room and unlocking convenient return access are separate actions.
+The floor-ten gate shortcut is different. After opening it, you can return directly to the Forge on later visits. That shortcut does not put an elevator into the intervening resource floors.
 
-You can inspect [Forge upgrades](/guides/forge-upgrades-enchantments/) without spending scarce materials immediately. A successful ascent does not oblige you to use the first Prismatic Shard you brought.
+The watered lava path lasts for the day. Re-entering a room on that same day does not generate another fresh set of materials or a new easier layout. Plan another day's resource run separately.
 
-If combat becomes the limiting factor, revisit the [survival guide](/guides/combat-survival-guide/) and adjust healing or equipment before another run. If travel time is the problem, consider the [Island Farmhouse](/guides/island-farm-overnight-plan/) as part of your next preparation rather than forcing a rushed late-afternoon ascent.
+## Getting through a gated room
+
+Stop at the gate and count its remaining red indicators. Scan connected islands for pads; a short water crossing may be needed. Once a pad is activated, return by the route you know rather than sprinting into another unexplored group of enemies.
+
+Fight flying threats before standing still to mine. If finding pads has already consumed much of your healing, the route objective can wait. A floor you survive and understand is better preparation than rushing ahead without recovery.
+
+After opening the shortcut, read the [Forge spending guide](/guides/forge-upgrades-enchantments/) before consuming rare materials. For a longer island stay, arrange [Farmhouse access and mainland care](/guides/island-farm-overnight-plan/) first.
+
+**Review:** 25 October 2026, unmodded 1.6. The route describes mechanics and fixed milestones; packing quantities and retreat advice are starting suggestions to adjust to your equipment and food.

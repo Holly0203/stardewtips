@@ -2,7 +2,7 @@
 title: "Sprinkler Guide: Coverage, Materials, and Field Spacing"
 description: "Compare basic, Quality, and Iridium Sprinklers and lay out a field around the tiles they can water each morning."
 pubDate: 2026-10-21
-updatedDate: 2026-10-24
+updatedDate: 2026-10-25
 category: "Farming"
 tags: ["sprinklers", "farming", "efficiency", "beginner"]
 ---
@@ -35,29 +35,40 @@ Crafting is one way to obtain them; shop availability depends on the item and yo
 
 **Iridium Sprinkler (Lv 9):** a larger coverage area. One unit plus its tile effectively services 25 squares, and obtaining the required iridium may take longer — the [Skull Cavern guide](/guides/skull-cavern-guide/) covers ore-trip preparation.
 
-## Grid layouts that water everything
+## Coverage you can count
 
-- **Quality:** place one on every 3rd row and every 3rd column (spacing 3). Each 3×3 cell = 8 crops + 1 sprinkler. No dry tile exists.
-- **Iridium:** spacing 5 — one sprinkler per 5×5 cell (24 crops). Fewest units, largest tilled area per walk.
-- **Basic:** spacing 2 in a checkerboard if you're desperate early, but decide whether the four-tile coverage suits your current field.
-- **Put sprinklers on path tiles.** A sprinkler occupies one tile in the layout. Paths are a convenience, not a way to recover every occupied crop tile.
+[![Basic, Quality, and Iridium Sprinkler tile coverage without attachments](/images/guides/sprinkler-coverage.svg)](/images/guides/sprinkler-coverage.svg)
+
+The blue center is occupied equipment, not a crop tile. Green shows watered tiles. Basic coverage is a cross, so the corners of its three-by-three bounding square remain dry. Do not use a basic unit as a substitute for the eight-tile Quality model in a completed block.
+
+For a compact Quality field, set centers three tiles apart horizontally and vertically. Each three-by-three block then contains eight crop positions. For Iridium, use five-tile spacing: each five-by-five block contains twenty-four. Measure center to center, not three or five empty tiles between units.
+
+If access matters more than maximum density, use the [four-unit cross-aisle plan](/guides/farm-layout-tips/). It deliberately leaves a full walking row and column between its blocks. Trellis plantings may need additional access gaps.
+
+For a basic unit, plant only its four cardinal neighbors until you have worked out a larger repeating pattern. This avoids calling a loosely described checkerboard “complete coverage” when its edge tiles still need the can.
 
 ## Things sprinklers don't do
 
 - **They don't stop crows** — scarecrows are a separate placement puzzle, covered in the [farm layout guide](/guides/farm-layout-tips/).
-- **They don't work on untiled soil** — obviously — and they only water the standard tile layer; trees and forage are unaffected.
+- **They water tilled crop soil.** Plants grown from seasonal Wild Seeds still need watering; naturally spawned forage is a different system. Trees do not need sprinkler watering, and Garden Pots are not watered by sprinklers.
 - **They don't upgrade by crafting in place** — swap the item yourself, or buy the Pressure Nozzle/Enricher upgrades from Qi later.
 - The **Greenhouse** needs a layout suited to its twelve-by-ten crop plot; some sprinklers still occupy crop tiles without range attachments. Layout in the [greenhouse guide](/guides/greenhouse-guide/).
+
+## Check the ground before copying a pattern
+
+Most of the Beach Farm's sandy soil does not support sprinklers. Use its sprinkler-compatible patch or water elsewhere by hand; owning an Iridium model does not override the map rule. Sprinklers work in the Greenhouse and on suitable Ginger Island farmland, but each area still needs its own measured grid.
+
+A Pressure Nozzle expands range; an Enricher applies fertilizer. They are different attachments, so the unmodified diagrams above should not be used to describe an attached unit. See [Beach Farm restrictions](https://wiki.stardewvalley.net/Farm_Maps#Beach_Farm) and [Sprinkler rules](https://wiki.stardewvalley.net/Sprinkler).
 
 ## Tips to switch over smoothly
 
 1. **Craft 4–8 sprinklers before expanding your field** — till first, place sprinklers, then plant around them.
-2. **Keep one row hand-watered** as a test strip when changing layouts, so you can see the pattern at work.
-3. **Upgrade your can anyway** — sprinklers cover crops, but newly planted crop tiles may need hand-watering before the next morning ([tool upgrades guide](/guides/tool-upgrades-guide/)).
+2. **Inspect every edge the next morning.** Hand-water any dry crop tile and correct the placement before adding more seeds.
+3. **Keep a can available** — sprinklers cover crops, but newly planted crop tiles may need hand-watering before the next morning ([tool upgrades guide](/guides/tool-upgrades-guide/)).
 4. **Winter craft time**: if your Winter routine has fewer crops to water, the cold months can be useful to smelt bars and pre-build a whole year's sprinklers — see the [winter guide](/guides/winter-guide/).
 
 ## Check the first morning
 
 After placing a new row, inspect the soil before expanding around it. Water any missed tiles by hand and fix the spacing. The [Greenhouse guide](/guides/greenhouse-guide/) explains why indoor border layouts need a separate plan.
 
-**References:** [sprinkler coverage and recipes](https://wiki.stardewvalley.net/Sprinkler), [Greenhouse layouts](https://wiki.stardewvalley.net/Greenhouse), and [Krobus stock](https://wiki.stardewvalley.net/Krobus), checked on 24 October 2026. Krobus sells one Iridium Sprinkler on Fridays for 10,000g once his shop is accessible.
+**References:** [sprinkler coverage and recipes](https://wiki.stardewvalley.net/Sprinkler), [Greenhouse layouts](https://wiki.stardewvalley.net/Greenhouse), and [Krobus stock](https://wiki.stardewvalley.net/Krobus), reviewed on 25 October 2026. Krobus sells one Iridium Sprinkler on Fridays for 10,000g once his shop is accessible.

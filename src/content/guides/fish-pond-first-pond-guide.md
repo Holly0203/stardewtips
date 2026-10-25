@@ -2,65 +2,55 @@
 title: "Your First Fish Pond: Choose a Species and Plan the Upgrade Requests"
 description: "Build a useful first fish pond, understand population limits and requests, and decide whether its output fits your farm before adding more ponds."
 pubDate: 2026-10-24
-updatedDate: 2026-10-24
+updatedDate: 2026-10-25
 category: "Fishing"
 tags: ["fish pond", "roe", "fishing", "buildings"]
 ---
 
-Check a fish’s pond products and upgrade requests before paying Robin. A species you already own and can supply is a sensible first resident. Rare fish are interesting, but their pond requests can be inconvenient at the stage when you first catch them.
+Choose Carp for a low-demand first experiment, Sturgeon for Caviar, or Lava Eel when you already have the fish and can support its requests. The species matters more than building several empty ponds: each one commits a five-by-five footprint and its own upgrade supplies.
 
-> **At a glance**
->
-> - Robin's build cost is **5,000g, 200 Stone, 5 Seaweed, and 5 Green Algae**.
-> - The pond occupies **5 × 5 tiles** and takes **two days** to build.
-> - A pond holds one species at a time.
-> - Population limits and requests depend on the species.
-> - Check possible outputs before choosing your fish; do not assume every species makes the same Roe.
+## Pay for the pond and leave access
 
-## Choose an output before committing the footprint
+Robin's Fish Pond costs **5,000g, 200 Stone, five Seaweed, and five Green Algae**, and takes two days to build. Keep one side accessible for collecting and delivering request items. Save the resident fish before paying so you do not finish construction with nothing to put inside.
 
-A rare fish is not automatically the most useful first resident. Think about whether you want Roe for processing, a particular secondary product, or a renewable supply of an ordinary fish. Then check that species' pond table and requests in the [Fish Pond reference](https://wiki.stardewvalley.net/Fish_Pond).
+The [Fish Pond reference](https://wiki.stardewvalley.net/Fish_Pond) explains population, requests, and retrieval. This comparison uses ordinary fish in the 1.6 series. Legendary pond support was added in 1.6.9; it is a separate one-fish system, not the reproduction plan below.
 
-A convenient species you already own can be a reasonable first experiment if its outputs fit your goals. An impressive-looking choice that asks for materials you cannot obtain may leave the pond waiting at a low population.
+## Three candidates with different jobs
 
-Keep the starting fish separate from your sale pile. You do not want to finish the building only to discover that the resident you saved has been shipped or used in a recipe.
+| Resident | First capacity / reproduction | Why choose it? | Main constraint |
+|---|---|---|---|
+| Carp | 3 / one day | Simple introduction to requests and Roe | Modest sale output |
+| Sturgeon | 1 / four days | Sturgeon Roe becomes Caviar | Several requests and seasonal access to the fish |
+| Lava Eel | 1 / five days | Valuable Roe and possible secondary products | Difficult catch and demanding upgrade items |
 
-## Budget more than the construction fee
+A higher-priced Roe does not establish a higher daily payout. Population and random production determine what arrives; the day after construction is not a sensible payback deadline.
 
-The pond's cost includes materials that are easy to discard when backpack space is tight. Save Seaweed and Green Algae deliberately if a pond is on your near-term plan. The [backpack guide](/guides/backpack-storage-guide/) explains how to keep these project reserves without carrying them everywhere.
+## Carp: an inexpensive way to learn the system
 
-The construction payment is only the first commitment. Requests can require additional items, and the output may benefit from processing equipment. Leave some working money available instead of spending the last of it on a pond that cannot yet develop.
+Carp requests two Green Algae to raise capacity from three to five, then two Cave Carrots to reach ten. It produces Carp Roe, which can be aged in a Preserves Jar. See the [Carp pond table](https://stardewvalleywiki.com/Carp#Fish_Pond).
 
-Use a footprint that leaves access to collect output and inspect requests.
+For a first pond, this gives you a short supply list before you build. Keep the additional algae separate from the five used in construction. If your purpose is merely to learn collection and requests, an accessible common fish avoids making the lesson depend on a rare catch.
 
-## Understand growth and requests
+## Sturgeon: build toward Caviar
 
-Most ordinary pond species can reproduce, but the initial capacity is not necessarily the eventual capacity. A request can appear when growth is limited. Fulfilling the request allows further development according to that species' rules.
+A Sturgeon can be caught in the Mountain Lake in Summer or Winter, 6am–7pm, in any weather. Its requests progress through a Diamond; one Jelly, two Maple Syrup, or one Pickles; three Omni Geodes; and one Nautilus Shell. The final item is the beach forage shell, not the similarly named Nautilus Fossil.
 
-Check the request itself before assuming any generic item will work. Keep a short list of what is missing, then combine the errand with another trip. A delayed pond is not necessarily broken; it may simply be waiting for an upgrade item or its reproduction interval.
+[Sturgeon Roe](https://wiki.stardewvalley.net/Sturgeon#Fish_Pond) has a 130g base price; Caviar sells for 500g without Artisan. That is 370g extra per completed jar, before considering machine occupancy. A jar processes a Roe item, not every fish living in the pond simultaneously.
 
-Tiger Trout do not reproduce. This is a useful example of why “put in one fish and wait” is not a universal rule. Legendary fish and patch-specific exceptions have separate restrictions; this beginner plan focuses on ordinary species rather than those later-version edge cases.
+Reserve a Caviar if you need it for later progression. Do not assign it to an ordinary bundle simply because a guide called it valuable; check the exact requirement in your save.
 
-## Collecting fish is not the same as catching new collection entries
+## Lava Eel: budget the entire request chain
 
-You can retrieve fish from a pond with a rod, but pond retrieval does not count toward the fish collection or grant the usual catching experience. Pond product collection and requests have their own experience behavior, as documented in the reference.
+The [Lava Eel pond](https://wiki.stardewvalley.net/Lava_Eel#Fish_Pond) first asks for three Fire Quartz. Later requests are one Basalt, two Diamonds, or one Dwarf Scroll III; then two Mega Bombs; then an Iridium Bar. Its 380g Roe becomes 760g Aged Roe before Artisan.
 
-Use a pond for its actual outputs and population system, not as a shortcut to complete a rod-fishing collection. Our [beginner fishing guide](/guides/fishing-guide-beginners/) covers ordinary catches if collection progress is the goal.
+Compare that chain with your current resources. If Basalt appears in the request and you have no copy, the pond can remain limited while you search. A difficult resident is a poor choice when your intended “passive” project is meant to require minimal errands.
 
-Before removing a fish, ask whether the reduction will interfere with your population target. A renewable supply is useful only if you leave the resident population needed for the plan you chose.
+## Grow, collect, then process
 
-## Decide what to do with Roe before it accumulates
+Put in one chosen fish and watch the sign for requests. Completing a request raises capacity; it does not instantly fill the new spaces. Additional fish need their reproduction interval or matching fish you supply. Tiger Trout are an exception and do not reproduce.
 
-Different species have different pond products, and ordinary Roe processing should not be confused with every special case. Keep the product's name visible in storage and inspect its processing rule before assigning a machine.
+Collect output into a small queue beside available [Preserves Jars](/guides/keg-vs-preserves-jar/). Keep Sturgeon Roe identifiable so it is not confused with other Roe products.
 
-Our [keg versus jar guide](/guides/keg-vs-preserves-jar/) explains processing capacity as a general decision. For a pond, use that same question: does the extra output fit into machines you can refill, or will it simply wait in another chest?
+If changing species, fish out residents you want to keep before using the pond's empty command, then reset it for the new species. Retrieved pond fish are normal quality and do not fill missing catch-collection entries. Use ordinary [fishing trips](/guides/fishing-guide-beginners/) for those entries.
 
-Do not judge the pond from a single lucky output. Observe a longer stretch before deciding it can fund your next purchase. Random production is a poor basis for a bill that must be paid tomorrow.
-
-## When a second pond makes sense
-
-Expand if the first pond's role is clear, the request supplies are manageable, and you have space that is worth dedicating to another species. If you still do not know what the first pond is contributing, solve that question before duplicating the building.
-
-For a smaller daily water-based routine, consider [Crab Pots](/guides/crab-pot-route-guide/). They involve a different balance of materials, bait, and collection travel, so choosing between the two should depend on the routine you actually enjoy maintaining.
-
-**References:** construction, population behavior, and collection limitations checked against the [Fish Pond Wiki entry](https://wiki.stardewvalley.net/Fish_Pond) on 24 October 2026. Recommendations target ordinary fish in unmodded 1.6; consult your exact patch for legendary pond support and other later changes.
+**Review:** 25 October 2026. Species timings, requests, and prices follow the linked pond tables. Comparisons are planning advice, not guaranteed daily income.

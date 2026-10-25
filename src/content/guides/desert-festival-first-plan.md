@@ -2,32 +2,52 @@
 title: "Desert Festival: A Three-Day Plan for Your First Visit"
 description: "Prepare for Spring 15\u201317, manage temporary Calico Eggs, and choose between festival shopping and cavern challenges."
 pubDate: "2026-10-25"
+updatedDate: 2026-10-25
 category: "Community"
-tags: ["community", "stardew valley 1.6"]
+tags: ["desert festival", "calico eggs", "spring", "festival"]
 ---
 
-Spend your Calico Eggs before the Desert Festival finishes. They survive between the three festival days, but disappear when the event ends. Saving them for next year's shopping does not work.
+Decide what you want to buy before farming Calico Eggs. The Desert Festival gives you three days, Spring 15–17, but the eggs disappear at the end of the event. A concrete fifty-egg purchase is easier to plan than an open-ended promise to grind until bedtime.
 
-## Before Spring 15
+## Access and the first stop
 
-The festival runs Spring 15–17 and requires a repaired bus. It officially opens at 10am. Sandy's shop does not operate normally during the event, while the Desert Trader remains available. The [Desert Festival reference](https://stardewvalleywiki.com/Desert_Festival) lists the daily attractions and rotating shop inventories.
+The festival opens at 10am and requires a repaired bus. Sandy's normal shop is closed during it, while the Desert Trader remains available. You do not need the Skull Key to enter Skull Cavern during this festival, but that access exception does not make the combat easier.
 
-If your bus is still broken, work on the [Community Center route](/guides/community-center-guide/) without assuming the festival is available in your first Spring. Missing the event is less costly than selling essential supplies to chase an unrealistic deadline.
+These rules and the egg prices below come from the [Desert Festival reference](https://stardewvalleywiki.com/Desert_Festival). Finish mainland care before leaving, then inspect the merchant and villager stalls before committing the afternoon to an activity.
 
-Before a visit, finish feeding and watering. Then pack for the trip you want: spare inventory space for shopping, or healing and an exit plan for cavern challenges. A combat bag and a souvenir bag have different priorities.
+## Earn eggs by the activity you can complete
 
-## Use the first visit to set a budget
+| Activity | What to do | Planning use |
+|---|---|---|
+| Races | Pick a contestant and wait in the festival area for the result | A winning bet normally gives 20 eggs; winning is uncertain |
+| Marlon: Monster Hunt | Kill the ten requested monsters in Skull Cavern | 35 eggs for a completed offered task |
+| Marlon: Deep Dive | Reach floor 30 | 50 eggs for a completed offered task |
+| Marlon: Treasure Hunt | Gather the specified cavern items | 40 eggs for a completed offered task |
 
-Walk through the shops before spending heavily. Some stock changes by day, and villager stalls can offer something you care about more than the first merchant's display. Write down one or two desired purchases and their costs.
+Two of the three quest types are offered each day. Read the board before entering; do not assume your preferred task will be present. Egg nodes, monsters, and containers can also provide eggs during the event.
 
-You can then judge an activity by whether it helps meet that target. Earning another small reward is useful when it buys the item you want; repeating an activity out of habit can use the afternoon while leaving no time to shop.
+For a combat visit, select the easier of the displayed tasks for your equipment. If the task asks for a monster you cannot finish safely, a different day's options may fit better. Use the [cavern preparation guide](/guides/skull-cavern-guide/) rather than spending the healing reserve to rescue an unsuitable quest.
 
-Calico Eggs sell for zero gold. Keep them visibly separate from ordinary shipping stock so an end-of-day inventory clear does not throw away your festival budget.
+For a social visit, races can be part of the afternoon, but do not count winnings before the race finishes. Leaving the festival area prevents a race from running to its result while you do something elsewhere.
 
-## Cavern progress is optional
+## Put a price beside the purchase
 
-If you enter combat challenges, use the same health discipline as an ordinary [Skull Cavern trip](/guides/skull-cavern-guide/). A festival objective is not a reason to keep fighting after your healing runs out. Check what the challenge asks before spending consumables on unrelated floors or enemies.
+The merchant sells Strawberry Seeds for **five eggs on Spring 15** and **six on Spring 17**. Mega Bombs cost **fifteen eggs**. Magic Rock Candy is a **250-egg** limited purchase on Spring 17.
 
-For a first visit, it is reasonable to enjoy the stalls and return better equipped tomorrow. Three days give you a chance to adjust what you carry. Do not interpret one poor run as a requirement to gamble the rest of your equipment.
+Suppose your goal is ten Strawberry Seeds on the first day. You need fifty eggs. If an offered Deep Dive is completed, its reward covers that amount exactly; that is a budget comparison, not a promise that your character can reach floor thirty. Check health, arrival time, and the cost of your consumed supplies before choosing that route.
 
-On Spring 17, do the final shopping before leaving. Buy against the eggs you actually hold, then empty the temporary currency into purchases you value. For ordinary non-festival trips, the [bus errand guide](/guides/calico-desert-bus-errands/) gives a simpler route.
+A later Strawberry purchase also needs a planting decision. Seeds bought on the seventeenth do not receive the same harvest calendar as seeds planted after the Egg Festival on the thirteenth. Store them for another growing opportunity if the remaining season does not fit your goal.
+
+## A flexible three-day itinerary
+
+**Spring 15:** inspect stock, choose a reachable target, and buy any first-day item you care about. Do not save everything for the final day if that item's availability changes.
+
+**Spring 16:** use what the first visit taught you. Restock healing if combat ended early, or bring more free slots if shopping filled the bag. Check the new villager stalls before repeating yesterday's plan.
+
+**Spring 17:** earn only what still serves the final purchase, then shop before leaving. Count the eggs actually in your inventory. They carry between festival days but cannot be stored for next year and sell for zero gold.
+
+Keep an exit margin rather than spending the last useful minutes inside the cavern. Claim any eligible challenge rewards before shopping, and separate temporary currency from the ordinary shipping pile.
+
+For non-festival desert trips, use the [bus and trader errand plan](/guides/calico-desert-bus-errands/); its shop and travel assumptions are different.
+
+**Review:** 25 October 2026, unmodded 1.6. Prices and event mechanics are referenced; the itinerary and fifty-egg comparison are our planning examples.

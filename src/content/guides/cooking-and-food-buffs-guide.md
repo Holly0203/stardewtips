@@ -2,7 +2,7 @@
 title: "Cooking Guide: Learn Recipes and Use Food Buffs Without Replacing Them"
 description: "Unlock a kitchen, organize ingredients, and understand why healing food, buff meals, and drinks belong in different parts of your trip plan."
 pubDate: 2026-10-24
-updatedDate: 2026-10-24
+updatedDate: 2026-10-25
 category: "Getting Started"
 tags: ["cooking", "food", "buffs", "kitchen"]
 ---
@@ -51,13 +51,32 @@ This creates a practical two-part food loadout: the meal chosen for its effect, 
 
 Check the item description before the trip. “Cooked food” is not a single category with identical behavior, and a dish that looks more elaborate is not necessarily the best recovery item for the outing.
 
-## Build the loadout around the destination
+## Four foods with different jobs
 
-For a mine trip, ask whether the stack restores enough health, whether you can replace it affordably, and whether you can select it quickly. A rare meal you refuse to eat is less useful as emergency recovery than a reasonable stack you will use in time.
+The table uses ordinary quality, no Qi Seasoning. Recovery is shown as **energy / health**; a restoration value is not a sale price.
 
-For fishing, consider the planned session and the effect you want to maintain. Do not fill the bag with several incompatible buff meals unless switching effects is deliberate.
+| Food | Ingredients or accessible source | Recovery | Effect and intended job |
+|---|---|---|---|
+| Salad | 220g at the Saloon; cooking uses Leek, Dandelion, Vinegar | 113 / 50 | No buff; portable recovery without a kitchen purchase |
+| Cheese | Milk in a Cheese Press | 125 / 56 | Normal quality, no buff; recovery if the dairy already exists |
+| Dish O' The Sea | Two Sardines + one Hashbrowns; recipe at Fishing 3 | 150 / 67 | +3 Fishing; use for the fishing window |
+| Spicy Eel | Eel + Hot Pepper, or one Ruby at the Desert Trader | 115 / 51 | +1 Luck and +1 Speed; a travel/mining buff meal |
 
-Our [combat guide](/guides/combat-survival-guide/) and [bait and tackle guide](/guides/bait-and-tackle-guide/) cover those destination-specific preparations.
+Sources: [Salad](https://wiki.stardewvalley.net/Salad), [Cheese](https://wiki.stardewvalley.net/Cheese), [Dish O' The Sea ingredients and effect](https://stardewvalleywiki.com/Sardine#Recipes), and [Spicy Eel](https://wiki.stardewvalley.net/Spicy_Eel). Recipe ownership is still required when cooking. Buying or trading a finished meal does not teach its recipe.
+
+For Dish O' The Sea, Hashbrowns is itself a recipe: one Potato plus one Oil, with a recipe sold by Gus for 50g. Save both Sardines before cooking so a different generic-fish recipe does not consume them. See [Hashbrowns](https://wiki.stardewvalley.net/Hashbrowns).
+
+### Fishing example: buff meal plus recovery
+
+Eat Dish O' The Sea before the intended session. Keep Salad or ordinary Cheese for restoration while preserving its Fishing buff. Eating Spicy Eel afterward would replace the food buff with Luck and Speed, removing the Fishing bonus. A separate compatible drink can coexist with the chosen food effect.
+
+For a character using the +3 to meet a [legendary fish](/guides/legendary-fish-guide/) level threshold, that replacement changes eligibility as well as comfort. Check the active effect before another cast if a buff has expired.
+
+### Mining example: buy a small recovery stack
+
+Five Salads cost **1,100g** at the Saloon. That is a clear cash allowance for five recovery uses, not a guarantee of surviving a whole dungeon. Compare it with Cheese already produced at home before buying. Existing food has a sale opportunity cost, but buying a barn solely to supply one outing is a much larger project.
+
+Start with the stack you can replenish and learn how quickly it is used. The [combat guide](/guides/combat-survival-guide/) explains accessible hotbar placement; food stored safely at home cannot restore health mid-fight.
 
 ## Cook in batches that match actual demand
 
@@ -67,4 +86,4 @@ Do not assume cooking every ingredient improves its sale value. Choose dishes fo
 
 If your current problem is simply running out of stamina, our [energy guide](/guides/energy-management-tips/) can help reduce waste before you commit more resources to food production.
 
-**References:** kitchen cost checked against the Farmhouse page; ingredient access and buff rules against Cooking; television schedule against Queen of Sauce. References checked on 24 October 2026. Loadout and storage advice is our recommendation for unmodded 1.6, without assuming late-game seasoning or every recipe is unlocked.
+**References:** kitchen cost checked against the Farmhouse page; ingredient access and buff rules against Cooking; television schedule against Queen of Sauce. References reviewed on 25 October 2026. Loadout and storage advice is our recommendation for unmodded 1.6, without assuming late-game seasoning or every recipe is unlocked.

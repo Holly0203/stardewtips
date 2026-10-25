@@ -2,66 +2,47 @@
 title: "Farm Layout: Shorter Routes and Room to Expand"
 description: "Practical Stardew Valley farm layout advice — zones, sprinkler-first fields, scarecrow math, animal pens, and the beginner mistakes that cost the most time."
 pubDate: 2026-10-21
-updatedDate: 2026-10-24
+updatedDate: 2026-10-25
 category: "Farming"
 tags: ["farm layout", "farming", "efficiency", "beginner"]
 ---
 
-Walk from your house to the crops, animal buildings, and shipping bin. Those are the routes worth keeping short. Leave room for buildings you expect to add, then fit decoration around the paths you actually use.
+Lay out one watered block and walk through it before clearing space for a whole-farm design. The example below gives you thirty-two crop positions and a crossing aisle with four Quality Sprinklers. It is a starter module you can place on suitable tillable ground, rather than a claim that every farm map should look identical.
 
-> **At a glance**
->
-> - Keep fields, animals, processing, and trees in **four zones within ~30 seconds of the shipping bin**.
-> - **Sprinklers go on paths**, crops go between them — never plant a tile you plan to bury a sprinkler in later.
-> - Check a scarecrow’s actual range diagram; its radius is much larger than eight adjacent tiles.
-> - Fruit trees need the **8 tiles around their base empty** to mature; give them a dedicated orchard corner.
-> - Giant-crop blocks (3×3 of Cauliflower, Melon, or Pumpkin) work best on field edges, not in sprinkler grids.
+## A seven-by-seven field you can copy
 
-## Start with zones, not decorations
+[![Seven-by-seven field with four Quality Sprinklers and a central crossing aisle](/images/guides/quality-sprinkler-walking-layout.svg)](/images/guides/quality-sprinkler-walking-layout.svg)
 
-Split your farm into four areas and commit:
+Count columns left to right and rows from the top. Put Quality Sprinklers at **(2,2), (6,2), (2,6), and (6,6)**. Keep row 4 and column 4 as the walking aisle. Each remaining three-by-three block contains one sprinkler and eight crops: four blocks give **32 plants**.
 
-- **Crop fields** — the biggest rectangle of tillable soil, close to the house so the morning walk is short.
-- **Animal yard** — Coop and Barn next to each other, a fenced grass pen beside them, a **Silo placed out of the walking route**; its distance from the building does not affect hopper access.
-- **Processing corner** — Kegs, Cheese Press, Mayonnaise Machine, Preserves Jar in one cluster (or inside a Shed to save outdoor tiles).
-- **Orchard** — fruit trees along a border or a corner, spaced 3 tiles apart in a grid.
+That aisle uses space but leaves a clear approach from either side. Put any supply chest beyond the seven-by-seven boundary so it does not consume a watered crop position. Connect the near end of the aisle to the house route; leave the opposite end available for expansion.
 
-Keep the next building footprint open while you try the routes. You can adjust small groups of equipment before committing the whole farm to a pattern.
+The diagram is our tile plan, calculated from the [Quality Sprinkler's eight-tile range](https://wiki.stardewvalley.net/Quality_Sprinkler). Each square represents one farm tile. Water new dry crop tiles when planting: a sprinkler placed this afternoon first operates the next morning.
 
-## Fields: plant around automation, not the other way around
+## Add protection and check the crop type
 
-- **Sprinkler spacing comes first.** Quality Sprinklers on a 3-tile grid, Iridium on 5 — the exact math and recipes are in the [sprinkler guide](/guides/sprinkler-guide/). Decide your sprinkler plan, then build crop rows to fit it.
-- **Rows of 8, paths of 1.** With sprinklers buried in paths, a common pattern is 8-crop rows alternating with a path column — harvesting without walking on tilled soil.
-- **Group by harvest behavior.** Group crops by their actual collection schedule (Hops regrow daily; Blueberries and Cranberries take longer) so harvest is a single sweep, and single-harvest annuals in another so you can till and replant the whole patch in one go.
-- **Leave the center walkable.** Trees, buildings, and debris you can't remove should ring the field, not split it.
+A sprinkler and a scarecrow need different tiles. Place a scarecrow outside the module and check every crop against its range, using the [coverage diagram](/guides/scarecrow-range-rarecrow-checklist/). Do not count an uncovered corner as safe because the center of the field is protected.
 
-## Leave space for crop protection
+For ordinary walkable crops, the cross aisle gives a convenient harvest route. Trellises are different: filling every crop position in a three-by-three block can prevent access to a plant. Keep another reachable gap or choose a simpler single row before planting Beans or Hops. Count the reduced planting capacity instead of still buying thirty-two packets.
 
-A regular Scarecrow protects a roughly circular area extending eight tiles in the cardinal directions, not just the eight neighboring tiles. Rarecrows have the same ordinary range. The [Scarecrow reference](https://wiki.stardewvalley.net/Scarecrow) includes the coverage diagram and explains the Deluxe version.
+## Put buildings around the actual walking route
 
-Check outer field corners rather than assuming a large square is entirely covered. Place the scarecrow on its own accessible tile; it cannot share the same tile as a sprinkler. The [Greenhouse](/guides/greenhouse-guide/) does not need crow protection.
+Sketch the route from the house to this field, then to the animal doors and shipping bin. Put the first processing group along a route you already walk, leaving its collection side open. A shed helps when equipment begins consuming useful outdoor space; it is not required for a few machines.
 
-## The animal yard
+Reserve a future building's footprint before decorating the surrounding ground. The placement interface shows whether it fits, but you should also imagine approaching the door with a horse or carrying a full harvest. An apparently empty corner can be a poor choice if reaching it requires crossing every crop block.
 
-- **Fence grass inside the pen.** Grazing animals eat grass before hay, and regrowing grass inside the fence is a permanent hay discount.
-- **Keep Coop/Barn doors facing your walking path** — pets and egg pickups happen on the same stride.
-- **A heater in the building** for Winter (check Marnie’s shop) — animals inside a heated building don't lose mood in the cold.
-- Feeding and upgrade distinctions are explained in [the animals guide](/guides/animals-guide/).
+There is no universal thirty-second distance rule. A map with rivers, forest obstacles, or large water areas needs different paths from the Standard Farm. Start with the trips repeated most often on your save.
 
-## Buildings, paths, and the Marnie test
+## Keep grazing, tapping, and orchards distinct
 
-Every building costs daily walking time in footprint. Before ordering from Robin, ask: **will I visit this more than once a week?** Shed — yes. Wizard's tower — no, it's not yours. And lay flooring/paths from day one in the routes you actually walk (house → bin → fields → town): walking surfaces feel fast and make sprinkler rows legible.
+Leave grass near animal access and keep a route through the yard. Silo placement does not need to be next to a barn: stored hay is shared. Feeding still depends on the building's bench and whether it has an autofeeder. See [animal care](/guides/animals-guide/) before treating a fenced yard as a complete feeding system.
 
-## Common layout mistakes
+Keep saplings away from planned machine rows. Fruit trees need a clear growth area; a working oak tapper grove serves a different purpose and uses different spacing rules. Label a woodcutting area so clearing for another block does not remove the trees supplying your next Kegs.
 
-1. **Planting beyond your watering capacity** — try the current field before expanding it.
-2. **Trees scattered mid-field** — each sapling locks 8 untilled tiles for weeks.
-3. **Processing machines spread across the map** — artisan goods are a daily routine; cluster them.
-4. **Blocking your own shipping-bin path** with a new building (Robin's crew puts the footprint where you point — measure twice).
-5. **No storage chest near fields** — you'll make two trips per harvest instead of one.
+## Expand the part you actually use
 
-## Try the route before extending it
+Try the module through one harvest. If watering is covered but collection is awkward, fix the route before copying it. If every machine input chest is already backed up, decide what to sell before adding more planted blocks.
 
-Walk the proposed route with the tools you normally carry. Can you reach every machine, get animals in and out, and return to the house without a detour? Fix the awkward parts before copying the layout across more of the farm.
+The [sprinkler guide](/guides/sprinkler-guide/) shows other coverage sizes. The [Greenhouse plan](/guides/greenhouse-guide/) has its own twelve-by-ten coordinates; this outdoor cross-aisle pattern is not intended to fill that room.
 
-**Reference:** crow-protection range checked against the linked Scarecrow entry on 24 October 2026. This revision removes invented Quality/Elite scarecrow tiers and the suggestion that sprinklers and scarecrows share a tile.
+**Sources and scope:** [Quality Sprinkler](https://wiki.stardewvalley.net/Quality_Sprinkler), [Scarecrow](https://wiki.stardewvalley.net/Scarecrow), and linked care guides. Revised 25 October 2026 for unmodded 1.6. Diagram capacity is calculated; building positions depend on your map.

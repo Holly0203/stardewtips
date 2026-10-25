@@ -1,8 +1,8 @@
 ---
-title: "Stardew Valley Gift Guide: The Best Gifts for Every Villager"
-description: "The easiest loved gift for every Stardew Valley villager, their birthday, universal loves and hates, and the gem strategy that gifts all of town for free."
+title: "Easy Loved Gifts: Seven Villagers to Start With"
+description: "Seven checked loved-gift examples with birthdays, seasonal reserves, and a practical way to choose gifts for your first town visits."
 pubDate: 2026-10-21
-updatedDate: 2026-10-24
+updatedDate: 2026-10-25
 category: "Community"
 tags: ["gifts", "friendship", "villagers", "beginner"]
 ---
@@ -51,4 +51,4 @@ Choose a few villagers on a route you already use, take the intended items, and 
 
 For someone outside this table, use the [full gift reference](https://stardewvalleywiki.com/List_of_Best_Gifts_by_Villager) or the in-game log. Check exceptions before spending a rare item. This page deliberately keeps the starter list short enough to use without a large storage or travel routine.
 
-**References:** the linked character and item entries were checked on 24 October 2026. This revision replaces the earlier all-villager table, which contained incorrect preferences, and removes the claim that most villagers love gems.
+**References:** linked character and item entries support the seven examples. Scope and metadata reviewed 25 October 2026; this is a starter selection, not a complete villager directory.

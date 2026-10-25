@@ -2,7 +2,7 @@
 title: "25 Farm, Fishing, and Town Tips"
 description: "A curated list of 25 Stardew Valley tips — time-savers, hidden mechanics, money moves, and quality-of-life tricks that make your farm run smoother."
 pubDate: 2026-10-21
-updatedDate: 2026-10-24
+updatedDate: 2026-10-25
 category: "Getting Started"
 tags: ["tips", "tricks", "beginner", "roundup"]
 ---
@@ -22,7 +22,7 @@ These are small adjustments for common problems: a field that takes too long to 
 
 **2. Save gold for the Egg Festival (Spring 13).** ![Strawberry Seeds](/images/items/strawberry-seeds.png) Strawberry seeds cost 100g and regrow every 4 days for the rest of Spring — a useful option if you can support the extra watering.
 
-**3. Build a Silo before your first Coop or Barn.** Animals need hay every day, and Winter grass doesn't grow. A Silo (from Robin) banks the grass you cut with a scythe so it's there when snow arrives.
+**3. Build a Silo before your first Coop or Barn.** Animals need food on ordinary care days; grazing can supply it outside Winter. Winter grass is dormant in 1.6. A Silo (from Robin) banks the grass you cut with a scythe so it's there when snow arrives.
 
 **4. Count sprinkler coverage.** Basic, Quality, and Iridium Sprinklers water four, eight, and twenty-four neighboring tiles respectively without attachments. Check the [spacing guide](/guides/sprinkler-guide/) before expanding the field.
 
@@ -32,7 +32,7 @@ These are small adjustments for common problems: a field that takes too long to 
 
 **6. Frustrated by the minigame? Buy the Training Rod (25g).** Willy sells it from day one. Its green bar is enormous and it only bites on common fish — perfect for banking levels 1–2 before the ![Fiberglass Rod](/images/items/fiberglass-rod.png) Fiberglass Rod at 1,800g. More in the [fishing guide](/guides/fishing-guide-beginners/).
 
-**7. Tap, don't hold.** The green bar tracks the bobber — rapid taps keep it steady where one long press overshoots.
+**7. Use short taps for small corrections.** Keep the fish icon inside the green bar. Holding raises the bar; releasing lowers it.
 
 **8. Match the fish to the conditions.** Check location, season, time, and weather before choosing a spot. Rain helps with particular fish; it is not a universal requirement.
 
@@ -40,17 +40,17 @@ These are small adjustments for common problems: a field that takes too long to 
 
 ## Mining
 
-**10. Use the elevator.** It activates every 5 floors. Never try to clear 40 floors in one trip — bank progress instead of risking a blackout with all your ore.
+**10. Use the elevator.** It activates every 5 floors. For a beginner, aim at the next checkpoint instead of treating a forty-floor push as the requirement for a useful trip.
 
 **11. Put food beside the weapon.** Take enough recovery food for the outing and make it easy to select. The [combat guide](/guides/combat-survival-guide/) covers the setup.
 
-**12. Carry Cherry Bombs.** They clear clusters of stone faster than a pickaxe, damage whole groups of monsters, and open blocked passages — cheap insurance past floor 40.
+**12. Use bombs for useful rock clusters.** Move clear of the blast, and carry healing. A small cluster may be cheaper to mine by hand than to spend a bomb on.
 
 **13. Save recyclable glasses and CDs.** They provide Refined Quartz through a [Recycling Machine](/guides/recycling-machine-guide/). Keep a small reserve if upcoming recipes need it.
 
 ## Money
 
-**14. Artisan goods multiply everything.** Preserves Jars and Kegs turn raw crops into wine, juice, pickles, and jelly at roughly 2–3× value. ![Hops](/images/items/hops.png) Hops → Pale Ale is one of the strongest ratios in the game.
+**14. Compare processing with the raw sale.** Ordinary Wine uses 3× fruit base value; crop preserves use 2× base value + 50g. Input stars do not improve ordinary bottles or jars, and special recipes differ. The [machine comparison](/guides/keg-vs-preserves-jar/) includes the waiting time.
 
 **15. Budget the building before buying pigs.** Pigs require the Deluxe Barn unlock. Include the building tiers, feed, and collection routine before planning around truffle income.
 
@@ -60,7 +60,7 @@ These are small adjustments for common problems: a field that takes too long to 
 
 ## Friendship
 
-**18. Never miss a birthday.** Birthday gifts give **8× the normal friendship** — one loved item on the right day is worth eight ordinary gift-givings. The town board in Pierre's lobby and the calendar list every date.
+**18. Never miss a birthday.** Birthday gifts give **8× the normal friendship** — one loved item on the right day is worth eight ordinary gift-givings. The calendar is outside Pierre's, left of the shop door beside the Help Wanted board.
 
 **19. Check the recipient before giving a gem.** Loved and liked preferences differ. The [gift ideas](/guides/best-gifts-villagers/) page provides a short checked starter list.
 
@@ -68,7 +68,7 @@ These are small adjustments for common problems: a field that takes too long to 
 
 ## Quality of life
 
-**21. Watch TV every morning.** The Fortune Teller tells you today's luck (good luck = better fishing treasure and mineral-chance drops), the weather report plans your watering, and the cooking and farming channels show seasonal recipes.
+**21. Watch TV every morning.** The Fortune Teller reports daily luck, which affects systems such as fishing treasure and mine ladder chances. The weather report helps plan watering; Queen of Sauce teaches recipes on its schedule. Luck does not improve stored geode contents.
 
 **22. Finish today’s watering before handing in the can.** If tomorrow is rainy, the field can manage that day without it. Check collection-day shop access using the [tool guide](/guides/tool-upgrades-guide/).
 
@@ -76,10 +76,10 @@ These are small adjustments for common problems: a field that takes too long to 
 
 **24. Use storage where it saves a repeated trip.** Put a chest near a useful work area, keeping paths clear. You do not need one at every field edge.
 
-**25. Be in bed by midnight.** Past midnight, your next-day energy shrinks hour by hour — and a 2am blackout costs up to 1,000g.
+**25. Be in bed by midnight.** Late sleep and exhaustion can reduce recovery, while 2am forces a collapse. Penalties depend on circumstances; do not confuse a time collapse with the inventory losses from losing all health.
 
 ## Pick one change for the next day
 
 If mornings are crowded, start with watering or storage. If trips end early, prepare food and backpack space. The [new farmer’s reading path](/start-here/) links the longer explanations in a useful order.
 
-**References:** the linked topic guides provide the mechanics and sources behind these suggestions. The 24 October 2026 revision corrects sprinkler coverage, Traveling Cart location, Rare Seed output, and the pig building requirement.
+**References:** [Calendar location](https://wiki.stardewvalley.net/Calendar), [Energy](https://wiki.stardewvalley.net/Max_Energy), and [processing formulas](https://wiki.stardewvalley.net/Keg), reviewed 25 October 2026. Linked topic guides explain exceptions and full preparation steps.

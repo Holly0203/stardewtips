@@ -2,32 +2,47 @@
 title: "Mahogany Trees: Build a Hardwood Supply You Can Replant"
 description: "Reserve Mahogany Seeds, use Tree Fertilizer without promising a fixed harvest date, and balance plantation space with daily hardwood trips."
 pubDate: "2026-10-25"
+updatedDate: 2026-10-25
 category: "Farming"
-tags: ["farming", "stardew valley 1.6"]
+tags: ["mahogany", "hardwood", "tree fertilizer", "tree layout"]
 ---
 
-Keep the Mahogany Seeds before selling spare materials. Hardwood projects often arrive in groups, and replacing harvested trees is easier when the next planting is already set aside.
+Save the first Mahogany Seeds you find and plant a small patch before the next Hardwood project is urgent. A plantation supplies future harvests; it cannot guarantee the materials for a building you want to order tomorrow.
 
-## Expect variable growth
+## Find the first seeds
 
-Mahogany Trees supply Hardwood when chopped, while tapping them produces Sap. Their growth is random; Tree Fertilizer improves the nightly chance of advancing and allows fertilized growth through Winter. The [Mahogany Tree reference](https://stardewvalleywiki.com/Mahogany_Tree) lists the growth probabilities and a variable Hardwood yield.
+[Mahogany Seeds](https://wiki.stardewvalley.net/Mahogany_Seed) can come from chopping Large Stumps or Large Logs, killing Secret Woods Slimes, and shaking or chopping established Mahogany Trees. Those are chances, not one seed guaranteed per stump. Later, the Island Trader exchanges one Stingray for a seed. From 1.6.6, the Raccoon Wife also offers a twenty-Coal exchange after four requests.
 
-Do not schedule a building around the assumption that every seed planted today will mature on one exact date. Fertilizer improves your supply prospects, but it is not a guaranteed delivery appointment. Plant ahead of demand and retain a reserve.
+For an early supply, combine seed attempts with the [Secret Woods Hardwood route](/guides/secret-woods-hardwood-guide/). You still get the stump materials when no seed appears. That makes the outing useful while the plantation is only beginning.
 
-## Start with a small, readable plantation
+Do not sell the seed just because the item has a visible sale value. If you have no established Mahogany Trees, planting it creates a different opportunity from shipping one more small item.
 
-Choose an area where you can walk between trees and see which are mature. Avoid crowding a permanent travel route with seeds. A grid that looks efficient while empty can become awkward once the canopies grow.
+## Six planting positions with room to walk
 
-This is a common-tree planting, not a fruit orchard. Use the right growth rules for the species rather than copying the [fruit-tree spacing plan](/guides/fruit-tree-planting-guide/). Leave enough space for growth and access, then inspect the patch periodically instead of spending every morning checking each seed.
+[![Six Mahogany planting positions separated by empty tiles in a seven-by-five patch](/images/guides/mahogany-planting.svg)](/images/guides/mahogany-planting.svg)
 
-For a first planting, use only the area you can spare without moving buildings or cutting off an important path. Expand after one harvest shows how the supply fits your needs.
+In this original example, plant at **(2,2), (4,2), (6,2), (2,4), (4,4), and (6,4)**. Keep the intervening tiles open for growth and collection. This uses common-tree spacing rather than the larger fruit-tree orchard arrangement.
 
-## Split the harvest into stock and replacement
+Before planting, clear the area and choose a permanent approach from the farm path. After harvesting, return a seed to the same marked position so the patch remains easy to count. A path or sign outside the planting positions can help distinguish this group from trees you intend to clear for ordinary Wood.
 
-Before spending the Hardwood, list the projects you already intend to build. Set their requirements aside, then decide what is genuinely surplus. A chest labeled for a planned construction is more useful than a single undifferentiated stack that gets consumed by small recipes.
+## Fertilizer improves chances, not a deadline
 
-Reserve seeds for replacement and plant them promptly. Harvesting every mature tree without replanting creates a gap that fertilizer cannot instantly repair. Staggered plantings make it less likely that all your supply is waiting at the same growth stage.
+An unfertilized seed has a fifteen-percent nightly chance to advance; Tree Fertilizer raises it to sixty percent and allows fertilized growth during Winter. The [Mahogany Tree reference](https://wiki.stardewvalley.net/Mahogany_Tree) documents the growth and chopping yield.
 
-If you need Hardwood immediately, the [Secret Woods route](/guides/secret-woods-hardwood-guide/) can supplement the plantation. Treat the repeatable trip as short-term supply while the trees establish, rather than expecting a new planting to solve today's shortage.
+Those probabilities explain why six trees planted together can mature on different days. Apply Tree Fertilizer when you have it and want the supply sooner, but count mature trees rather than assuming the entire patch will be ready after a fixed week.
 
-For machines that actually need resin, syrup, or tar, keep a separate [tapper grove](/guides/tapper-tree-products-guide/). A Mahogany plantation and a tapper grove serve different material needs. Preserving both can prevent a construction project from quietly consuming the trees that support your next machine batch.
+A chopped tree gives a variable **8–13 Hardwood**. At that documented range, six completed harvests would supply **48–78 Hardwood**, before relevant profession effects. That is a range calculation, not a promise about the next six trees. Budget a time-sensitive purchase using materials already in storage.
+
+## Keep the next planting alive
+
+Before chopping the last established tree, check your seed reserve. Shaking mature trees can supply additional seed opportunities, so retaining one while new plantings establish may be useful. Once replacement seeds are available, harvest the mature positions you need and replant.
+
+A simple staggered plan is to plant three positions first and the other three when the next seeds arrive. It gives the patch two age groups without requiring a complicated calendar. If every tree is harvested together, expect a period with no mature supply while the next generation grows.
+
+## Reserve Hardwood by the next recipe
+
+Put the building or machine requirement aside before spending the remainder. Six immature trees should not be counted as finished boat-repair materials. Keep gathering from established sources while the new patch develops.
+
+Tapping Mahogany produces Sap, not Hardwood. If Hardwood is the goal, do not install tappers expecting a recurring Hardwood output. Use a separate [tapper grove](/guides/tapper-tree-products-guide/) for Resin, Syrup, and Tar, and the [farm layout guide](/guides/farm-layout-tips/) for keeping these production areas out of daily travel paths.
+
+**Review:** 25 October 2026. Sources above describe unmodded 1.6; the Raccoon exchange specifically needs 1.6.6 or later. The six-tree totals use the documented yield range.

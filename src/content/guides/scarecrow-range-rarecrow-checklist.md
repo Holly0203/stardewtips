@@ -2,6 +2,7 @@
 title: "Scarecrows and Rarecrows: Check the Corners Before Expanding"
 description: "Understand ordinary scarecrow range, collect the eight rarecrows for the Deluxe recipe, and distinguish decoration from extra crop protection."
 pubDate: "2026-10-24"
+updatedDate: 2026-10-25
 category: "Farming"
 tags: ["scarecrow", "rarecrow", "crows", "layout"]
 ---
@@ -17,6 +18,14 @@ The [Scarecrow reference](https://wiki.stardewvalley.net/Scarecrow) shows the or
 That means counting eight tiles straight east does not prove the tile eight east and eight north is protected. The diagonal corner is farther away. Use the diagram and inspect the field outline rather than treating radius as a fully covered square.
 
 For a long narrow field, one placement may work differently from the same crop count arranged in a wide rectangle. Crop count alone is therefore not enough to choose the number of scarecrows.
+
+## A range diagram with the corners removed
+
+[![Regular Scarecrow range: seventeen-by-seventeen boundary with ten excluded cells in each corner](/images/guides/scarecrow-range.svg)](/images/guides/scarecrow-range.svg)
+
+The center is the equipment tile. Green cells are protected; marked gray corners are outside range. The 249-cell shape includes the scarecrow itself, leaving 248 surrounding positions. The diagram follows the documented coverage shape.
+
+When checking a field, align the diagram's center with the scarecrow, then compare every planted edge. Checking a horizontal and a vertical edge alone misses the corner problem. If a new crop block extends into gray cells, move protection or add another scarecrow before relying on it.
 
 ## Place it on its own tile
 
@@ -34,17 +43,22 @@ The recipe letter may arrive on a subsequent night rather than immediately on th
 
 A larger radius can simplify a developed field. It does not mean the first-year farm needs to finish every festival and collection milestone before planting ordinary crops.
 
-## Make the collection list by source
+## Eight Rarecrows: a source checklist
 
-Use the full Rarecrow list in the ordinary Scarecrow reference and group missing pieces into practical categories:
+| Number | First source | Price or requirement |
+|---|---|---|
+| 1 | Stardew Valley Fair | 800 Star Tokens |
+| 2 | Spirit's Eve | 5,000g |
+| 3 | Casino | 10,000 Qi Coins |
+| 4 | Festival of Ice; sometimes Traveling Cart in Fall/Winter | 5,000g at the festival; 4,000g cart option |
+| 5 | Flower Dance | 2,500g |
+| 6 | Dwarf shop | 2,500g; translation and access needed |
+| 7 | Museum | Donate 20 artifacts; minerals do not count toward this target |
+| 8 | Museum | Donate 40 total items |
 
-- Festival purchases to remember before starting the activity that ends the event.
-- Museum rewards to claim after the relevant donation milestone.
-- Purchases from areas you have not yet unlocked.
+The [Rarecrow list](https://wiki.stardewvalley.net/Scarecrow#Rarecrows) also documents later Night Market replacement purchases for the Museum rewards once earned. Count different numbers, not total scarecrows owned. A duplicate festival purchase cannot replace the missing Casino type.
 
-That grouping is more useful than attempting to finish the full list during one town trip. Reserve the currency needed for a planned purchase, and distinguish event tokens from ordinary gold.
-
-The [Fair guide](/guides/stardew-valley-fair-grange-guide/) and [Museum guide](/guides/museum-donation-guide/) cover two of those systems without treating their rewards as interchangeable.
+For event purchases, buy before starting an activity that ends the festival. Put the proper currency in the plan: Star Tokens and Qi Coins are not ordinary gold. The [Fair guide](/guides/stardew-valley-fair-grange-guide/) explains one of those currency systems; [Museum milestones](/guides/museum-donation-guide/) distinguish artifact-only and total counts.
 
 ## Where an extra scarecrow is unnecessary
 
@@ -60,4 +74,4 @@ Count the missing collection types, then examine the current field's uncovered t
 
 When expanding, plant the boundary you intend to use and recheck the range diagram. That small inspection is easier than discovering several harvests later that the prettiest corner of the field was outside protection.
 
-**References:** ordinary shape, Rarecrow behavior, and exemptions checked against Scarecrow; recipe and unlock timing against Deluxe Scarecrow, on 24 October 2026. Coverage advice uses unmodified range and separate equipment tiles.
+**References:** ordinary shape, Rarecrow behavior, and exemptions checked against Scarecrow; recipe and unlock timing against Deluxe Scarecrow, on 25 October 2026. Coverage advice uses unmodified range and separate equipment tiles.

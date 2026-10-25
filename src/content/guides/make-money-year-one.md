@@ -1,66 +1,62 @@
 ---
 title: "Year 1 Income: Fishing, Crops, and Processing"
-description: "Compare first-year income options and plan spending so seeds, food, and farm supplies stay covered between harvests."
+description: "A worked 1,000g Spring planting budget, exact harvest and payment dates, and practical choices between fishing, raw sales, and processing."
 pubDate: 2026-10-21
-updatedDate: 2026-10-24
+updatedDate: 2026-10-25
 category: "Getting Started"
 tags: ["money", "beginner", "farming", "fishing", "mining"]
 ---
 
-Fish between harvests, keep enough gold for the next planting, and buy processing machines when you can keep them supplied. The balance changes as the farm grows. This plan compares those options without assuming every day goes perfectly.
+Keep the next seed purchase affordable before chasing the largest eventual sale price. Early income is useful when it arrives before the expense it must pay. The Spring example below shows how a small field can fund a modest festival purchase without assuming a fixed daily fishing income.
 
-## Keep the next expense covered
+## A 1,000g Spring budget with an actual return date
 
-Before buying more seeds or another machine, set aside what the farm needs to operate until the next sale. That might be replacement seeds, animal feed, food for an outing, or a planned tool payment.
+Suppose it is **Spring 6**, you have **1,000g**, and twenty watered crop positions are manageable. This is a planning scenario, not the starting cash in a new save.
 
-A profitable harvest on paper can still leave an awkward gap if every coin was spent planting it. Sell part of a crop directly when the immediate cash is more useful than waiting for a higher processing price.
+| Allocation | Cost | Ordinary harvest date if planted Spring 6 |
+|---|---:|---|
+| Ten Potato Seeds at 50g | 500g | Spring 12 |
+| Ten Parsnip Seeds at 20g | 200g | Spring 10 |
+| Cash kept available | 300g | Available immediately |
 
-For a new Standard Farm, the [first-week plan](/guides/first-week-guide/) keeps the initial planting manageable. Other maps can start with different supplies and opportunities.
+At normal quality with no professions or growth bonuses, ten Parsnips sell for **350g**. Ten Potatoes provide at least a one-per-plant baseline of **800g**, with possible extras excluded. Total crop sales are **1,150g** against **700g** in seeds: **450g above seed cost**.
 
-## Fishing between harvests
+If both harvests are shipped on their dates, the 300g retained plus 1,150g sales gives **1,450g on Spring 13**, provided you made no other purchases. Ten Strawberry Seeds then cost 1,000g and leave 450g.
 
-Fishing gives you something productive to do while crops grow. Its usefulness depends on catches you can land, available energy, and how far you have to travel.
+If you keep one Parsnip and one Potato for bundles, sales drop by 35g + 80g. Your festival-morning balance becomes **1,335g**, leaving **335g** after the same ten-seed purchase. Those reserves have a purpose; they are not a budgeting failure.
 
-Begin with a convenient spot and a rod you can control. Keep any needed bundle catches, then sell what you do not intend to use. The [beginner fishing guide](/guides/fishing-guide-beginners/) covers the first rod choices and why practice often matters more than an immediate expensive upgrade.
+Seed prices, base values, and growth rules follow [Parsnip](https://wiki.stardewvalley.net/Parsnip) and [Potato](https://wiki.stardewvalley.net/Potato). The example assumes daily watering, no crop loss, and twenty plants you can actually maintain. A missing day of water shifts the payment date and can break the festival timing.
 
-Do not budget a fixed amount for every fishing day. Weather, time, skill, and the fish you keep all affect the amount you actually sell.
+## If the plan is too large, shrink the purchase
 
-## Match crops to the calendar and your chores
+Twenty manual watering actions are a continuing energy cost. If that already prevents outings you enjoy, use fewer plants and choose a smaller Strawberry budget. You do not need ten seeds for the festival to be worthwhile.
 
-For a single-harvest crop, compare the seed cost, growing time, and likely sale. For a regrowing crop, count the harvests remaining from the date you actually plant it.
+Protect the money already allocated to food or a tool collection. In the example, spending 250g on another item reduces the final balance by exactly 250g unless a new sale replaces it. Do not count both the full cash reserve and an item purchased with that reserve as spendable gold.
 
-A field that consumes the entire morning can crowd out other income and exploration. Expand only when watering, harvesting, and the next seed purchase fit the routine. Use the [Spring](/guides/spring-crop-guide/), [Summer](/guides/summer-crop-guide/), and [Fall](/guides/fall-crop-guide/) plans for dated examples and base prices.
+The [first-week route](/guides/first-week-guide/) covers reaching this stage. The [Egg Festival guide](/guides/egg-festival-strawberry-plan/) explains shopping before the hunt and the harvest dates after planting.
 
-Save bundle items before selling the whole harvest. Replacing a missing seasonal crop later can cost more attention than keeping one now.
+## Use fishing to fill a measured cash gap
 
-## Forage for a purpose
+After watering, fish with equipment you can control. Sell the catches you do not need, and count the actual sale value rather than assigning a guaranteed wage to every session. A short outing can vary with skill, conditions, and what you keep.
 
-Forage can provide sale items, gifts, food, or bundle supplies. Pick useful items on a route you are already walking, and separate edible recovery food from items you plan to sell.
+For example, if your next purchase needs another 300g, inspect the saleable catch stack when you return. Once it covers the gap, the next session can serve a different goal. You do not need to keep fishing solely because an income schedule said to fish all day.
 
-An extra long circuit may be enjoyable, but compare its travel time with your other goals. Calling forage “free” does not mean it requires no time or backpack space.
+When money is needed **today**, sell accepted fish directly to Willy during shop access. The Shipping Bin pays after sleep. Our [sale-route guide](/guides/shipping-bin-or-shop/) explains why equal sale prices can still produce different purchase timing.
 
-Keep a few seasonal items only when they serve a current need. A chest full of unsorted possibilities is difficult to use when money is short.
+## Process the portion that can wait
 
-## Mining supports the next equipment step
+Ordinary low-quality crops are often useful processing inputs, while high-quality raw copies may earn more immediate cash. A higher finished price also locks up both the ingredient and a machine until collection.
 
-Ore can become bars for tools, sprinklers, and machines. That contribution matters even when the trip's raw sale income is small. Choose a material target instead of selling every useful bar and then paying to replace it.
+Consider an ordinary 80g Potato. Pickles sell for **210g** before Artisan: 2 × 80 + 50. That adds **130g** above the raw sale, but arrives later and occupies a jar. If the raw sale is needed for tomorrow's seeds, reserve the direct-sale portion first.
 
-The [mining guide](/guides/mining-guide-beginners/) explains checkpoint trips and safe packing. For collection progress, save new [Museum donations](/guides/museum-donation-guide/) before selling duplicates.
+The [Preserves Jar reference](https://wiki.stardewvalley.net/Preserves_Jar) supports that formula. The [Keg comparison](/guides/keg-vs-preserves-jar/) adds machine-time tradeoffs. A theoretical warehouse of future wine should not be part of today's available balance.
 
-Random rare drops are a bonus, not a dependable source for tomorrow's seed payment.
+## Mining income can be equipment rather than cash
 
-## Processing when capacity is ready
+Keep ore intended for the next bars instead of selling it and buying replacement materials later. A mining trip that supplies a useful [sprinkler batch](/guides/sprinkler-guide/) can contribute to the farm even if its direct shipping total is small.
 
-A Keg or Preserves Jar adds value to suitable inputs, but ties up the machine and delays the sale. Compare both finished price and processing time. The [keg versus jar guide](/guides/keg-vs-preserves-jar/) gives formulas, recipes, and examples without treating one machine as the answer to every crop.
+Set the recipe target first, then gather its missing ore and fuel. Rare drops can be welcome extra value, but should not be the source you depend on for a payment due tomorrow.
 
-Start with a small queue you can keep supplied. If it clears easily, expand when the material cost is affordable. If it is already backed up, decide what to sell directly before reserving another whole harvest.
+At the season change, compare the cash already available with the next planting and feed bills. Use the [Summer crop calendar](/guides/summer-crop-guide/) for the next field rather than blindly copying a Spring budget into a different seed market.
 
-A higher-quality input does not automatically produce a better bottle or jar. Inspect the processing rule before keeping only the most valuable raw items for the machines.
-
-## Reconsider spending at each season change
-
-Ask what repeatedly ended the previous month's work: energy, travel, storage, equipment, or cash. A purchase that addresses that problem is easier to justify than another expansion made simply because there is spare ground.
-
-In Winter, keep animal care and any active planting funded. The [Winter plan](/guides/winter-guide/) offers projects that can wait until ordinary outdoor cropping slows down.
-
-**References:** linked topic guides contain the supporting prices, growth calendars, and machine rules. The 24 October 2026 revision removes unsupported income promises and incorrect machine recipes, tapper prices, and Rare Seed output claims. This is a spending framework, not a guaranteed first-year earnings target.
+**Review:** 25 October 2026, unmodded 1.6. Balances use the seed bills, harvest dates, and base prices shown above. Quality, professions, missed watering, extra Potato yields, and additional purchases change the result.

@@ -2,7 +2,7 @@
 title: "Community Center Guide: Standard Bundles and Room Rewards"
 description: "Plan standard Community Center bundles, keep seasonal items, and choose which room rewards to work toward first."
 pubDate: 2026-10-21
-updatedDate: 2026-10-24
+updatedDate: 2026-10-25
 category: "Community"
 tags: ["community center", "bundles", "beginner", "progression"]
 ---
@@ -30,13 +30,19 @@ Keep a small reserve at home for what you still need. Carry it when you intend t
 
 Completing an individual bundle and completing a room are separate reward steps. Claim available bundle rewards rather than assuming they will enter the backpack automatically.
 
-## Keep a short seasonal crop list
+## Seasonal crop checklist for standard bundles
 
-For standard Spring Crops, save a Parsnip, Green Bean, Cauliflower, and Potato. Plant the slower crop early enough to finish before the season changes. Use the same approach for the later crop bundles: read the list before the first large sale.
+Keep one of each named crop for its seasonal crop bundle, unless another quantity is shown here:
 
-Quality Crops has selectable sets; do not assume you must complete every displayed option. Count the qualifying crops in storage rather than estimating from the size of a field.
+| Season | Crop bundle reserve | Other planting to plan |
+|---|---|---|
+| Spring | Parsnip, Green Bean, Cauliflower, Potato | Five gold Parsnips if using that Quality Crops set |
+| Summer | Tomato, Hot Pepper, Blueberry, Melon | Five gold Melons and/or Corn for Quality Crops |
+| Fall | Corn, Eggplant, Pumpkin, Yam | Five gold Pumpkins or Corn for an unfinished quality set |
 
-The [Spring](/guides/spring-crop-guide/), [Summer](/guides/summer-crop-guide/), and [Fall](/guides/fall-crop-guide/) plans help place those reserves alongside ordinary income crops. A few reserved plants can satisfy a collection goal without turning the whole field into a bundle project.
+Quality Crops needs **three of four sets**, each set being five gold-or-better crops: Parsnip, Melon, Pumpkin, Corn. That is fifteen qualifying crops across three chosen sets, not five mixed crops. Corn can cover Summer or Fall planning, but use separate copies for ordinary and quality donations.
+
+Plant a single Bean with access around its trellis; plant the slow Cauliflower early. These are small collection commitments, so you can keep the rest of the field focused on income. The [Spring](/guides/spring-crop-guide/), [Summer](/guides/summer-crop-guide/), and [Fall](/guides/fall-crop-guide/) calendars help place harvests before the season boundary.
 
 ## Check fishing conditions ahead of time
 
@@ -46,13 +52,15 @@ Use the [fishing guide](/guides/fishing-guide-beginners/) to prepare the rod and
 
 Missing one seasonal fish is inconvenient, but it does not mean the save has failed. Continue the rooms you can progress and keep the missed condition on the next-season list.
 
-## Which room should come first?
+## Three ways to choose the next room
 
-If you mine regularly and can supply the materials, minecart access is a useful early goal. If you want year-round growing, the Pantry deserves attention. The Vault is a gold project that competes with seeds, buildings, and tools.
+**You regularly mine:** inspect the Boiler Room first. Its standard Blacksmith bundle needs one Copper, Iron, and Gold Bar; Geologist needs Quartz, Earth Crystal, Frozen Tear, and Fire Quartz; Adventurer takes two of Slime (99), Bat Wing (10), Solar Essence (1), and Void Essence (1). That is a precise gathering list for the minecart reward, not a reason to delay a rare seasonal item elsewhere.
 
-There is no fixed room order that suits every map and play style. Look at the next few missing items and choose the reward you can use. A room that needs another season's produce is not something to rush by repeating today's chores harder.
+**You want Winter growing:** work backward from the Pantry. Crop donations have seasonal windows; animal products need buildings and mature animals. The Animal bundle takes five of six choices, while Artisan takes six of twelve. Choosing a feasible subset can avoid buying an entire production system for one optional slot.
 
-The [Greenhouse guide](/guides/greenhouse-guide/) explains what its reward lets you grow, so you can judge whether the extra effort fits your current farm.
+**Your missing tasks are mostly seasonal:** reserve their outputs first, then spend spare effort on the Vault's gold payments. Do not ship the only required crop to bring a cash payment forward by one day. A near-complete room is a useful priority only when its remaining inputs are actually available.
+
+These are standard-bundle rules from the [bundle tables](https://stardewvalleywiki.com/Bundles). A remixed save must use its displayed scrolls instead. The [Greenhouse plan](/guides/greenhouse-guide/) shows what the Pantry reward can support once unlocked.
 
 ## The Joja alternative
 
@@ -64,4 +72,4 @@ Do not join merely because an ordinary item is missing this week. Equally, you d
 
 Check the bundle screen, count the exact items in your reserve, and leave space for rewards. If the next missing item needs a crop to mature or an animal to develop, make that a future task instead of packing unrelated supplies.
 
-**Reference:** room rewards, slot rules, and the Spring example checked against the [standard Bundles page](https://stardewvalleywiki.com/Bundles) on 24 October 2026. This revision replaces the earlier incomplete “every bundle” list and removes the false promise of a first-Spring Quarry from seasonal bundles.
+**Reference:** [Standard Bundles](https://stardewvalleywiki.com/Bundles), reviewed 25 October 2026. This page gives seasonal crop and Boiler Room checklists; other rooms still require checking the individual live scroll for quantities and options.

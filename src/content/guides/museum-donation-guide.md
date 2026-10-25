@@ -2,7 +2,7 @@
 title: "Museum Donation Guide: Organize Finds Without Losing Useful Reserves"
 description: "Track new museum donations, manage duplicates, plan collection trips, and keep a small reserve for crafting and later projects."
 pubDate: 2026-10-24
-updatedDate: 2026-10-24
+updatedDate: 2026-10-25
 category: "Community"
 tags: ["museum", "artifacts", "minerals", "collections"]
 ---
@@ -51,13 +51,37 @@ Use milestones as direction, not a reason to abandon everything else. If your ne
 
 When you do claim a reward, inspect what it is and decide where it belongs. A seed packet is not necessarily ready to plant in the current season. Store it with the relevant seasonal plan instead of putting it immediately into the soil because it was free.
 
-## Treat unusual first finds as a decision point
+## Three first finds worth treating differently
 
-Some items have important uses beyond donation. When you find something rare for the first time, read its specific entry and your active goals before choosing its destination. Do not apply “always donate the first one” without considering what you are delaying.
+| First find | Practical next action | What you gain or postpone |
+|---|---|---|
+| Ancient Seed artifact | Donate it, then claim the reward | One plantable Ancient Seeds packet and the recipe converting later artifacts |
+| Dinosaur Egg | Consider incubating before donating | A Dinosaur can produce another egg for the Museum |
+| Prismatic Shard | Consider the Galaxy Sword before donating | A weapon unlock may help collect later replacements |
 
- Reserve the extra attention for finds that are difficult to replace or clearly connected to another unlock.
+The first row uses the small artifact, not the similarly named plantable packet. Put the packet into your growing plan after claiming it; do not attempt to donate it as another artifact.
 
-If your larger priority is bundles, compare those needs in the [Community Center guide](/guides/community-center-guide/) as well. The Museum and Community Center are separate systems, and progress in one does not automatically satisfy the other.
+A [Dinosaur Egg](https://wiki.stardewvalley.net/Dinosaur_Egg) can be incubated in a Big or Deluxe Coop with capacity for the animal. If the incubator or room is missing, store the egg until that plan is funded. Processing the only egg into Mayonnaise does not preserve the breeding opportunity.
+
+A [Prismatic Shard](https://wiki.stardewvalley.net/Prismatic_Shard) has several uses. For the Galaxy Sword, hold it at the center of the three desert pillars. Keep it outside cooking, gifts, and ordinary sale stock while deciding. The Museum still needs its own copy later; a weapon exchange does not count as a donation.
+
+These are priorities you can choose, not a command to delay every rare donation. If the alternative unlock is already completed, donating the next copy can be the straightforward decision.
+
+## Useful rewards and what the counter means
+
+| Donation milestone | Reward to plan around |
+|---|---|
+| 5 total items | Nine Cauliflower Seeds |
+| 10 total items | Nine Melon Seeds |
+| 40 total items | Rarecrow number 8 |
+| 60 total items | Rusty Key, delivered the next day |
+| All 95 | Stardrop |
+| 20 artifacts | Rarecrow number 7 |
+| 50 minerals | Crystalarium |
+
+Artifact and mineral milestones are subsets of the total, not additional copies required after reaching it. A large mineral collection alone cannot earn the twenty-artifact Rarecrow.
+
+For seed rewards, check the season before planting. For the Rusty Key, leave room in tomorrow's plan for delivery rather than trying the Sewer lock immediately after today's sixtieth donation. The [Museum reward table](https://wiki.stardewvalley.net/Museum) lists intermediate decorative rewards as well.
 
 ## Arrange displays for readability
 
@@ -67,4 +91,4 @@ If you are close to completion, use the collection reference to check specific m
 
 For steady new discoveries, return to a manageable [mining routine](/guides/mining-guide-beginners/) and bring the results home safely. Collection progress tends to be easier to maintain when it fits around activities you already enjoy.
 
-**References:** donation rules, description behavior, rearranging, and milestone totals checked against the [Museum Wiki entry](https://wiki.stardewvalley.net/Museum) on 24 October 2026. Trip planning assumes an unmodded 1.6 game.
+**References:** donation rules, description behavior, rearranging, and milestone totals checked against the [Museum Wiki entry](https://wiki.stardewvalley.net/Museum) on 25 October 2026. Trip planning assumes an unmodded 1.6 game.

@@ -97,6 +97,17 @@ img {
   display: inline-block;
 }
 
+/* Article diagrams need their natural aspect ratio rather than item-icon sizing. */
+.prose img[src^="/images/guides/"] {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 1.5rem auto;
+  vertical-align: baseline;
+  image-rendering: auto;
+  border-radius: 12px;
+}
+
 .container {
   max-width: var(--max-wide);
   margin: 0 auto;

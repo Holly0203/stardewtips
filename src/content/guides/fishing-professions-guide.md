@@ -2,7 +2,7 @@
 title: "Fisher or Trapper? Choose Fishing Professions for Your Routine"
 description: "Compare Fisher, Trapper, Angler, Pirate, Mariner, and Luremaster by the kind of fishing you enjoy and the reward you want."
 pubDate: 2026-10-24
-updatedDate: 2026-10-24
+updatedDate: 2026-10-25
 category: "Fishing"
 tags: ["professions", "fisher", "trapper", "angler"]
 ---
@@ -60,12 +60,20 @@ If you frequently leave harvested pots unbaited, removing junk does not fix that
 
 Remember that unwanted output can also have a use. Our [recycling guide](/guides/recycling-machine-guide/) explains the resource route, which may affect how strongly you value removing junk.
 
-## Make the choice from a recent week, not a distant plan
+## You can change the profession later
 
-Look at your last several in-game days. How often did you fish with a rod? How many pots did you maintain? Did you sell fish, keep them for cooking, or spend the sessions pursuing collections?
+The Statue of Uncertainty in the Sewers lets you reselect one skill's professions for **10,000g**. Sewer access normally follows the Rusty Key from sixty Museum donations. Pay, choose Fishing, then select the new level-five and eligible level-ten professions in the menus after going to bed.
 
-Choose the benefit that aligns with those answers, or with a specific change you are ready to make now. Avoid reorganizing the entire farm solely to justify a choice made for an imaginary future routine.
+The important timing detail: the old profession bonuses disappear as soon as the change is selected. They do not remain active until the replacement menus. Items shipped on that changeover day do not receive the old sale bonus. The [Sewers reference](https://stardewvalleywiki.com/The_Sewers#Statue_Of_Uncertainty) explains the sequence.
 
-If rod fishing is frustrating, a profession bonus is not the first control fix. Use our [bait and tackle guide](/guides/bait-and-tackle-guide/) to address the actual catch problem before judging the activity's rewards.
+If selling a valuable catch with your current bonus matters, complete that direct sale before changing, or hold the goods until the desired replacement is active the following day. Do not pay and then assume the old Angler price still applies to tonight's shipping pile.
 
-**References:** profession branches and effects checked against the [Fishing Wiki entry](https://wiki.stardewvalley.net/Fishing) on 24 October 2026. The income comparison and decision framework are our explanation for unmodded 1.6, not a simulation of every sale modifier.
+### Decide whether changing pays for your goal
+
+At base prices, Angler adds 25 percentage points of fish value compared with Fisher: 50% instead of 25%. To compare that difference with a 10,000g fee, divide 10,000 by 0.25: **40,000g of base fish sales** would generate that much extra relative to Fisher, ignoring rounding and other modifiers.
+
+That calculation applies to that particular bonus comparison. Switching from Pirate also gives up treasure benefits; switching pot branches changes chores rather than simply adding sale percentage. Do not treat the forty-thousand figure as a universal respec payback rule.
+
+A player who moved from daily fishing to a permanent pot route can reasonably pay for convenience without expecting the fee to appear as direct revenue. Someone who dislikes the minigame should first address [control and equipment](/guides/bait-and-tackle-guide/) instead of paying for a profession they still will not use.
+
+**Review:** 25 October 2026. Profession branches follow the [Fishing reference](https://wiki.stardewvalley.net/Fishing); changeover timing follows the linked Sewers entry. Calculations omit rounding and other sale modifiers.

@@ -2,7 +2,7 @@
 title: "Your First Week: A Spring 1–7 Plan"
 description: "A day-by-day plan for a new Standard Farm: plant Parsnips, get a fishing rod, visit the mines, and leave money for later purchases."
 pubDate: 2026-10-21
-updatedDate: 2026-10-24
+updatedDate: 2026-10-25
 category: "Getting Started"
 tags: ["first week", "beginner", "spring", "walkthrough"]
 ---
@@ -26,7 +26,7 @@ On the Standard Farm, start with the 15 Parsnip Seeds and a small cleared patch.
 
 ## Day 2 (Spring 2): Willy's free gift
 
-- **Head to the beach south of town.** Willy gives you a **Bamboo Pole for free** the first time you visit him. Fishing is the fastest early-game money in the game.
+- **Head to the beach south of town.** Willy gives you a **Bamboo Pole for free** the first time you visit him. Fishing can supply income between crop harvests if you are landing catches reliably.
 - **Fish until your energy runs low.** Almost anything you catch sells for decent gold, and every catch raises your Fishing level.
 - **Water your Parsnips.** Missing a day simply delays growth by a day — annoying, but not fatal.
 
@@ -42,31 +42,31 @@ Check the TV in your house each morning — the weather forecast tells you wheth
 
 ## Day 4 (Spring 4): reinvest
 
-- **Buy more seeds from Pierre.** Potato Seeds (50g, 6 days, sells for 80g and sometimes yields an extra potato) and Kale Seeds (70g, 6 days, sells for 110g) are the two best uses of your first few hundred gold.
+- **Buy more seeds from Pierre.** Potato Seeds (50g, 6 days, sells for 80g and sometimes yields an extra potato) and Kale Seeds (70g, 6 days, sells for 110g) are two options for a modest reinvestment. Keep the field within your watering capacity.
 - **Keep fishing and foraging** with whatever energy you have left after watering.
 
-Our [Spring crop guide](/guides/spring-crop-guide/) compares profit-per-day for every Spring crop if you want to optimize this step.
+Our [Spring crop guide](/guides/spring-crop-guide/) compares common seed prices and growing times before your next purchase.
 
 ## Day 5 (Spring 5): the mines open
 
-- **Harvest your Parsnips** (planted on Day 1, ready on Day 5 — 15 × 35g = 525g shipped overnight) and reinvest in more seeds.
+- **Harvest your Parsnips** (planted on Day 1, ready on Day 5 — 15 normal-quality Parsnips would sell for 525g before bonuses; reserve needed copies first) and reinvest in more seeds.
 - **The rockslide blocking the mines is cleared.** Head to the mountains, grab your first ![Copper Ore](/images/items/copper-ore.png) ores and ![Geode](/images/items/geode.png) geodes, and don't push deeper than you can safely climb back. Leveling Mining gives you gems, metal for tool upgrades, and bundles for the Community Center. The full routine is in our [mining guide for beginners](/guides/mining-guide-beginners/).
-- **Visit the Community Center** in northern Pelican Town. From Spring 5 onward, enter town from the Bus Stop between 8am and 1pm on a non-rainy day to trigger its introduction. Its request list ([the Community Center guide](/guides/community-center-guide/) explains every bundle) quietly shapes your first year — it's why you should keep some fish, crops, and forage instead of selling everything.
+- **Visit the Community Center** in northern Pelican Town. From Spring 5 onward, enter town from the Bus Stop between 8am and 1pm on a non-rainy day to trigger its introduction. Its request list ([the Community Center guide](/guides/community-center-guide/) explains room rewards and seasonal priorities) quietly shapes your first year — it's why you should keep some fish, crops, and forage instead of selling everything.
 
 ## Days 6–7 (Spring 6–7): build the routine
 
-By now you have the rhythm every experienced farmer runs on:
+Try this order for the next few mornings:
 
 1. **Water crops** first thing.
 2. **Spend leftover energy** on one focus — fishing, mining, or foraging.
 3. **Talk to villagers** you pass on the way; gifts are cheap and friendship pays off later.
-4. **Ship everything** in the bin by 2am and sleep before midnight for a full energy bar.
+4. **Sort before selling:** keep bundle items, seeds, food, and crafting materials. Ship the sale portion, then leave enough time to sleep; exhaustion can affect recovery.
 
 This week also buys you **food for the mines**, a first stack of geodes to crack open at the Blacksmith, and — most importantly — savings.
 
 ## Save for the Egg Festival (Spring 13)
 
-The Egg Festival is Pierre's market day in the square, and a useful investment opportunity of early Spring: **Strawberry Seeds for 100g each**. Strawberries regrow every 4 days for the rest of the season, making them by far the highest-profit Spring crop. Aim to leave your first week with **at least 1,000g** so you can buy ten seeds on the 13th — the more you can spend that day, the richer you'll be by Summer.
+The Egg Festival is Pierre's market day in the square, and a useful investment opportunity of early Spring: **Strawberry Seeds for 100g each**. Strawberries take eight days for their first harvest, then regrow every four days. Ten packets cost **1,000g**. Reserve that amount if it fits alongside food and other purchases; buying more also commits you to more watering. With no speed bonus and daily watering, planting on Spring 13 allows harvests on Spring 21 and 25.
 
 ## Your first-week checklist
 
@@ -74,7 +74,7 @@ The Egg Festival is Pierre's market day in the square, and a useful investment o
 2. Get the Bamboo Pole and reach Fishing level 2.
 3. Enter the mines and bring back Copper Ore.
 4. Reinvest some earnings into seeds, keeping money for food and festival purchases.
-5. Stash 1,000g+ for Strawberry seeds.
+5. If Strawberries fit your plan, reserve up to your chosen seed budget before Spring 13.
 6. Peek inside the Community Center and start saving bundle items.
 
 ## After the first harvest
@@ -83,4 +83,4 @@ Keep watering what is planted, try a few fishing sessions, and make a short mine
 
 ## References and scope
 
-This route assumes the Standard Farm, standard bundles, and an unmodded 1.6 game. Other farm types can have different starting gifts. See the [Wiki weather reference](https://stardewvalleywiki.com/Weather), [Community Center entry conditions](https://stardewvalleywiki.com/Community_Center), and [Spring Onions](https://stardewvalleywiki.com/Spring_Onion). Corrected on 23 October 2026: weed cutting, forage values, Community Center location and entry conditions, and mine supplies.
+This route assumes the Standard Farm, standard bundles, and an unmodded 1.6 game. Other farm types can have different starting gifts. See the [Wiki weather reference](https://stardewvalleywiki.com/Weather), [Community Center entry conditions](https://stardewvalleywiki.com/Community_Center), and [Spring Onions](https://stardewvalleywiki.com/Spring_Onion). The spending and harvest examples assume daily watering, normal-quality base sales, and no growth bonuses. Reviewed 25 October 2026.
